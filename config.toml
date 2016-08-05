@@ -1,3 +1,6 @@
 baseurl = "http://johng.de"
 languageCode = "en-us"
 title = "John's Travel Blog"
+
+[Params]
+Author = "John Henri"
