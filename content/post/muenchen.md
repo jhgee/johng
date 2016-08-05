@@ -1,6 +1,6 @@
 +++
 date = "2016-08-05T22:56:28+02:00"
-draft = true
+draft = false
 title = "München"
 
 +++
@@ -10,9 +10,13 @@ title = "München"
 - Außreichende Verpflegung
 
 # Englischer Garten
+![Englischer Garten](/images/2016-08-04_Englischer-Garten.jpg)
+
 - Bestes Wetter
 - Physiker Kommilitonen
 
 # Waldwirtschaft im Isartal
+![Friends at Waldwirtschaft](/images/2016-08-04_Waldwirtschaft.jpg)
+
 - Super schöner Biergarten
 - Großes Picknick
