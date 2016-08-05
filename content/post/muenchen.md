@@ -1,12 +1,13 @@
 +++
 date = "2016-08-05T22:56:28+02:00"
 draft = true
-title = "muenchen"
+title = "München"
 
 +++
 
 # Zugfahrt nach München
-- Merkwürdige Menschen
+- Eigenartige Menschen im Zugabteil - zu viele Informationen
+- Außreichende Verpflegung
 
 # Englischer Garten
 - Bestes Wetter
