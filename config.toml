@@ -1,4 +1,4 @@
-baseurl = "http://johng.de"
+baseurl = "http://johng.de/"
 languageCode = "en-us"
 title = "John's Travel Blog"
 theme = "robust"
