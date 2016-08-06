@@ -8,7 +8,7 @@ title = "Tegernsee"
 Bei sehr schönen Wetter in München gestartet und nur leichte Kleidung gewählt. 
 
 Mit der BOB, der Bayrischen Oberland Bahn, fahren wir bis zum Schliersee. 
-Mit uns steigen einige weitere Wanderlustige aus und an der großen Karte direkt am Bahnhof, steht eine Frau der Touristeninfornation mit nützlichen Informationen und einigen Karten zur Seite. 
+Mit uns steigen einige weitere Wanderlustige aus und an der großen Karte direkt am Bahnhof steht eine Frau der Touristeninformation mit nützlichen Informationen und einigen Karten zur Seite. 
 
 ![Weg planen](/images/2016-08-06_01Weg-planen.jpg)
 
