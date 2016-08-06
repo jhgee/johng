@@ -13,7 +13,7 @@ title = "München"
 ![Englischer Garten](/images/2016-08-04_Englischer-Garten.jpg)
 
 - Bestes Wetter
-- Physiker KommilitonInnen
+- Physiker Kommilitonen
 
 # Waldwirtschaft im Isartal
 ![Friends at Waldwirtschaft](/images/2016-08-04_Waldwirtschaft.jpg)
