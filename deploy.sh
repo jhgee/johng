@@ -3,6 +3,9 @@
 # Pull last revision
 git pull
 
+# Hugo
+hugo
+
 # Load server configuration
 source config.sh
 
