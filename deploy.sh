@@ -10,4 +10,4 @@ hugo
 source config.sh
 
 # Deploy to production
-lftp sftp://$USER:$PASS@$HOST  -e "set ftp:ssl-allow no; mirror  --reverse -e -R $SOURCEFOLDER $TARGETFOLDER --verbose; bye"
+lftp sftp://$USER:$PASS@$HOST  -e "ssl:verify-certificate false; mirror  --reverse -e -R $SOURCEFOLDER $TARGETFOLDER --verbose; bye"
