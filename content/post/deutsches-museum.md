@@ -1,12 +1,12 @@
 +++
 date = "2016-08-05"
-draft = true
+draft = false
 title = "Deutsches Museum München"
 image = "2016-08-05_Geigen.jpg"
 +++
 
 Aufgrund von schauerlichem Wetter mit Dauerregen, 
-gehen L und ich in das Deutsche Museum München. 
+gehen L und ich in das **Deutsche Museum München**. 
 
 # Museum
 Wir müssen in der Kassenschlange noch einige Zeit
