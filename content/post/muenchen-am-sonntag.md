@@ -1,6 +1,6 @@
 +++
 date = "2016-08-07"
-draft = true
+draft = false
 title = "München am Sonntag"
 image = "2016-08-07_Englischer-Garten-Frauenkirche.jpg"
 +++
