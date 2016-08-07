@@ -46,7 +46,7 @@ Dieser wurde vor das Klavier geschoben und konnte dann von der Rolle Stücke abs
 Dabei wurden sowohl die Dynamik der Musik, 
 als auch die Pedale vom Automaten gesteuert.  
 
-[Phonoliszt Violina](/images/2016-08-05_Phonoliszt-Violina.jpg)
+![Phonoliszt Violina](/images/2016-08-05_Phonoliszt-Violina.jpg)
 Der aufwendigste und teuerste Automat der Ausstellung, der wohl auch 
 nur an ganz exquisiten Orten, wie zB der Titanic, aufgestellt wurde, 
 war der Höhepunkt der Ausstellung. Der Automat heißt **Phonoliszt Viola** 
