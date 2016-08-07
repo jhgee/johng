@@ -39,7 +39,7 @@ eine Feder, die einen Metallkamm anzupfen und somit eine Melodie spielen.
 ![Klavierautomat](/images/2016-08-05_Klavierautomat.jpg)
 
 Wenn man zwar genug Geld besaß, sich ein 
-Klavier zu kaufeb, aber nicht selbständig 
+Klavier zu kaufen, aber nicht selbständig 
 spielen konnte, gab es die Möglichkeit, sich einen pneumatisch betriebenen 
 Klavierautomaten zu kaufen. 
 Dieser wurde vor das Klavier geschoben und konnte dann von der Rolle Stücke abspielen. 
@@ -49,13 +49,13 @@ als auch die Pedale vom Automaten gesteuert.
 [Phonoliszt Violina](/images/2016-08-05_Phonoliszt-Violina.jpg)
 Der aufwendigste und teuerste Automat der Ausstellung, der wohl auch 
 nur an ganz exquisiten Orten, wie zB der Titanic, aufgestellt wurde, 
-war dee Höhepunkt der Ausstellung. Der Automat heißt **Phonoliszt Viola** 
+war der Höhepunkt der Ausstellung. Der Automat heißt **Phonoliszt Viola** 
 und beherbergt mehrere Geigen und ein Klavier, die zusammen voll automatisch
 musizieren. 
 
 Nachdem wir festgestellt haben, dass es draußen immernoch regnet,
 setzten wir den Museumsbesuch bis zur Schließung um 17 Uhr fort,
-ohne befürchten zu müssen vom Wetter etwas zu verpassen. 
+ohne befürchten zu müssen, vom Wetter etwas zu verpassen. 
 
 # Olympiapark
 
