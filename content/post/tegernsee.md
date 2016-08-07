@@ -1,7 +1,7 @@
 +++
 date = "2016-08-06T13:00:00+02:00"
 draft = false
-title = "Tegernsee"
+title = "Wanderung zum Tegernsee"
 image = "2016-08-06_03Tegernsee.jpg"
 +++
 
