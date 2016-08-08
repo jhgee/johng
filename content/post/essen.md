@@ -69,7 +69,8 @@ in Essen essen.
 Wer noch nicht so fit mit Verwandtschaftsbeziehungen ist,
 dem kann ich folgende Grafik von Wikipedia 
 nur empfehlen.
-Mir hat diese Übersichr sehr geholfen!
+Mir hat diese Übersicht sehr geholfen!
 
-![Verwandtschaftsbeziehungen](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/European_kinship_system_de.svg/440px-European_kinship_system_de.svg.png)
+![Verwandtschaftsbeziehungen](https://upload.wikimedia.org/wikipedia/commons/f/ff/European_kinship_system_de.svg)
+
 
