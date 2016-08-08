@@ -51,3 +51,25 @@ Bei der Gelegenheit,
 jemanden von der Lufthansa am Apparat zu haben, 
 buche ich auch gleich noch ein Rail & Fly Ticket 
 für die Rücktour mit der Bahn in 6 Wochen. 
+
+Der IC nach Essen ist angenehm leer, 
+sodass ich mir ein 5er-Abteil nur mit einem 
+älteren Ehepaar bis Paderborn teile, 
+um danach das Abteil sogar gang für mich 
+alleine zu haben 
+- Zeit die Füße auszustrecken. 
+
+In Essen bin ich bei meiner Großtante I
+und meinem Großonkel 2. Grades R. 
+Wir gehen abends zusammen mit meiner 
+Tante 3. Grades K und ihren Kindern, 
+meine Cousine und Cousin 3. Grades, 
+in Essen essen. 
+
+Wer noch nicht so fit mit Verwandtschaftsbeziehungen ist,
+dem kann ich folgende Grafik von Wikipedia 
+nur empfehlen.
+Mir hat diese Übersichr sehr geholfen!
+
+![Verwandtschaftsbeziehungen](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/European_kinship_system_de.svg/440px-European_kinship_system_de.svg.png)
+
