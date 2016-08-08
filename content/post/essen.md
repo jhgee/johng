@@ -1,6 +1,6 @@
 +++
 date = "2016-08-08"
-draft = true
+draft = false
 title = "Zwischenstopp in Essen"
 image = "2016-08-08_Zugabteil.jpg"
 +++
