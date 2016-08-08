@@ -2,7 +2,7 @@
 date = "2016-08-08"
 draft = true
 title = "Zwischenstopp in Essen"
-image = ""
+image = "2016-08-08_Zugabteil.jpg"
 +++
 
 Heute trete ich meine große Reise an, mit 
@@ -59,18 +59,37 @@ um danach das Abteil sogar gang für mich
 alleine zu haben 
 - Zeit die Füße auszustrecken. 
 
-In Essen bin ich bei meiner Großtante I
+In Essen bin ich bei meiner Großtante 2. Grades I
 und meinem Großonkel 2. Grades R. 
 Wir gehen abends zusammen mit meiner 
-Tante 3. Grades K und ihren Kindern, 
-meine Cousine und Cousin 3. Grades, 
+Tante 3. Grades K und Onkel 3. Grades B
 in Essen essen. 
 
-Wer noch nicht so fit mit Verwandtschaftsbeziehungen ist,
+![Drago](/images/2016-08-08_Drago.jpg)
+
+Im Drago Restaurant *Zornige Ameise* 
+sitzen wir draußen in einem sehr großen überdachten Außenbereich. 
+Anders als an einem Werkstag wie Montag zu erwarten wäre,
+ist das Restaurant sehr gut besucht und kaum Tische frei. 
+
+Ich habe einen sehr leckeren 
+und unterhaltsamen Abend mit interessanten Gesprächen. 
+Ich verstehe mich auf Anhieb sehr
+gut mit K und B, die ich heute das erste
+Mal treffe. 
+Es ist schön, auch mal entferntere Verwandte
+kennen zu lernen. 
+
+Zu Hause bei I und R lassen ich den Abend 
+mit den beiden bei einem Getränk und 
+einer netten Unterhaltung ausklingen. 
+
+------
+
+Wer noch nicht so fit mit Verwandtschaftsbeziehungen ist
+und auf der nächsten Geoßfamilienfeier glänzen möchte,
 dem kann ich folgende Grafik von Wikipedia 
 nur empfehlen.
-Mir hat diese Übersicht sehr geholfen!
 
 ![Verwandtschaftsbeziehungen](https://upload.wikimedia.org/wikipedia/commons/f/ff/European_kinship_system_de.svg)
-
 
