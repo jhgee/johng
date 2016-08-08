@@ -5,20 +5,21 @@ title = "Zwischenstopp in Essen"
 image = "2016-08-08_Zugabteil.jpg"
 +++
 
-Heute trete ich meine große Reise an, mit 
-dem heutigen Zwischenziel Essen. 
+Heute trete ich meine große Reise an,
+wobei das Zwischenziel heute zunächst Essen ist. 
 
 Ich starte den Tag mit dem Erledigen der 
-letzten Vorbereitungen. 
+letzten Vorbereitungen:
 Zusammenstellen der wichtigsten Dokumente,
 Besorgen von Reiseproviant und Auswahl der letzten Gepäckstücke. 
 
 ![Gepäck](/images/2016-08-08_Gepaeck.jpg)
 
-Vorbereitet sieht mein Gepäck dann in etwa so aus. Das Puzzeln der Stücke in den Rucksack 
-stellt die letzte Herausforderung.
-Nach einigen Iterationen finde ich eine geeignete Lösung,
-sodass ich nun vor der Fahrt mit L entspannt etwas essen kann. 
+Vorbereitet sieht mein Gepäck dann in etwa so aus. Das Puzzeln der einzelnen Stücke in den Rucksack 
+stellt die letzte Herausforderung dar.
+Nach einigen Iterationen finde ich eine gute Lösung,
+sodass ich mit L entspannt etwas essen kann,
+bevor die Zufahrt beginnt. 
 
 Den Online Check In erledige ich noch zu Hause, 
 wobei mir leider nicht die Bestätigung 
@@ -33,9 +34,9 @@ am Düsseldorfer Hauptbahnhof zu erkundigen.
 Ein freundlicher Mitarbeiter kümmert sich um 
 mein Anliegen. 
 Ich merke schnell: 
-Bei Flügen in die Staaten ist alles ein wenigkomplizierter. 
+Bei Flügen in die Staaten ist alles ein wenig komplizierter. 
 Es kann immer sein, dass per Zufallsgenerator,
-der von den USA verlangt wird,  
+dessen Einbau von den USA vorgeschrieben wird,  
 Steine in die normalen Prozesswege gelegt werden,  
 um Einzelfälle genauer zu überprüfen. 
 Ich bin wahrscheinlich einer dieser Fälle,
@@ -55,7 +56,7 @@ für die Rücktour mit der Bahn in 6 Wochen.
 Der IC nach Essen ist angenehm leer, 
 sodass ich mir ein 5er-Abteil nur mit einem 
 älteren Ehepaar bis Paderborn teile, 
-um danach das Abteil sogar gang für mich 
+um danach das Abteil sogar ganz für mich 
 alleine zu haben 
 - Zeit die Füße auszustrecken. 
 
@@ -77,11 +78,12 @@ und unterhaltsamen Abend mit interessanten Gesprächen.
 Ich verstehe mich auf Anhieb sehr
 gut mit K und B, die ich heute das erste
 Mal treffe. 
-Es ist schön, auch mal entferntere Verwandte
-kennen zu lernen. 
+Es ist für mich schön, 
+auch mal entferntere Verwandte kennen zu lernen, 
+die ich ansonsten nur sehr selten sehe. 
 
 Zu Hause bei I und R lassen ich den Abend 
-mit den beiden bei einem Getränk und 
+mit den beiden mit einem Getränk bei 
 einer netten Unterhaltung ausklingen. 
 
 ------
