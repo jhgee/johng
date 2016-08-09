@@ -90,3 +90,12 @@ intensiv untersucht.
 Wie ich es auf diese Liste geschafft habe,
 ist natürlich geheim...
 
+Das alles läuft jedoch absolut reibungslos ab,
+sodass ich bereits 20 Minuten nach der Ankunft 
+am Terminal ankomme und nun knapp drei Stunden warten kann. 
+
+![Boeing 747-400](/images/2016-08-09_Boeing-747-400.jpg)
+
+Inzwischen wird auch das Flugzeug mit dem ich fliegen werde bereit gestellt, eine Boeing 747-400 - großer Flieger!
+
+
