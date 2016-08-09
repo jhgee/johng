@@ -92,7 +92,7 @@ ist natürlich geheim...
 
 Das alles läuft jedoch absolut reibungslos ab,
 sodass ich bereits 20 Minuten nach der Ankunft 
-am Terminal ankomme und nun knapp drei Stunden warten kann. 
+am Gate ankomme und nun knapp drei Stunden warten kann. 
 
 ![Boeing 747-400](/images/2016-08-09_Boeing-747-400.jpg)
 
