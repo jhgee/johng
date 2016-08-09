@@ -89,7 +89,7 @@ einer netten Unterhaltung ausklingen.
 ------
 
 Wer noch nicht so fit mit Verwandtschaftsbeziehungen ist
-und auf der nächsten Geoßfamilienfeier glänzen möchte,
+und auf der nächsten Großfamilienfeier glänzen möchte,
 dem kann ich folgende Grafik von Wikipedia 
 nur empfehlen.
 
