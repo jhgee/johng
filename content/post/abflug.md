@@ -117,6 +117,11 @@ Service der Lufthansa sein,
 von der man so viel hört!
 Dazu scheint dann auch das Porzellangeschirr und das Metallbesteck zu gehören. 
 
+Federkissen
+
+leichte übelkeit
+
+unappetitliche Pizza Snack
 
 
 
