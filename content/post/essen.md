@@ -22,7 +22,7 @@ sodass ich mit L entspannt etwas essen kann,
 bevor die Zufahrt beginnt. 
 
 Den Online Check In erledige ich noch zu Hause, 
-wobei mir leider nicht die Bestätigung 
+wobei mir leider nicht die Bordkarte 
 ausgestellt wird. Darum werde ich mich dann
 später kümmern.
 
@@ -40,7 +40,7 @@ dessen Einbau von den USA vorgeschrieben wird,
 Steine in die normalen Prozesswege gelegt werden,  
 um Einzelfälle genauer zu überprüfen. 
 Ich bin wahrscheinlich einer dieser Fälle,
-sodass bei mir nach den Online Check In kein Ticket 
+sodass bei mir nach den Online Check In keine Bordkarte 
 ausgestellt wird, sondern erst später nach 
 erneuter Identifikation am Schalter. 
 
