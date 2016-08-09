@@ -89,7 +89,7 @@ auf die Karte wird "SSSS" gedruckt und
 werden in den Sicherheitskontrollen besonders 
 intensiv untersucht. 
 Wie ich es auf diese Liste geschafft habe,
-ist natürlich geheim...
+ist natürlich geheim.
 
 Das alles läuft jedoch absolut reibungslos ab,
 sodass ich bereits 20 Minuten nach der Ankunft 
@@ -115,6 +115,8 @@ alle Passagiere heiße Waschlappen ausgeteilt,
 um sich zu erfrischen oder einfach nur die Hände zu reinigen - das muss dieser bessere 
 Service der Lufthansa sein, 
 von der man so viel hört!
+Dazu scheint dann auch das Porzellangeschirr und das Metallbesteck zu gehören. 
+
 
 
 
