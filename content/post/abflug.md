@@ -48,3 +48,45 @@ Wie sich nach der Kontrolle der Mitreisenden
 herausstellt, bin ich nicht der einzige,
 bei dem es Probleme gab. 
 
+Die Ankunft mit der Bahn am 
+Frankfurter Flughafen ist sehr entspannt. 
+Der Waggon für Lufthansa Passagiere hält
+direkt vor der Rolltreppe, sodass ich 
+super schnell am Check In Schalter ankomme. 
+Ich verstaue meinen Rucksack zum Schutz
+in einem Synthetiksack und gebe ihn so 
+verpackt auf. 
+Er wiegt nur 13.5 kg und das obwohl ich 
+nicht die schweren Wanderschuhe angezogen 
+sondern in den Rucksack eingepackt habe. 
+Mein Gepäck bin ich 10 Minuten nach Ankunft
+in Frankfurt los. 
+
+Ich laufe zum Terminal und gehe zur Sicherheitskontrolle. 
+Aufmerksam werde ich, als die Dame
+am Schalter meinen Pass in die Hand nimmt
+und ab nun persönlich 
+weiter führt. 
+Vorbei an der Bundespolizei, 
+wo ich wahrscheinlich in Deutschland abgemeldet werde,
+geht sie mit mir zur Gepäck- und Personenkontrolle.
+Dort stellt sie mich als Selectee vor,
+was mir absolut kein Begriff ist.
+Der kontrollierende Mitarbeiter erklärt mir,
+dass ich auf einer speziellen Liste stehe
+und deshalb gesondert kontrolliert werde. 
+
+Wie ich recherchiert habe heißt diese Liste
+[Secondary Security Screening Selection](https://en.m.wikipedia.org/wiki/Secondary_Security_Screening_Selection)
+oder auch kurz **SSSS**, 
+was auch auf meiner Boardkarte steht, 
+und wird von den USA erstellt.
+Personen die auf dieser Liste stehen 
+können online zum Beispiel keine Boardkarte 
+erhalten, das habe ich schon gemerkt, 
+auf die Karte wird "SSSS" gedruckt und 
+werden in den Sicherheitskontrollen besonders 
+intensiv untersucht. 
+Wie ich es auf diese Liste geschafft habe,
+ist natürlich geheim...
+
