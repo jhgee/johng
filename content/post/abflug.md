@@ -106,3 +106,15 @@ Inzwischen wird auch das Flugzeug mit dem ich fliegen werde bereit gestellt, ein
 ![Beinfreiheit](/images/2016-08-09_Beinfreiheit.jpg)
 
 Trommelwirbel - Beinfreiheit! :-)
+
+Sobald wor die Reiseflughöhe erreicht haben,
+gibt es wie üblich Getränke und
+kleine Brezel als Snack. 
+Überraschenderweise für mich werden danach für 
+alle Passagiere heiße Waschlappen ausgeteilt,
+um sich zu erfrischen oder einfach nur die Hände zu reinigen - das muss dieser bessere 
+Service der Lufthansa sein, 
+von der man so viel hört!
+
+
+
