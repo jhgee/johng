@@ -12,7 +12,7 @@ meiner Deutschlandtour mit der Deutschen Bahn an.
 Zusammen mit I und R habe ich morgens 
 ein leckeres Frühstück. 
 
-![Gruppenbild R, J und I](2016-08-09_Gruppenbild-RJI.jpg)
+![Gruppenbild R, J und I](/images/2016-08-09_Gruppenbild-RJI.jpg)
 
 Nach dem Essen setzen wir uns noch aufs Sofa 
 und unterhalten uns ein wenig. 
@@ -31,12 +31,12 @@ Strecke geschuldet ist.
 Der Regio von Essen nach Düsseldorf 
 ist relativ voll, bringt mich aber pünktlich nach Düsseldorf. 
 
-[Fliegender Zug](/images/2016-08-09_Fliegender-Zug.jpg)
+![Fliegender Zug](/images/2016-08-09_Fliegender-Zug.jpg)
 
 Dass es Züge mit Flugnummern war mir bis zu
 dieser Reise auch neu!
 
-[Leeres Zugabteil](/images/2016-08-09_leerer-Zug.jpg)
+![Leeres Zugabteil](/images/2016-08-09_leerer-Zug.jpg)
 
 Das von Lufthansa komplett reservierte Abteil
 ist ziemlich leer. 
