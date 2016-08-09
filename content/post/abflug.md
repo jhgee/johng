@@ -95,6 +95,10 @@ Das alles läuft jedoch absolut reibungslos ab,
 sodass ich bereits 20 Minuten nach der Ankunft 
 am Gate ankomme und nun knapp drei Stunden warten kann. 
 
+![Zeitungsregal](/images/2016-08-09_Zeitungen.jpg)
+
+Die Wartezeit lässt sich gut mit einem der vielen Zeitungen überbrücken. 
+
 ![Boeing 747-400](/images/2016-08-09_Boeing-747-400.jpg)
 
 Inzwischen wird auch das Flugzeug mit dem ich fliegen werde bereit gestellt, eine Boeing 747-400 - großer Flieger!
