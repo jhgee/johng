@@ -105,4 +105,4 @@ Inzwischen wird auch das Flugzeug mit dem ich fliegen werde bereit gestellt, ein
 
 ![Beinfreiheit](/images/2016-08-09_Beinfreiheit.jpg)
 
-Trommelwirbel... Beinfreiheit! :smiley: 
+Trommelwirbel - Beinfreiheit! :-)
