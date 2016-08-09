@@ -103,4 +103,6 @@ Die Wartezeit lässt sich gut mit einem der vielen Zeitungen überbrücken.
 
 Inzwischen wird auch das Flugzeug mit dem ich fliegen werde bereit gestellt, eine Boeing 747-400 - großer Flieger!
 
+![Beinfreiheit](/images/2016-08-09_Beinfreiheit.jpg)
 
+Trommelwirbel... Beinfreiheit! :smiley: 
