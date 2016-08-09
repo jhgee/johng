@@ -1,6 +1,6 @@
 +++
 date = "2016-08-09"
-draft = true
+draft = false
 title = "Flug nach Amerika"
 image = "2016-08-09_Flieger.jpg"
 +++
@@ -9,7 +9,8 @@ Heute geht es nun über den großen Teich.
 Dafür trete ich zunächst den letzten Abschnitt 
 meiner Deutschlandtour mit der Deutschen Bahn an. 
 
-Zusammen mit I und R habe ich am morgen leckeres Frühstück. 
+Zusammen mit I und R habe ich morgens 
+ein leckeres Frühstück. 
 
 ![Gruppenbild R, J und I](2016-08-09_Gruppenbild-RJI.jpg)
 
