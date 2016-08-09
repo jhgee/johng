@@ -2,7 +2,7 @@
 date = "2016-08-09"
 draft = true
 title = "Flug nach Amerika"
-image = ""
+image = "2016-08-09_Flieger.jpg"
 +++
 
 Heute geht es nun über den großen Teich. 
