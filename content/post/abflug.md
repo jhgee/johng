@@ -43,7 +43,8 @@ ist ziemlich leer.
 
 Der Schaffnerin kann ich bei der Fahrtkartenlontrolle
 dann erstmal meine Geschichte erzählen. 
-Sie verstünde die Aussage des Lufthansamitarbeiters zwar nicht gibt sich 
+Sie verstünde die Aussage des Lufthansamitarbeiters 
+zwar nicht gibt sich 
 aber mit meiner Buchungsbestätigung zufrieden. 
 Wie sich nach der Kontrolle der Mitreisenden 
 herausstellt, bin ich nicht der einzige,
@@ -101,27 +102,50 @@ Die Wartezeit lässt sich gut mit einem der vielen Zeitungen überbrücken.
 
 ![Boeing 747-400](/images/2016-08-09_Boeing-747-400.jpg)
 
-Inzwischen wird auch das Flugzeug mit dem ich fliegen werde bereit gestellt, eine Boeing 747-400 - großer Flieger!
+Inzwischen wird auch das Flugzeug mit dem ich fliegen 
+werde bereit gestellt, eine Boeing 747-400 - großer Flieger!
 
 ![Beinfreiheit](/images/2016-08-09_Beinfreiheit.jpg)
 
 Trommelwirbel - Beinfreiheit! :-)
 
+Um ca 18:15 heben wir ab. 
+
 Sobald wor die Reiseflughöhe erreicht haben,
 gibt es wie üblich Getränke und
 kleine Brezel als Snack. 
-Überraschenderweise für mich werden danach für 
+Überraschenderweise werden danach für 
 alle Passagiere heiße Waschlappen ausgeteilt,
-um sich zu erfrischen oder einfach nur die Hände zu reinigen - das muss dieser bessere 
+um sich zu erfrischen oder einfach nur die Hände zu reinigen - 
+das muss dieser bessere 
 Service der Lufthansa sein, 
 von der man so viel hört!
-Dazu scheint dann auch das Porzellangeschirr und das Metallbesteck zu gehören. 
+Dazu scheint dann auch das Porzellangeschirr, 
+das Metallbesteck und die Federkissen zu gehören. 
 
-Federkissen
+Während des Fluges habe ich Kopfschmerzen 
+und fühle mich leicht unwohl. 
+Den etwas
+unappetitlichen Pizza Snack lasse ich in
+dem Zustand dann lieber weg. 
 
-leichte übelkeit
+Um 1:30 deutscher/ 19:30 bostoner Zeit 
+landet das Flugzeug. 
 
-unappetitliche Pizza Snack
+Nachdem ich meine Fingerabdrücke abgegeben
+und mein Gepäck abgeholt habe, erwartet mich 
+T in der Ankunftshalle. 
 
+Mit den Öffentlichen Verkehr fahren wir zu C, einem Freund
+von T, bei dem wir übernachten können.
+C ist als PhD am MIT in Cambridge, 
+kommt auch aus Deutschland
+und war vor einiger Zeit bei T an der Ostküste 
+als Couchsurfer zu Besuch. 
 
+Wir essen was, machen noch einen kleinen Spaziergang
+in der Gegend und gehen durch die Gebäude des MITs. 
+
+Froh nun endlich sicher und gesund angekommen
+zu sein, schlafe ich meine erste Nacht in den Staaten. 
 
