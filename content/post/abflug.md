@@ -123,11 +123,11 @@ von der man so viel hört!
 Dazu scheint dann auch das Porzellangeschirr, 
 das Metallbesteck und die Federkissen zu gehören. 
 
-Während des Fluges habe ich Kopfschmerzen 
-und fühle mich leicht unwohl. 
+Während des Fluges habe ich nach einiger Zeit 
+Kopfschmerzen und fühle mich leicht unwohl. 
 Den etwas
 unappetitlichen Pizza Snack lasse ich in
-dem Zustand dann lieber weg. 
+dem Zustand dann auch lieber weg. 
 
 Um 1:30 deutscher/ 19:30 bostoner Zeit 
 landet das Flugzeug. 
