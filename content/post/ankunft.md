@@ -75,8 +75,21 @@ die zwischenzeitlichen Regenpausen sehr schön sind!
 Mit der U-Bahn fahren wir zum Campus der Harvard University. 
 
 ![Harvard Yard](/images/2016-08-10_Harvard.jpg)
+
 Im Harvard Yard sind trotz des Wetters 
 viele Touristen unterwegs. 
+
+![Widener Library](/images/2016-08-10_Widener-Library.jpg)
+
+Die Harry Elkins Widener Memorial Library
+ist das Hauptgebäude des Bibliotheksystems der Harvard University Library
+und ist mit 16,8 Millionen Bänden das größte Universitätsbibliotheksystem der Welt. 
+Sie beherbergt unter anderem eine zweibändige Papierausgabe der Guttenberg-Bibel. 
+
+![Campus](/images/2016-08-10_Campus.jpg)
+
+Auf dem Campus stehen viele kleinere Gebäude 
+relativ dicht zusammen. 
 
 ![Abbildung von Tieren](/images/2016-08-10_Animals.jpg)
 
@@ -86,6 +99,9 @@ ist mir bei unserem Rundgang über den Campus aufgefallen.
 
 Anders als ich vorher gedacht habe beim Gedanken an Harvard, 
 ist die Universität nicht außerhalb sondern direkt un der Stadt. 
+
+
+![Straßenszene](/images/2016-08-10_Flag.jpg)
 
 Zum Abend esse ich in einem italienischen
 Restaurant eine Spargel Pizza im Restaurant Cambridge 1 für 16$. Diese schmeckt auch ganz gut, obwohl der Kellner bei der Bestellung offensichtlich überrascht über die Speisewahl schien. 
