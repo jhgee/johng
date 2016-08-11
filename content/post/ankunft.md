@@ -17,7 +17,7 @@ in Richtung Boston.
 
 Auf der Harvard Bridge, die über den 
 Charles River führt, haben wir einen schönen 
-Blick auf die Skyline Bostons. 
+Blick auf die Skyline Boston und das heute nicht so schöne Wetter. 
 
 ![Street](/images/2016-08-10_Street.jpg)
 
