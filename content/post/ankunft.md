@@ -72,7 +72,7 @@ und finden sich nicht direkt neben so hohen Häusern, die hier zu sehen sind, wi
 Wir gehen zu Fuß weiter zum Hafen, wobei
 die zwischenzeitlichen Regenpausen sehr schön sind!
 
-Mit der Ubahn fahren wir zum Campus der Harvard University. 
+Mit der U-Bahn fahren wir zum Campus der Harvard University. 
 
 ![Harvard Yard](/images/2016-08-10_Harvard.jpg)
 Im Harvard Yard sind trotz des Wetters 
