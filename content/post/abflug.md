@@ -140,7 +140,7 @@ Mit den Öffentlichen Verkehr fahren wir zu C, einem Freund
 von T, bei dem wir übernachten können.
 C ist als PhD am MIT in Cambridge, 
 kommt auch aus Deutschland
-und war vor einiger Zeit bei T an der Ostküste 
+und war vor einiger Zeit bei T an der Westküste 
 als Couchsurfer zu Besuch. 
 
 Wir essen was, machen noch einen kleinen Spaziergang
