@@ -1,7 +1,7 @@
 +++
 date = "2016-08-12"
 draft = true
-title = "Boston vom Wasser aus"
+title = "Boston vom Wasser"
 image = "2016-08-12_Skyline2.jpg"
 categories = ["USA 2016", "Boston"]
 +++
@@ -25,7 +25,8 @@ um wenigstens kurz etwas erfrischt zu sein.
 
 ![Brunch](/images/2016-08-12_Brunch.jpg)
 
-Heute starten wir erst um 12 Uhr in den Tag
+Heute starten wir erst um 12 Uhr in den Tag,
+nachdem wir ausgeschlafen haben, 
 und gehen zu einem Diner, um etwas zu frühstücken. Da es bereits Mittags ist,
 könnte man es auch als Brunch bezeichnen. 
 
@@ -42,20 +43,21 @@ die
 statt. Ein Akt des Widerstandes gegen die
 Bostoner Kolonialpolitik, bei dem verkleidete
 Bostoner Bürger 342 Teekisten ins Wasser warfen. 
-Heute findet sich dort ein Museum. 
+Heute befindet sich dort ein Museum. 
 
 ![Rowes Wharf](/images/2016-08-12_Rowes-Wharf.jpg)
 
-Der kleine J vor der USA Flagge, die im 
+Der kleine John vor der USA Flagge, die im 
 Torbogen der  
 [Rowes Wharf](https://en.m.wikipedia.org/wiki/Rowes_Wharf)
 direkt am Hafen von Boston hängt. 
 
 Wir überlegen uns, dass eine Fahrt mit dem
-Schiff bei dem heute sehr schwülen Wetter
+Schiff bei dem heute wieder sehr schwülen Wetter
 ganz angenehm sein könnte. 
-Wir kaufen ein Ticket zu Spectacle Island
-(gut dass ich an den Studentenrabatt gedacht habe - 24$ anstatt44$ für zwei Studenten) 
+Wir kaufen ein Ticket für eine Fährfahrt 
+zu Spectacle Island
+(gut dass ich an den Studentenrabatt gedacht habe - 24$ anstatt 44$ für zwei Studenten) 
 und legen um 15:30 ab. 
 
 ![Skyline](/images/2016-08-12_Skyline.jpg)
@@ -106,11 +108,11 @@ viele Geschäfte und Restaurants.
 
 ## Résumé der ersten Tage
 
-Ich musste ich mich erstmal 
+Ich musste mich erstmal 
 ein wenig an das Land, die Zeitzone und den Reise Modus gewöhnen. Mit dem Wetter
 hatten wir im Prinzip Glück. 
 Der Regen und die extreme Schwüle sind jedoch
-ungewöhlich für Boston, sodass wir 
+eigentlivh ungewöhlich für Boston, sodass wir 
 in der Hinsicht ein wenig Pech hatten. 
 Der Roadtrip zum Cape Cod war super und
 dazu eine tolle Möglichkeit aus der Stadt 
