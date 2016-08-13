@@ -3,6 +3,7 @@ date = "2016-08-05"
 draft = false
 title = "Deutsches Museum München"
 image = "2016-08-05_Geigen.jpg"
+categories = ["München"]
 +++
 
 Aufgrund von schauerlichem Wetter mit Dauerregen,

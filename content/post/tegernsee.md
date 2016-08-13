@@ -3,6 +3,7 @@ date = "2016-08-06T13:00:00+02:00"
 draft = false
 title = "Wanderung zum Tegernsee"
 image = "2016-08-06_03Tegernsee.jpg"
+categories = ["München"]
 +++
 
 Bei sehr schönem Wetter in München sind wir in den Tag gestartet und haben nur leichte Kleidung gewählt, was sich später in den Bergen als etwas zu leicht erweisen sollte.

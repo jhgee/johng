@@ -3,6 +3,7 @@ date = "2016-08-07"
 draft = false
 title = "München am Sonntag"
 image = "2016-08-07_Englischer-Garten-Frauenkirche.jpg"
+categories = ["München"]
 +++
 
 Den letzten Tag in München nutzen L und ich,

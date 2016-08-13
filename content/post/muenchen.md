@@ -3,6 +3,7 @@ date = "2016-08-04"
 draft = false
 title = "Ankunft in München"
 image = "2016-08-04_Englischer-Garten.jpg"
+categories = ["München"]
 +++
 
 Für ein verlängertes Wochenende fahre ich mit L im Zug aus dem Norden
