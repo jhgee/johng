@@ -14,18 +14,17 @@ ein Auto reserviert haben.
 Morgens starten wir früh in den Tag,
 fahren um 8 Uhr nach Downtown, um das Auto
 abzuholen. 
-Wir bekommen ein Chevrolet Cruze
+Wir bekommen einen Chevrolet Cruze
 und starten unsere Tour in Richtung Süden. 
 
 ![Map](http://www.lonelyplanet.com/maps/north-america/usa/cape-cod/map_of_cape-cod.jpg)
 
-Ziel unseres Tagesausflugs mit dem Auto
+Ziel unseres Tagesausflugs
 ist das Cape Cod, eine beliebte Ferienregion. 
 
 ![Bass Hole Beach](/images/2016-08-11_Bass-Hole-Beach.jpg)
 
 Unser erster Stopp ist der Bass Hole Beach. 
-Das Wetter ist sehr sonnig und ziemlich warm. 
 In der Sonne ist es ziemlich warm 
 und hier zusätzlich auch noch recht schwül. 
 
@@ -33,17 +32,17 @@ und hier zusätzlich auch noch recht schwül.
 
 Unser nächstes Ziel ist der Marconi Beach,
 um uns dort im Wasser abzukühlen. Leider
-steht dort ein Schild, dass der Parkplatz bereits voll ist. 
+steht dort bereits ein Schild, dass der Parkplatz bereits voll sei. 
 Wir fahren zur daneben gelegenen Marconi Station. 
 Dort wurde das erste Funksignal über den Atlantik übertragen. 
 Heute ist dort außer einer Tafel und einigen
-Masten in der Gerend nicht mehr viel zu sehen. 
+Masten in der Gerend nicht viel zu sehen. 
 
 ![Seals](/images/2016-08-11_Seals.jpg)
 
 Da die Marconi Station an einem Steilufer liegt,
 kann man von oben den Strand überblicken,
-wo wir Robben in der Brandugg beobachten können. 
+wo wir Robben in der Brandung beobachten können. 
 
 ![Head od the meadow Beach](/images/2016-08-11_Head-Of-The-Meadow-Beach.jpg)
 
