@@ -3,6 +3,7 @@ date = "2016-08-09"
 draft = false
 title = "Flug nach Amerika"
 image = "2016-08-09_Flieger.jpg"
+categories = ["USA 2016"]
 +++
 
 Heute geht es nun über den großen Teich. 

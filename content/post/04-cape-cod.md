@@ -3,6 +3,7 @@ date = "2016-08-11"
 draft = false
 title = "Cape Cod"
 image = "2016-08-11_Bass-Hole-Beach.jpg"
+categories = ["USA 2016", "Boston"]
 +++
 
 Heute soll das Wetter im Gegensatz zum Vortag

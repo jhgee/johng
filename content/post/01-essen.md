@@ -3,6 +3,7 @@ date = "2016-08-08"
 draft = false
 title = "Zwischenstopp in Essen"
 image = "2016-08-08_Zugabteil.jpg"
+categories = ["USA 2016"]
 +++
 
 Heute trete ich meine große Reise an,

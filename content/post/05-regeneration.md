@@ -3,6 +3,7 @@ date = "2016-08-12"
 draft = true
 title = "Boston vom Wasser aus"
 image = "2016-08-12_Skyline2.jpg"
+categories = ["USA 2016", "Boston"]
 +++
 
 Am heutigen Tag erholen wir uns 
