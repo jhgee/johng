@@ -8,8 +8,8 @@ image = "2016-08-11_Bass-Hole-Beach.jpg"
 Heute soll das Wetter im Gegensatz zum Vortag
 ziemlich gut werden.
 Aus diesem Grund haben wir uns am Abend vorher 
-überlegt, zum Cape Cod zu fahren und 
-haben dafür ein Auto reserviert. 
+überlegt, zum Cape Cod zu fahren, wofür wir
+ein Auto reserviert haben. 
 
 Morgens starten wir früh in den Tag,
 fahren um 8 Uhr nach Downtown, um das Auto
