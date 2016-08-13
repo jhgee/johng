@@ -79,7 +79,7 @@ Da die nächste Fähre erst um 18 Uhr zurück
 fährt entscheiden wir uns, 
 direkt wieder zurück zu fahren. 
 
-[Regenfront](/images/2016-08-12_Regenfront.jpg)
+![Regenfront](/images/2016-08-12_Regenfront.jpg)
 
 Sobald wir ablegen, fängt es an zu regnen,
 wobei die Regenfront noch weitesgehend an 
