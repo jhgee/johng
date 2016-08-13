@@ -100,7 +100,7 @@ das Klima ist hier am Wasser wieder angenehmer
 als zwischen den Häusern, und haben wieder
 einmal schöne Ansichten. 
 
-![Newbury Street](/images/2016-08-12_Newbury-Street.jpgy.jpg)
+![Newbury Street](/images/2016-08-12_Newbury-Street.jpg)
 
 In der Newbury Street befinden sich
 viele Geschäfte und Restaurants.
