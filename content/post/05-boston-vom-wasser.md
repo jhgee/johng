@@ -102,7 +102,7 @@ einmal schöne Ansichten.
 
 ![Newbury](/images/2016-08-12_Newbury.jpg)
 
-In def Newbury Street befinden sich
+In der Newbury Street befinden sich
 viele Geschäfte und Restaurants.
 
 
