@@ -2,7 +2,7 @@ baseurl = "http://johng.de/"
 languageCode = "de-de"
 title = "John's Travel Blog"
 theme = "robust"
-googleAnalytics = "UA-82434346-1"
 
 [Params]
 Author = "John Henri"
+GoogleAnalyticsUserID = "UA-82434346-1"
