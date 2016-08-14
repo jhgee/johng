@@ -39,7 +39,7 @@ in der Metropole.
 Es ist überwältigend, mit welcher Intensität
 einem diese Stadt entgegen rennt. 
 
-![Couch](/images/2016-08-13_Couch.jpg)
+![Couch](/images/2016-08-13_Empire-State.jpg)
 
 Wir laufen in Richtung des Empire State Buildings,
 um die ersten Eindrücke zu sammeln. 
