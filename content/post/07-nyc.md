@@ -23,4 +23,10 @@ UN Conference
 The Trump World Tower
 Deutsche Botschaft
 
+Kleine Sitzpause im Waldorf Astoria,
+Luxus Hotel in einem Art déco-Gebäude. 
+
+
+St Bartholomew's (St. Bart's) eine Episcopal Church
+
 ![](/images/2016-08-14_.jpg)
