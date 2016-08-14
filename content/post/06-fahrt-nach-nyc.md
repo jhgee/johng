@@ -1,5 +1,5 @@
 +++
-date = "2016-08-00"
+date = "2016-08-13"
 draft = false
 title = "Fahrt nach New York"
 image = "2016-08-13_7th-34th.jpg"
