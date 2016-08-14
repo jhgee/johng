@@ -51,6 +51,8 @@ K hat zusammen mit C T in Berkeley besucht.
 Das Couchangebot von T hat sich somit für uns
 nun schon doppelt ausgezahlt. 
 
+![Haus](/images/2016-08-13_Haus.jpg)
+
 K wohnt zusammen mit vier Kommilitonen aus
 ihrem PhD Programm in einem ziemlich 
 coolen Haus in einer schönen Wohngegend in
