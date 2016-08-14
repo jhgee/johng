@@ -33,7 +33,8 @@ Wolkenkratzern heraus ragt.
 Während der Fahrt knackt die Tempeaturanzeige
 beinahe die 100 °F (38 °C) Grenze. Mit 98 °F (37 °C) ist es auch immernoch warm genug. 
 
-Um 16:30 kommt der Bus an der New York
+Um 16:30 kommt der Bus in New York
+an der Bus Station in der Nähe der
 Pennsilvania Station an und wir landen 
 in der Metropole. 
 Es ist überwältigend, mit welcher Intensität
@@ -43,8 +44,9 @@ einem diese Stadt entgegen rennt.
 
 Wir laufen in Richtung des Empire State Buildings,
 um die ersten Eindrücke zu sammeln. 
-Mit der Long Island Raulroad fahren wir weiter
-bis nach Hickswill, wo wir um 18:10 von K mit 
+Mit der Long Island Raulroad fahren wir 
+von der Penn Station weiter
+bis nach Hicksville, wo wir um 18:10 von K mit 
 dem Auto abgeholt werden. 
 
 K hat zusammen mit C T in Berkeley besucht. 
