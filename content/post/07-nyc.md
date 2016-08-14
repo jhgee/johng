@@ -13,4 +13,14 @@ und einmal um den Block fahren,
 auf der Straße zu wenden. Wenn Google Maps
 den Weg so anzeigt, dann muss man das so natürlich auch fahren.
 
+Penn Station
+Starbucks
+Empire State Building
+Grand Centtral Station
+Photosession
+Chrysler Building
+UN Conference
+The Trump World Tower
+Deutsche Botschaft
+
 ![](/images/2016-08-14_.jpg)
