@@ -6,12 +6,21 @@ image = ""
 categories = ["USA 2016", "New York"]
 +++
 
+Heute verlassen wir Boston und fahren 
+mit dem Bus nach New York. 
 
-![](/images/2016-08-00_.jpg)
+![Couch](/images/2016-08-13_Couch.jpg)
 
-Stau mit Stop & Go auf der Höhe von Worcester. 
+Am morgen packen wir unsere sieben Sachen zusammen, genehmigen uns noch einen Bagel 
+zum Frühstück und fahren dann 
+um 10:30 von der
+Boston South Station mit dem Greyhound Bus
+nach New York City. 
 
-Kurze Pause an einem Rastplatz. Ich genehmihe mir meinen ersten Burger in den USA. 
+Der Bus bietet komfortable Sitze und ist bis zum letzten Platz ausgebucht. 
+Wir haben Stau mit Stop & Go auf der Höhe von Worcester und später natürlich auch in NYC, was zu einer Stunde Verspätung führt. 
+
+Wir machen eine kurze Pause an einem Rastplatz. Ich genehmige mir hier meinen ersten Burger in den USA. 
 
 Aus dem Bus sehe ich das erste Mal mit 
 eigenen Augen die Skyline von New York City - gigantisch. 
