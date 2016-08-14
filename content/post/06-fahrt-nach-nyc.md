@@ -20,7 +20,8 @@ nach New York City.
 Der Bus bietet komfortable Sitze und ist bis zum letzten Platz ausgebucht. 
 Wir haben Stau mit Stop & Go auf der Höhe von Worcester und später natürlich auch in NYC, was zu einer Stunde Verspätung führt. 
 
-Wir machen eine kurze Pause an einem Rastplatz. Ich genehmige mir hier meinen ersten Burger in den USA. 
+Wir machen eine kurze Pause an einem Rastplatz. Ich genehmige mir hier meinen 
+ersten Burger in den USA. 
 
 Aus dem Bus sehe ich das erste Mal mit 
 eigenen Augen die Skyline von Manhattan - gigantisch. 
@@ -43,7 +44,7 @@ einem diese Stadt entgegen rennt.
 Wir laufen in Richtung des Empire State Buildings,
 um die ersten Eindrücke zu sammeln. 
 Mit der Long Island Raulroad fahren wir weiter
-bis nach Hickswill, wo wir von K mit 
+bis nach Hickswill, wo wir um 18:10 von K mit 
 dem Auto abgeholt werden. 
 
 K hat zusammen mit C T in Berkeley besucht. 
