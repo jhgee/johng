@@ -1,8 +1,8 @@
 +++
 date = "2016-08-00"
 draft = true
-title = ""
-image = ""
+title = "Fahrt nach New York"
+image = "2016-08-13_7th-34th.jpg"
 categories = ["USA 2016", "New York"]
 +++
 
