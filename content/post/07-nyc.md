@@ -16,9 +16,12 @@ und einmal um den Block fahren,
 auf der Straße zu wenden. Wenn Google Maps
 den Weg so anzeigt, dann muss man das so natürlich auch fahren.
 
-Penn Station
+Angekommen an der Penn Station holen wir uns
+Frühstück bei
 Starbucks
-Empire State Building
+und setzen uns nach draußen. 
+
+Wir laufen zum Empire State Building
 Grand Centtral Station
 Photosession
 Chrysler Building
