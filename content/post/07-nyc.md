@@ -6,6 +6,9 @@ image = ""
 categories = ["USA 2016", "New York"]
 +++
 
+Heute verbringen wir unseren ersten Tag in Manhattan und sind hauptsächlich in Midtown
+unterwegs. 
+
 7 Uhr aufgestanden
 Fahren 10 min mit Uber zur Long Island Railroad (LIRR) Station.
 Fahrer wollte lieber drei mal rechts abbiegen
@@ -26,10 +29,9 @@ Deutsche Botschaft
 Kleine Sitzpause im Waldorf Astoria,
 Luxus Hotel in einem Art déco-Gebäude. 
 
-
 St Bartholomew's (St. Bart's) eine Episcopal Church
 
-Rockefeller
+Rockefeller, NBC
 
 Trump Tower
 
@@ -37,7 +39,7 @@ Central Park
 
 Japanisch essen
 
-18:15 Top of the Rock - Rockefeller Center
-Der Wechsel von NYC bei Tag zu Nacht - es gehen immer mehr Lichter an. 
+18:15 Top of the Rock - Dach des Rockefeller Centers
+Der Wechsel vin Tag zu Nacht in NYC - es gehen immer mehr Lichter an. 
 
 ![](/images/2016-08-14_.jpg)
