@@ -29,4 +29,15 @@ Luxus Hotel in einem Art déco-Gebäude.
 
 St Bartholomew's (St. Bart's) eine Episcopal Church
 
+Rockefeller
+
+Trump Tower
+
+Central Park
+
+Japanisch essen
+
+18:15 Top of the Rock - Rockefeller Center
+Der Wechsel von NYC bei Tag zu Nacht - es gehen immer mehr Lichter an. 
+
 ![](/images/2016-08-14_.jpg)
