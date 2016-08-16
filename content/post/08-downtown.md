@@ -15,6 +15,8 @@ Eis gegessen
 
 9/11 Memorial
 
+2016-08-15_The-Mountain-Comes-To-Manhattan.jpg
+
 Bank am Ufer des Houstons
 
 
