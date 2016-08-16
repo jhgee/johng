@@ -10,4 +10,9 @@ Geschäftsmänner, eher selbst mit dem Auto.
 brooklyn bridge
 City Hall
 Über den Broadway vorbei an der Trinity Church
-zur Wall Street
+zur Wall Street.
+Eis gegessen
+
+9/11 Memorial
+
+Bank am Ufer des Houstons
