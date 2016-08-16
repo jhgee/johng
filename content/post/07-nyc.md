@@ -14,7 +14,7 @@ unterwegs.
 Wir sind um 7 Uhr aufgestanden und
 fahren 10 min mit einem Uber zur 
 Long Island Railroad (LIRR) Station in Hicksville.
-Der Fahrer wollte lieber drei mal rechts abbiegen
+Unser Fahrer wollte lieber drei mal rechts abbiegen
 und einmal um den Block fahren, 
 als auf der Straße zu wenden. Wenn Google Maps
 den Weg so anzeigt, dann muss man das so natürlich auch fahren.
@@ -28,14 +28,23 @@ und setzen uns zum Essen nach draußen.
 
 ![Empire State Building](/images/2016-08-14_Empire-State-Building.jpg)
 
-Wir laufen zum Empire State Building,
+Wir laufen durch die Häuserschluchten
+vorbei am Empire State Building. 
+Das heiße Wetter ist 
+zu diesem Zeitpunkt in den Avenues 
+besser als in den Streets zu ertragen, da
+wir so im Schatten der Hochhäuser laufen können. 
 
-![](/images/2016-08-14_Central-Station.jpg)
-Grand Centtral Station
-Photosession
+![Central Station](/images/2016-08-14_Central-Station.jpg)
+Die Grand Centtral Station ist der Hauptbahnhof
+von NYC und hat eine beeindruckend große
+aber auch sehr schöne Halle, in der wir uns
+erstmal Zeit für eine Photosession nehmen. 
 
 ![Chrysler Building](/images/2016-08-14_Chrysler-Building.jpg)
 
+Wir laufen in Richtung Ufer, wo sich das
+UN Conference Building befindet und
 Chrysler Building
 
 UN Conference
