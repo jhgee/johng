@@ -16,3 +16,7 @@ Eis gegessen
 9/11 Memorial
 
 Bank am Ufer des Houstons
+
+
+Ballett am Hudson im Hintergrund die Statue of Liberty
+
