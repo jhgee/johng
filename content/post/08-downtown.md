@@ -24,8 +24,6 @@ Der Gang über die Brooklyn Bridge
 macht Spaß und bietet einen schönen Blick
 auf Manhattan. 
 
-zur Wall Street. 
-
 ![Trinity Church](/images/2016-08-15_Trinity Church.jpg)
 
 Am Ende der Brücke gehen wir
@@ -81,12 +79,21 @@ und modern gestaltet worden ist.
 
 ![Werbung](/images/2016-08-15_The-Mountain-Comes-To-Manhattan.jpg)
 
-Bank am Ufer des Houstons
+Eine Werbung für das neue World Trade Center, die aus heutiger Perspektive zynisch erscheint, wurde auch ausgestellt. 
+Das Flugzeug sollte wohl symbolisieren,
+wie hoch die Twin Towers sein werden. 
 
+![Skyline Jersey](/images/2016-08-15_Skyline-Jersey.jpg)
+
+Nachdem wir mit der Schließung um 20 Uhr
+aus dem Museum geschickt werden, 
+setzen wir uns auf eine Bank am Ufer des 
+Hudsons und gucken uns die Skyline
+Jerseys an. 
 
 ![Ballett](/images/2016-08-15_Ballett.jpg)
 
-Ballett am Hudson im Hintergrund die Statue of Liberty
+Ein wenig weiter südlich an Ufer des Hudsons 
+wir ein Ballett auf einer kleinen Bühne 
+aufgeführt im Hintergrund steht die Statue of Liberty. 
 
-
-![Skyline Jersey](/images/2016-08-15_Skyline-Jersey.jpg)
