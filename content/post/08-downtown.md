@@ -6,17 +6,22 @@ image = "2016-08-15_9-11-Memorial"
 categories = ["USA 2016", "New York"]
 +++
 
+Die Südspitze der Halbinsel Manhattan
+ist das heutige Ziel. 
+Hier sind die Unternehmen in großen
+Wolkenkratzern und auch die Finanzbranche in der Wallstreet angesiedelt. 
+
 Mit der Subway (Ticket 3$) fahren wir 
 von Penn Station nach
 High Street auf die andere Uferseite des
-East Rivers, um von dort über
+East Rivers, um von dort mit Blick auf Manhattan über
 die Brooklyn Bridge zu laufen. 
 Im Gegensatz zu Boston, scheinen in NYC
 Menschen quer durch die Bevölkerung
 die Subway zu nutzen. 
 In Boston hatte ich das Gefühl die
 wohlhabenderen Leute, wie Bänker und andere
-Geschäftsmänner, fahren eher selbst mit dem Auto. 
+Geschäftsmänner, fahren eher selbst mit dem Auto als mit der U-Bahn. 
 
 ![Brooklyn Bridge](/images/2016-08-15_Brooklyn-Bridge.jpg)
 
@@ -33,13 +38,13 @@ Außer den Gebäuden und einigen Anzugsmenschen
 ist hier nicht so viel zu sehen. 
 Beim Blick entlang der Wall Street steht vor 
 Kopf die Trinity Church.
-Was das symbolisch bedeutet, 
+Was die symbolische Bedeutung sein könnte, 
 kann sich jeder selbst zurecht spinnen. 
 
 Wir essen noch ein Eis in einer 
 klimatisierten Einkaushalle, die neben der
 Deutschen Bank liegt.
-Die Pause in klimatisierten Räumen ist absolut notwenig, um sich von dem schwülen Wetter
+Die Pausen in klimatisierten Räumen sind absolut notwenig, um sich von dem schwülen Wetter
 zur erholen und abzukühlen. 
 
 ![Bull](/images/2016-08-15_Bull.jpg)
