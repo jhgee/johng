@@ -9,3 +9,19 @@ Einblicke in die Landschaftsformen Amerikas.
 Schaukästen sind in Zeiten, in denen es 
 kein Computer, Drucker oder Beamer gab,
 per Hand gestaltet worden
+
+Cwntral Park
+Nanny mit Kiddies zum Tebnisplatz
+Pool
+
+Harlem
+
+Riverside Church
+
+Columbia University
+
+Mount Sinai
+St Luke's
+
+Lincoln Center
+
