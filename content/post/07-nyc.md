@@ -76,22 +76,38 @@ Nebenan besuchen wie kurz die
 St Bartholomew's (St. Bart's) 
 eine Episcopal Church. 
 
-Rockefeller, NBC
-
-Trump Tower
-
+Als nächstes gehen wir zum Rockefeller Center, 
+wo auch der NBC seinen Sitz hat. 
+Hier werden wir heute Abend die Skyline
+von oben betrachten. 
 
 ![Central Park](/images/2016-08-14_Central-Park.jpg)
 
-Central Park
+Nach einem kurzen Besuch des Trump Towers,
+der mit goldenen Rolltreppen, gehen wir in den
+Central Park und drehen eine kleine Runde. 
+Auf den Wegen ist es sehr voll, was auch an
+den vielen Pokémon GO-Spielern liegt, die 
+zum Teil in Scharen durch den Park laufen. 
 
-Japanisch essen
-
-18:15 Top of the Rock - Dach des Rockefeller Centers
-
+Zu Abend sind wir Japanisch essen und
+laufen dann zurück zum Rockefeller und fahren
+um 18:15 zum Top of the Rock der 
+Aussichtsplattform auf dem Dach des Rockefeller Centers. 
 
 ![Empire State Building](/images/2016-08-14_Empire-von-Rockefeller.jpg)
 
-Der Wechsel von Tag zu Nacht in NYC - es gehen immer mehr Lichter an. 
+Hier oben bietet sich uns eine tolle Aussicht.  Besonders den Wechsel von Tag zu Nacht 
+in NYC erleben wir mit 
+- es gehen nach und nach immer mehr Lichter an. 
 
 ![Times Square](/images/2016-08-14_Times-Square.jpg)
+
+Auf dem Rückweg zur Penn Station laufen
+wir über den Times Square.
+Wie es dort aussieht, habe ich schon vorher 
+auf den typischen Bildern der großen 
+Werbeflächen gesehen. 
+Sich selbst ein Bild zu machen
+und das Treiben mit eigenen Augen 
+zu verfolgen, ist ein toller Moment. 
