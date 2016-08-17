@@ -14,7 +14,8 @@ unterwegs.
 Wir sind um 7 Uhr aufgestanden und
 fahren 10 min mit einem Uber zur 
 Long Island Railroad (LIRR) Station in Hicksville.
-Unser Fahrer wollte lieber drei mal rechts abbiegen
+Unser Fahrer stellt sich nicht besonders gut an. 
+Er wollte leider lieber drei mal rechts abbiegen
 und einmal um den Block fahren, 
 als auf der Straße zu wenden. Wenn Google Maps
 den Weg so anzeigt, dann muss man das so natürlich auch fahren.
@@ -49,9 +50,9 @@ wir einen schönen Blick auf das
 Chrysler Building, an dem wir zuvor vorbei 
 gegangen sind, haben. 
 
-Nachdem ich mich mit Ausweis angemeldet habe,
-um dann sogar einen Besucher Ausweis als 
-Aufkleber mit Photo zu bekommen,
+Nachdem ich mich mit meinem Ausweis angemeldet habe,
+um dann einen Besucher Ausweis als 
+Aufkleber sogar mit Photo zu bekommen,
 können wir das 
 UN Conference besichtigen. 
 Es ist mal ganz nett, das Gebäude zu sehen und
@@ -97,7 +98,8 @@ Aussichtsplattform auf dem Dach des Rockefeller Centers.
 
 ![Empire State Building](/images/2016-08-14_Empire-von-Rockefeller.jpg)
 
-Hier oben bietet sich uns eine tolle Aussicht.  Besonders den Wechsel von Tag zu Nacht 
+Hier oben bietet sich uns eine tolle Aussicht. 
+Besonders den Wechsel von Tag zu Nacht 
 in NYC erleben wir mit 
 - es gehen nach und nach immer mehr Lichter an. 
 
@@ -110,4 +112,4 @@ auf den typischen Bildern der großen
 Werbeflächen gesehen. 
 Sich selbst ein Bild zu machen
 und das Treiben mit eigenen Augen 
-zu verfolgen, ist ein toller Moment. 
+zu verfolgen, ist natürlich trotzdem ein toller Moment. 
