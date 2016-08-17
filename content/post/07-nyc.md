@@ -45,19 +45,36 @@ erstmal Zeit für eine Photosession nehmen.
 
 Wir laufen in Richtung Ufer, wo sich das
 UN Conference Building befindet und
-Chrysler Building
+wir einen schönen Blick auf das 
+Chrysler Building, an dem wir zuvor vorbei 
+gegangen sind, haben. 
 
-UN Conference
-The Trump World Tower
-Deutsche Botschaft
+Nachdem ich mich mit Ausweis angemeldet habe,
+um dann sogar einen Besucher Ausweis als 
+Aufkleber mit Photo zu bekommen,
+können wir das 
+UN Conference besichtigen. 
+Es ist mal ganz nett, das Gebäude zu sehen und
+im Foyer spazieren zu gehen, viel zu sehen 
+gibt es aber nicht. Auch in den
+großen Kongresssaal können wir keinen Blick werfen. 
 
+Vorbei am Trump World Tower gehen wir durch 
+die Straße, in der viele Konsulate in direkter 
+Nähe zur UN sitzen, wo wir natürlich auch an
+dem Deutschen Konsulat kurz halt machen. 
 
 ![Waldorf Astoria](/images/2016-08-14_Waldorf-Astoria.jpg)
 
-Kleine Sitzpause im Waldorf Astoria,
-Luxus Hotel in einem Art déco-Gebäude. 
+Eine kleine Sitzpause gönnen wir uns 
+im Waldorf Astoria, ein
+Luxus Hotel in einem Art déco-Gebäude.
+Bei einer kleinen Entdeckungstour dort
+sehen wir große schicke Säle. 
 
-St Bartholomew's (St. Bart's) eine Episcopal Church
+Nebenan besuchen wie kurz die 
+St Bartholomew's (St. Bart's) 
+eine Episcopal Church. 
 
 Rockefeller, NBC
 
