@@ -62,7 +62,22 @@ da Downtown Manhattan drumherum dicht bebaut ist.
 
 Unter dem Platz befindet sich das Memorial 
 Museum, das in ziemlich weitläufigen Räumen
-die Geschichte der Terroranschläge, aber auch die Geschichte jedes einzelnen Gestorbenen ausstellt. 
+seit 2014 
+die Geschichte der Terroranschläge, aber auch die Geschichte jedes einzelnen Gestorbenen erzählt. 
+
+Die Wände eines Raumes sind bedeckt mit
+Photos der knapp 3000 Verstorbenen. 
+Hier können Besucher auf großen Bildschirmen
+auf die Datenbank zugreifen, 
+die zu jedem Verstorbenen sein Namen,
+Geburts- und Wohnort, den Beruf, seine
+Geschichte und eine Audioaufnahme eines
+Angehörigen gespeichert hat. 
+
+Dieser Teil der Ausstellung hat für mich
+die größte Wirkung der Ausstellung,
+wobei auch das übrige Museum sehr sehr gut
+und modern gestaltet worden ist. 
 
 ![Werbung](/images/2016-08-15_The-Mountain-Comes-To-Manhattan.jpg)
 
