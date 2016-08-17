@@ -1,6 +1,6 @@
 +++
 date = "2016-08-14"
-draft = true
+draft = false
 title = "NYC - Manhattan Midtown"
 image = "2016-08-14_Manhattan-bei-Nacht.jpg"
 categories = ["USA 2016", "New York"]
