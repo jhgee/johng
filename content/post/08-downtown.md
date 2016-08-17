@@ -2,7 +2,7 @@
 date = "2016-08-15"
 draft = true
 title = "Downtown Manhattan"
-image = "2016-08-15_9-11-Memorial"
+image = "2016-08-15_9-11-Memorial.jpg"
 categories = ["USA 2016", "New York"]
 +++
 
