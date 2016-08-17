@@ -1,7 +1,7 @@
 +++
 date = "2016-08-14"
 draft = false
-title = "Manhattan Midtown"
+title = "Midtown Manhattan"
 image = "2016-08-14_Manhattan-bei-Nacht.jpg"
 categories = ["USA 2016", "New York"]
 +++
