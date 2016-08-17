@@ -1,3 +1,14 @@
++++
+date = "2016-08-16"
+draft = true
+title = "Uptown"
+image = ""
+categories = ["USA 2016", "New York"]
++++
+
+
+![](/images/2016-08-16_.jpg)
+
 Ziel ist heute das 
 American Museum of National History. 
 
