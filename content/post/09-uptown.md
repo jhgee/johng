@@ -22,13 +22,16 @@ Schon bevor mein Muffin
 oder Donut über die Theke geht wird das 
 Plastik weggeworfen, in das 
 
-Das Museum bietet in einer der Ausstellungen
+Das Museum ist eines der größten Naturkunde 
+Museen der Welt und 
+bietet in einer der Ausstellungen
 Einblicke in die Landschaftsformen Amerikas.
 Schaukästen sind in Zeiten, in denen es 
 kein Computer, Drucker oder Beamer gab,
-per Hand gestaltet worden
+per Hand gestaltet worden. 
+Weitere Attraktionen sind eine große Mineralsammlung, eine umfangreiche Dinoausstellung, ein großes Modell eines Blauwales sowie Filme im IMAX Kino. 
 
-Cwntral Park
+Central Park
 Nanny mit Kiddies zum Tebnisplatz
 Pool
 
