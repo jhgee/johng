@@ -1,7 +1,7 @@
 +++
 date = "2016-08-16"
 draft = true
-title = "Uptown"
+title = "American Museum of Natural History"
 image = ""
 categories = ["USA 2016", "New York"]
 +++
@@ -10,10 +10,13 @@ categories = ["USA 2016", "New York"]
 ![](/images/2016-08-16_.jpg)
 
 Ziel ist heute das 
-American Museum of National History. 
+American Museum of Natural History. 
 
-10:50 Zug zur Penn Station
-Subway zum Natural Hostory Museum, wo wir um 12:00 ankommen. 
+Relativ spät starten wir in den Tag und nehmen 
+um 10:50 den Zug zur Penn Station. 
+Nachdem wir mit der Subway um 12:00 beim 
+Museum ankommen, gehen wir zunächst 
+frühstücken.
 
 Das Museum bietet in einer der Ausstellungeb
 Einblicke in die Landschaftsformen Amerikas.
