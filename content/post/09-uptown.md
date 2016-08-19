@@ -1,13 +1,14 @@
 +++
 date = "2016-08-16"
 draft = true
-title = "American Museum of Natural History"
+title = "Der Norden"
 image = "2016-08-16_Museum.jpg"
 categories = ["USA 2016", "New York"]
 +++
 
 Ziel ist heute das 
-American Museum of Natural History. 
+American Museum of Natural History und der
+Norden Manhattans. 
 
 Relativ spät starten wir in den Tag und nehmen 
 um 10:50 den Zug zur Penn Station. 
@@ -31,34 +32,58 @@ kein Computer, Drucker oder Beamer gab,
 per Hand gestaltet worden. 
 Weitere Attraktionen sind eine große Mineralsammlung, eine umfangreiche Dinoausstellung, ein großes Modell eines Blauwales sowie Filme im IMAX Kino. 
 
-Central Park
-Nanny mit Kiddies zum Tebnisplatz
-Pool
+Vom Museum gehen wir in den Central Park
+auf die Höhe des Reservoirs, 
+einem großen See, der früher das Trinkwasser 
+bereitstellte, und orientieren
+uns in Richtung Norden. 
+
+Wir können eine Nanny mit Kiddies beobachten, 
+die diese zum Tebnisplatz bringt und wohl aus einem der gehobenen Vierteln der Uptown kommt. 
+
+Weiter Nördlich des Parks ist der Pool, ein 
+Freibad das an diesem heißen Tag von vielen
+besucht wird. 
 
 ![Harlem Meer](/images/2016-08-16_Harlem-Meer.jpg)
 
-
-Harlem
-
-Riverside Church
-
+Ganz im Norden des Central Parks ist das 
+Harlem Meer
+bevor der Stadtteil Harlem, das Schwarzenviertel Manhattans, anfängt und sich 
+damit auch das Stadtbild plötzlich ändert. 
+Die Straßen sind dreckiger und man sieht,
+dass hier hauptsächlich ärmere Menschen leben. 
+Die Wolkenkratzer und Hochhäuser sind hier nicht
+menr zu finden dafür aber Straßenstände. 
 
 ![Columbia University](/images/2016-08-16_Columbia-University.jpg)
 
+Wir laufen durch Harlem und dann gen Süden 
+zum Campus der Columbis University. 
+Dieser liegt erhöht im Viertel und 
+zeigt sich gestriegelt mit seinen perfekten
+Rasenflächen. 
 
-Columbia University
-
+Direkt neben der Universität ist das 
 Mount Sinai
 St Luke's
+was man wohl aus Berichten über Prominente 
+kennt, habe ich mir sagen lasseb. 
 
 ![Lincoln Center](/images/2016-08-16_Lincoln-Center.jpg)
 
-Lincoln Center
+Auf dem Rückweg mit der Sub halten wir am 
+[Lincoln Center](https://de.m.wikipedia.org/wiki/Lincoln_Center), 
+das bedeutenste und bekannteste 
+Kulturzentrum von New York City. 
 
-Gewitter dicke Regentropfen
+Es beginnt ein Gewitter mit dicken 
+Regentropfen und heftigen Blitzen über der 
+Stadt, die mich zum Teil wirklich erschreckt haben. 
 
-über den Broadway zurück
+Wir gehen über den Broadway zurück in Richtung
+Penn Station. 
 
 ![Fiddler On The Roof](/images/2016-08-16_Fiddler-On-The-Roof.jpg)
 
-Fiddler on the roof
+Auf dem Weg sehe ich noch die Werbung für ein mir altbekanntes Musicalstück - Fiddler On The Roof. 
