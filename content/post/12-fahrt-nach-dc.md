@@ -13,5 +13,8 @@ aber einige stehen dort schon.
 
 15:00 Abfahrt Bus
 
+Der Stadt und dem dichten Verkehr 
+zu entfliehen, dauert über eine halbe
+Stunde. 
 
 Hauptstadt der Vereinigten Staaten
