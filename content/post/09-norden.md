@@ -7,8 +7,8 @@ categories = ["USA 2016", "New York"]
 +++
 
 Ziel ist heute das 
-American Museum of Natural History und der
-Norden Manhattans. 
+American Museum of Natural History und die
+Erkundung des Norden Manhattans. 
 
 Relativ spät starten wir in den Tag und nehmen 
 um 10:50 den Zug zur Penn Station. 
@@ -20,8 +20,12 @@ frühstücken.
 
 Bei jedem Besuch von Starbucks regt mich auf, wie viel Müll abfällt. 
 Schon bevor mein Muffin
-oder Donut über die Theke geht wird das 
-Plastik weggeworfen, in das 
+oder Bagel über die Theke geht, wird das 
+Plastik weggeworfen, in das jedes einzelne
+Stück verpackt ist. Danach wird alles wieder
+in weitere Papiertüten gepackt. Dazu kommen
+dann noch die Platikbecher für den Iced Coffee
+und das Wasser. 
 
 Das Museum ist eines der größten Naturkunde 
 Museen der Welt und 
