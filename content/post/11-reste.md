@@ -1,4 +1,4 @@
-Check In
+12:00 Check In
 
 14:15 Photography
 China Town
@@ -11,6 +11,6 @@ TriBeCa
 
 Ufer Hudson Wasser
 
-Zimmer beziehen
+18:00 Zimmer beziehen
 
 19:30 230 Fifth
