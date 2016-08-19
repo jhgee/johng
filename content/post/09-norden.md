@@ -34,7 +34,8 @@ Einblicke in die Landschaftsformen Amerikas.
 Schaukästen sind in Zeiten, in denen es 
 kein Computer, Drucker oder Beamer gab,
 per Hand gestaltet worden. 
-Weitere Attraktionen sind eine große Mineralsammlung, eine umfangreiche Dinoausstellung, ein großes Modell eines Blauwales sowie Filme im IMAX Kino. 
+Weitere Attraktionen sind eine große Mineralsammlung, eine umfangreiche Dinoausstellung, ein großes Modell eines Blauwales sowie Filme im IMAX Kino,
+wobei wir keinen Film geguckt haben. 
 
 Vom Museum gehen wir in den Central Park
 auf die Höhe des Reservoirs, 
