@@ -5,4 +5,10 @@ Bryant Park
 
 alle nochmal auf's Klo und dann reiten wir los. 
 
-wir sind jetzt da, wo gleich der Bus fahren soll - sieht nicht so wie die typische Bushaltestelle aus. 
+wir sind jetzt dort, 
+wo gleich der Bus abfahren soll - 
+sieht nicht so wie die typische 
+Bushaltestelle aus, 
+aber einige stehen dort schon. 
+
+15:00 Abfahrt Bus
