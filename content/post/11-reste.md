@@ -1,3 +1,5 @@
+Check In
+
 14:15 Photography
 China Town
 Little Italy
@@ -7,4 +9,8 @@ SoHo mini Shoppingtour
 
 TriBeCa
 
-Wasser
+Ufer Hudson Wasser
+
+Zimmer beziehen
+
+19:30 230 Fifth
