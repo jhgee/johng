@@ -44,7 +44,7 @@ bereitstellte, und orientieren
 uns in Richtung Norden. 
 
 Wir können eine Nanny mit Kiddies beobachten, 
-die diese zum Tebnisplatz bringt und wohl aus einem der gehobenen Vierteln der Uptown kommt. 
+die diese zum Tennisplatz bringt und wohl aus einem der gehobenen Vierteln der Uptown kommt. 
 
 Weiter Nördlich des Parks ist der Pool, ein 
 Freibad das an diesem heißen Tag von vielen
@@ -71,9 +71,9 @@ Rasenflächen.
 
 Direkt neben der Universität ist das 
 Mount Sinai
-St Luke's
+St Luke's,
 was man wohl aus Berichten über Prominente 
-kennt, habe ich mir sagen lasseb. 
+kennt, habe ich mir sagen lassen. 
 
 ![Lincoln Center](/images/2016-08-16_Lincoln-Center.jpg)
 
