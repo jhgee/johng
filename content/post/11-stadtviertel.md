@@ -1,3 +1,11 @@
++++
+date = "2016-08-00"
+draft = true
+title = ""
+image = ""
+categories = ["USA 2016", "New York"]
++++
+
 12:00 Check In
 
 14:15 Photography
