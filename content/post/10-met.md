@@ -143,8 +143,10 @@ relativ nahe.
 Zum Ende der Fahrr sehen wir einen schönen Sonnenuntergang, 
 wobei es leider etwas wolkig ist. 
 
-Am Fährhafen nehmen gehen wir wir das Abendessen zu und und genießen den Blick auf die Skyline von Manhatten. 
+Am Fährhafen essen wir zu Abend und genießen den Blick auf die Skyline von Manhatten
+(die man von dort ja leider nicht sieht). 
 
 ![Skyline-Night](/images/2016-08-17_Skyline-Night.jpg)
 
-Auf dem Rückweg sehen wir die Skyline dann erleuchtet. 
+Auf dem Rückweg sehen wir dann die Skyline erleuchtet und können ein paar schhöne
+Aufnahmen machen. 
