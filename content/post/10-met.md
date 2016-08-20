@@ -1,6 +1,6 @@
 +++
 date = "2016-08-17"
-draft = true
+draft = false
 title = "Metropolitan Museum of Art"
 image = "2016-08-17_Egypt-Art"
 categories = ["USA 2016", "New York"]
