@@ -10,7 +10,7 @@ Mindestens ein Kunstmuseum wollen wir uns in
 New York schon ansehen, 
 obwohl wir keine Kunstkenner sind. 
 Die Wahl fällt dabei auf das
-Metropolitan Museum of Art (MET) 
+*Metropolitan Museum of Art* (*MET*) 
 mit einer der bedeutendsten kunsthistorischen Sammlungen 
 der Welt. 
 
@@ -39,7 +39,7 @@ meistens falsch herum.
 Von der *Bow Bridge* sieht man einen
 Teil des Sees und die dahinter liegenden Häuser des Stadtteils Upper West. 
 
-Um 12:45 gehen wir dann ins MET, 
+Um 12:45 gehen wir dann ins *MET*, 
 wobei der Eintritt günstig zu haben ist, 
 da der angeschlagene Preis lediglich eine 
 Spendenempfehlung ist. 
@@ -69,7 +69,7 @@ von Francis W. Little ausgestellt, das von
 Frank Lloyd Wright entworfen worden ist. 
 Der Stil dieses Raumes hat mir sehr gut
 gefallen
-([MET Beschreibung](http://www.metmuseum.org/toah/works-of-art/1972.60.1/)). 
+([*MET* Beschreibung](http://www.metmuseum.org/toah/works-of-art/1972.60.1/)). 
 
 Wir gehen weiter durch die Ausstellung,
 wo wir Bilder unter anderem von 
@@ -83,9 +83,9 @@ und erstmal zu finden,
 wobei uns dabei erst so richtig die Dimensionen
 dieses Museums klarwerden, das
 
-> [...] (ein) Universalmuseum mit dem Anspruch 
+> (...) (ein) Universalmuseum mit dem Anspruch 
 > auf Vollständigkeit seiner 
-> Kunstsammlungsgebiete und -epochen [...]
+> Kunstsammlungsgebiete und -epochen (...)
 
 ist 
 ([Wikipedia](https://de.wikipedia.org/wiki/Metropolitan_Museum_of_Art)). 
