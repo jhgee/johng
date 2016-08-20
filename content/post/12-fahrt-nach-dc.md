@@ -32,6 +32,7 @@ Wir schlafen in einem achter Zimmer
 und erfahren, dass es morgens sogar Pancakes 
 und Kaffee inklusive gibt. 
 
+Restaurant *the pig*
 
 Wir sehen, dass die Hauptgerichte alle 
 zwischen 20 und 30$ kosten (wohlgemerkt ohne
