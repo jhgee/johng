@@ -20,23 +20,24 @@ und einem Schokomuffin ausgestattet,
 in den Central Park, in dem auch das MET liegt. 
 
 Wir beschließen, nicht auf dem direkt Weg zum Museum sondern vorher noch durch den
-mittleren Teil des Central Parks zu gehen. 
+mittleren Teil des Central Parks zu gehen,
+den wir bis jetzt noch nicht gesehen haben. 
 
 ![Modellsegelboote](/images/2016-08-17_Modellsegelboote.jpg)
 
 In dem großen Wasserbecken *Conservatory Water*
 kann man mit geliehenen Modellsegelbooten 
 segeln. Obwohl der Wind relativ schwach ist,
-segeln die Boote elegant und dynamisch,
-wobei sie meistens von Kindern ferngesteuert werden. 
+segeln die Boote elegant und dynamisch
+und meistens von Kindern ferngesteuert werden. 
 
 ![Bow Bridge](/images/2016-08-17_Bow-Bridge.jpg)
 
 Der See *The Lake* ist besonders schön angelegt und wird von vielen genutzt, 
-um mit einem Boot darauf zu rudern. 
+um mit einem Boot darauf zu rudern - 
+meistens falsch herum. 
 Von der *Bow Bridge* sieht man einen
 Teil des Sees und die dahinter liegenden Häuser des Stadtteils Upper West. 
-
 
 Um 12:45 gehen wir dann ins MET, 
 wobei der Eintritt günstig zu haben ist, 
@@ -44,7 +45,7 @@ da der angeschlagene Preis lediglich eine
 Spendenempfehlung ist. 
 
 Wir fangen mit der Ägyptischen Kunst an,
-die wohl eines der besondersten Ausstellungen
+die wohl eine der besondersten Ausstellungen
 dieses Museums ist. 
 Obwohl ich wenig Ahnung habe, bin ich doch
 beeindruckt von der riesigen Fülle an Exponaten, die aus einer Zeit von bis 
@@ -62,13 +63,13 @@ nie wieder gesehen werden sollte.
 
 ![Wohnzimmer Wright](/images/2016-08-17_Wright.jpg)
 
-Im Teil zur Kunst Amerikas wird auch
+Im Teil zur Kunstgeschichte Amerikas wird
 das Wohnzimmer aus dem Haus 
 von Francis W. Little ausgestellt, das von 
 Frank Lloyd Wright entworfen worden ist. 
 Der Stil dieses Raumes hat mir sehr gut
 gefallen
-([MET Beschreibung](http://www.metmuseum.org/toah/works-of-art/1972.60.1/))
+([MET Beschreibung](http://www.metmuseum.org/toah/works-of-art/1972.60.1/)). 
 
 Wir gehen weiter durch die Ausstellung,
 wo wir Bilder unter anderem von 
@@ -77,8 +78,9 @@ Rembrandt und Monet sehen.
 ![Van Gogh](/images/2016-08-17_Van-Gogh.jpg)
 
 Als Ziel haben wir uns gesetzt, 
-die Bilder von van Gogh zu sehen, 
-wobei uns erst so richtig die Dimensionen
+die Bilder von van Gogh zu sehen 
+und erstmal zu finden, 
+wobei uns dabei erst so richtig die Dimensionen
 dieses Museums klarwerden, das
 
 > [...] (ein) Universalmuseum mit dem Anspruch 
@@ -94,13 +96,13 @@ die Bilder hängen und die eine Größe von
 50-100 qm haben. Von diesen Räumen gibt 
 es im MET über 800 Stück, das momentan eine
 Ausstellungsfläche von 130.000 qm hat und
-mehrere Hallen besitzt. 
+mehrere Hallen einschließt. 
 
 So schaffen wir nur einen Bruchteil 
 der Ausstellung und gehen am Ende
 durch die Abteilung mit
 moderner Kunst, wobei uns die ein- oder wenig-farbigen
-Bilder eher nicht so zusagen.
+Bilder uns eher nicht so zusagen.
 
 ![Dachterrasse des MET](/images/2016-08-17_MET-Dachterrasse.jpg)
 
@@ -136,15 +138,15 @@ Dieser Plan ist, Aufnahmen wie diese zum Beweis, sehr gut aufgegangen.
 
 ![Statue of Liberty](/images/2016-08-17_Statue-Of-Liberty.jpg)
 
-Während der Fährtfahrt kommen wir auch der 
+Während der Fährfahrt kommen wir auch der 
 Statue of Liberty
 relativ nahe. 
 
-Zum Ende der Fahrr sehen wir einen schönen Sonnenuntergang, 
+Zum Ende der Fahrt sehen wir einen schönen Sonnenuntergang, 
 wobei es leider etwas wolkig ist. 
 
 Am Fährhafen essen wir zu Abend und genießen den Blick auf die Skyline von Manhatten
-(die man von dort ja leider nicht sieht). 
+(die man von dort sonst ja leider nicht sieht). 
 
 ![Skyline-Night](/images/2016-08-17_Skyline-Night.jpg)
 
