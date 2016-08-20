@@ -31,3 +31,14 @@ ist sehr sauber und gut strukturiert.
 Wir schlafen in einem achter Zimmer
 und erfahren, dass es morgens sogar Pancakes 
 und Kaffee inklusive gibt. 
+
+
+Wir sehen, dass die Hauptgerichte alle 
+zwischen 20 und 30$ kosten (wohlgemerkt ohne
+Taxes und Tip, wodurch ca 20% hinzukommen)
+und wählen den Burger für 17$. 
+Nachdem wir unsere Bestellung aufgegeben
+haben sagt sie tatsächlich: 
+"Come on! We have so many nices dishes." 
+Und hält inne, so als ob wir unsere Bestellung
+nochmal ändern sollten. 
