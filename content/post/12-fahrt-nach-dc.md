@@ -17,6 +17,6 @@ Der Stadt und dem dichten Verkehr
 zu entfliehen, dauert über eine halbe
 Stunde. 
 
-Im Bus sind wir die einzigen Weißen. 
+Im Bus gehören wir zu den wenigen Weißen. 
 
 Hauptstadt der Vereinigten Staaten
