@@ -150,5 +150,5 @@ Am Fährhafen essen wir zu Abend und genießen den Blick auf die Skyline von Man
 
 ![Skyline-Night](/images/2016-08-17_Skyline-Night.jpg)
 
-Auf dem Rückweg sehen wir dann die Skyline erleuchtet und können ein paar schhöne
+Auf dem Rückweg sehen wir dann die Skyline erleuchtet und können ein paar schöne
 Aufnahmen machen. 
