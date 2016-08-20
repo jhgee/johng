@@ -3,7 +3,7 @@ date = "2016-08-00"
 draft = true
 title = ""
 image = ""
-categories = ["USA 2016", "New York"]
+categories = ["USA 2016", "Washington DC"]
 +++
 
 
