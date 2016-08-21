@@ -19,12 +19,42 @@ Hotel, checken dort um 12 Uhr ein.
 Wir können dort zwar noch nicht unser
 Zimmer beziehen, jedoch unser Gepäck abgeben. 
 
-![China Town](/images/2016-08-00_China-Town.jpg)
+![Chinatown](/images/2016-08-00_China-Town.jpg)
 
 Mit der Sub fahren wir bis zur Canal Street 
-und landen somit direkt in Chinatown. 14:15 Photography
-China Town
+und landen kurz nach zwei somit direkt in Chinatown. 
+Im *Columbus Park* sind viele Chinesen
+die zusammen dort ihre Zeit verbringen. 
+Sie spielen Karten oder Brettspiele, musizieren oder entspannen sich dort einfach. 
+
+Darauf besuchen wir das Museum im 
+*International Center of Photography*. 
+Wie genau wir darauf kamen oder wer uns 
+das empfohlen hat, würden wir nach dem Besuch
+gerne nochmal wissen. 
+Das Museum, oder besser gesagt 
+zumindest die momentane 
+Ausstellung, war ein Reinfall. 
+
+Für 10$ rabattierten Eintritt haben wir 
+in einem Ausstellungsraum eigenartige Kunst
+gesehen, was keine Stunde Zeit in Anspruch
+genommen hat. 
+Zum Beispiel wurde ein Kunstprojekt von
+Phil Collins ausgestellt, für das sich
+Collins unentwickelte Filme von Privatpersonen
+schicken lies, sich die besten herauspickte
+und dann als Diashow ausstellt. Als
+Gegenleistung erhielt man die Fotos als
+großformatige Abzüge entwickelt. 
+
+
+Der an Chinatown angrenzende Stadtteil
 Little Italy
+ist unser nächstes Ziel jedoch deutlich
+weniger charismatisch - könnte an der 
+fehlenden Mafia liegen. Hier leben auch
+nur noch 5% italienischstämmige Bewohner. 
 
 
 ![Eight Turn Crepe](/images/2016-08-00_Eight-Turn-Crepe.jpg)
