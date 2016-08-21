@@ -6,6 +6,10 @@ image = "2016-08-18_Chinesisches-Brettspiel.jpg"
 categories = ["USA 2016", "New York"]
 +++
 
+Wir ziehen nach Manhattan um
+und gucken uns die Flecken der Stadt an,
+die auf unserer Karte noch grau sind.
+
 Unser Host K veranstaltet am Wochenende zusammen 
 mit ihren Mitbewohnern
 die Party zum Semsterstart in ihrem Haus. 
@@ -56,24 +60,41 @@ weniger charismatisch - könnte an der
 fehlenden Mafia liegen. Hier leben auch
 nur noch 5% italienischstämmige Bewohner. 
 
-
 ![Eight Turn Crepe](/images/2016-08-00_Eight-Turn-Crepe.jpg)
 
-Crepe Hörnchen mit Früchten 
-[Eight Turn Crepe](eightturncrepe.com)
-Das werde ich wohl mal versuchen, zu Hause 
+Wir gehen durch das angrenzenden Viertel *SoHo* 
+(South of Houston Street)
+und entdecken einen kleinen vielversprechenden
+Laden
+- [Eight Turn Crepe](eightturncrepe.com).  Dort gibt es Crepes gefüllt mit
+Früchten oder herzhaften Zutaten,
+die zu einem Hörnchen zusammengerollt werden
+- sehr lecker!
+Das werde ich mal versuchen, zu Hause 
 nachzumachen!
 
 ![SoHo](/images/2016-08-00_SoHo.jpg)
 
-SoHo mini Shoppingtour
+Obwohl wir beide keine Lust auf große
+Einkaufstouren haben, gehen wir in
+SoHo, das auch für Shoppingtouren bekannt ist,
+zumindest in ein Geschäft. 
 
-TriBeCa
+Durch das Viertel TriBeCa (Triangle below 
+Canal Street) gehen wir zun Ufer des Hudsons 
+ans Wasser. 
 
-Ufer Hudson Wasser
-
-18:00 Zimmer beziehen
+Um 18 Uhr kommen wir zurück zum Hotel und 
+beziehen unser Zimmer. 
 
 ![230 Fifth](/images/2016-08-00_230-Fifth.jpg)
-
-19:30 230 Fifth
+Für halb acht haben wir uns mit einem
+alten Freund von mir aus der Grundschule verabredet. 
+C studiert in Kopenhagen und macht ein
+Auslandssemester in New York an der Columbia University 
+und ist wenige Tage nach uns mit seiner Freundin A in NYC angekommen. 
+Wir treffen uns in der Rooftop Bar 
+230 Fifth und haben einen netten Abend
+mit schöner Aussicht. Wer die Geschichte mit
+der Bedienung hören möchte, kann mich 
+darauf gerne bei Gelegenheit ansprechen. 
