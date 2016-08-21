@@ -1,10 +1,13 @@
 +++
-date = "2016-08-00"
+date = "2016-08-19"
 draft = true
-title = ""
+title = "Fahrt nach Washington DC"
 image = ""
 categories = ["USA 2016", "New York", "Washington DC"]
 +++
+
+
+![](/images/2016-08-19_.jpg)
 
 12-13 Uhr nettes Frühstück mit Bio Brot Le Pain
 
