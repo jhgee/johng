@@ -12,3 +12,8 @@ guter Leute aus Europa zu Zeiten des
 ersten Weltkriegs, hat sich Amerika so stark entwickelt. 
 
 18:15 Raus
+
+Lincoln Memorial
+
+Potomac River
+
