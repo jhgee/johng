@@ -23,7 +23,7 @@ Hotel, checken dort um 12 Uhr ein.
 Wir können dort zwar noch nicht unser
 Zimmer beziehen, jedoch unser Gepäck abgeben. 
 
-![Chinatown](/images/2016-08-00_China-Town.jpg)
+![Chinatown](/images/2016-08-18_China-Town.jpg)
 
 Mit der Sub fahren wir bis zur Canal Street 
 und landen kurz nach zwei somit direkt in Chinatown. 
@@ -60,7 +60,7 @@ weniger charismatisch - könnte an der
 fehlenden Mafia liegen. Hier leben auch
 nur noch 5% italienischstämmige Bewohner. 
 
-![Eight Turn Crepe](/images/2016-08-00_Eight-Turn-Crepe.jpg)
+![Eight Turn Crepe](/images/2016-08-18_Eight-Turn-Crepe.jpg)
 
 Wir gehen durch das angrenzenden Viertel *SoHo* 
 (South of Houston Street)
@@ -73,7 +73,7 @@ die zu einem Hörnchen zusammengerollt werden
 Das werde ich mal versuchen, zu Hause 
 nachzumachen!
 
-![SoHo](/images/2016-08-00_SoHo.jpg)
+![SoHo](/images/2016-08-18_SoHo.jpg)
 
 Obwohl wir beide keine Lust auf große
 Einkaufstouren haben, gehen wir in
@@ -87,7 +87,7 @@ ans Wasser.
 Um 18 Uhr kommen wir zurück zum Hotel und 
 beziehen unser Zimmer. 
 
-![230 Fifth](/images/2016-08-00_230-Fifth.jpg)
+![230 Fifth](/images/2016-08-18_230-Fifth.jpg)
 
 Für halb acht haben wir uns mit einem
 alten Freund von mir aus der Grundschule verabredet. 
