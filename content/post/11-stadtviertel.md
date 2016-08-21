@@ -88,6 +88,7 @@ Um 18 Uhr kommen wir zurück zum Hotel und
 beziehen unser Zimmer. 
 
 ![230 Fifth](/images/2016-08-00_230-Fifth.jpg)
+
 Für halb acht haben wir uns mit einem
 alten Freund von mir aus der Grundschule verabredet. 
 C studiert in Kopenhagen und macht ein
