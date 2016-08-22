@@ -46,7 +46,7 @@ Wir schlafen in einem achter Zimmer
 und erfahren, dass es morgens sogar Pancakes 
 und Kaffee inklusive gibt. 
 
-![](/images/2016-08-19_.jpg)
+![The Pig](/images/2016-08-19_The-Pig.jpg)
 
 Restaurant *the pig*
 
