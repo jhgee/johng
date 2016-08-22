@@ -2,12 +2,11 @@
 date = "2016-08-19"
 draft = true
 title = "Fahrt nach Washington DC"
-image = ""
+image = "2016-08-19_White-House.jpg"
 categories = ["USA 2016", "New York", "Washington DC"]
 +++
 
-
-![](/images/2016-08-19_.jpg)
+![Le Pain](/images/2016-08-19_Le-Pain.jpg)
 
 12-13 Uhr nettes Frühstück mit Bio Brot Le Pain
 
@@ -15,6 +14,8 @@ Bryant Park
 
 
 alle nochmal auf's Klo und dann reiten wir los. 
+
+![Penn Plaza](/images/2016-08-19_Penn-Plaza.jpg)
 
 wir sind jetzt dort, 
 wo gleich der Bus abfahren soll - 
@@ -37,11 +38,15 @@ In einer knappen viertel Stunde zum Hostel
 gelaufen - die Wege sind sehr viel kürzer als 
 in Manhattan, das merken wir schnell. 
 
+![Hostel](/images/2016-08-19_Hostel.jpg)
+
 Das Hostel macht einen sehr guten Eindruck,
 ist sehr sauber und gut strukturiert. 
 Wir schlafen in einem achter Zimmer
 und erfahren, dass es morgens sogar Pancakes 
 und Kaffee inklusive gibt. 
+
+![](/images/2016-08-19_.jpg)
 
 Restaurant *the pig*
 
@@ -54,3 +59,7 @@ haben sagt sie tatsächlich:
 "Come on! We have so many nices dishes." 
 Und hält inne, so als ob wir unsere Bestellung
 nochmal ändern sollten. 
+
+![White-House](/images/2016-08-19_White-House.jpg)
+
+![Department-Of-Treasury](/images/2016-08-19_.jpg)
