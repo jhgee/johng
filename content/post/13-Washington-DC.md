@@ -17,12 +17,27 @@ Programm.
 An der Memorial Mall sind, wie der Name schon sagt,
 etliche Memorials aber auch sehr viele Museen angesiedelt.
 
+Der August ist im Prinzip der denkbar schlechteste
+Besuchsmonat von DC, das sagen auch alle Reiseführer,
+da die Politik Sommerpause macht und der Hauptmotor
+der Stadt somit im Leerlauf ist.
+
 ![White House with T](/images/2016-08-20_White-House-T.jpg)
 
-Wir starten unseren Tag mit einem Frühstück beim Weißen Haus
-und dem obligatorischen Photoshoot.
+Wir starten unseren Tag um halb elf mit einem Frühstück 
+vor dem Weißen Haus
+und einem kleinen Photoshoot. 
 
 ![White House with J](/images/2016-08-20_White-House-J.jpg)
+
+Das Photo hinzubekommen, ist garnicht mal sooo einfach.
+Wir hören Sprüche wie
+"Ganz schön wei0 das Haus!" oder auch
+"Mein Mann ist so dunkel auf dem Bild, machen Sie bitte ein Bild!"
+
+Hier sind einige Polizisten des Secret Services, die Präsenz
+zeigen und dafür sorgen, dass man niht zu dicht an den Zaun
+kommt.
 
 10:30 gefrühstückt vorm weißen Haus
 
