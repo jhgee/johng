@@ -10,19 +10,16 @@ Wir werden New York verlassen und
 nachmittags mit dem Bus nach Washington
 DC fahren. 
 
-Morgens schlafen wir in den schönen
-Hotelbetten zunächst aus und checken
-um 12 Uhr aus. 
+Morgens schlafen wir und in den bequemen
+Hotelbetten zunächst aus. 
 
 ![Le Pain](/images/2016-08-19_Le-Pain.jpg)
 
-Wir gönnen uns ein nettes Frühstück 
+Wir verlassen das Hotel um 12 Uhr 
+und gönnen uns ein nettes Frühstück 
 mit richtigem Brot (sogar Bio)
-im Laden *Le Pain*, von denen man desöfteren
+im Laden *Le Pain*, von denen man des öfteren
 Geschäfte sehen kann. 
-
-Auf dem Weg zum Madison Square Garden
-gehen wir durch den Bryant Park. 
 
 ![Penn Plaza](/images/2016-08-19_Penn-Plaza.jpg)
 
@@ -64,7 +61,7 @@ Tapete auf den Toiletten
 seinem Namen alle Ehre macht. 
 
 Wir sehen, dass die Hauptgerichte alle 
-zwischen 20 und 30$ kosten (wohlgemerkt ohne
+zwischen 20$ und 30$ kosten (wohlgemerkt ohne
 Taxes und Tip, wodurch ca 20% hinzukommen)
 und wählen den Burger für 17$. 
 Nachdem wir unsere Bestellung aufgegeben
