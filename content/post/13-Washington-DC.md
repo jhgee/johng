@@ -1,12 +1,12 @@
 +++
-date = "2016-08-00"
+date = "2016-08-20"
 draft = true
 title = ""
 image = ""
 categories = ["USA 2016", "Washington DC"]
 +++
 
-![](/images/2016-08-00_.jpg)
+![](/images/2016-08-20_.jpg)
 
 10:30 gefrühstückt vorm weißen Haus
 
