@@ -6,7 +6,21 @@ image = "2016-08-20_Washington-Monument-J"
 categories = ["USA 2016", "Washington DC"]
 +++
 
+Die Sehenswürdigkeiten der Hauptstadt der Vereinigten Staaten
+von Amerika werden wir uns am heutigen Tag ansehen.
+
+Washington DC ist hauptberufich Hauptstadt. 
+Die Stadt wurde als politisches Zentrum der USA erbaut,
+ist somit weltweit eine der größten politischen Bühnen 
+und bietet, gerade für Amerikaner, ein vielfälties touristisches
+Programm.
+An der Memorial Mall sind, wie der Name schon sagt,
+etliche Memorials aber auch sehr viele Museen angesiedelt.
+
 ![White House with T](/images/2016-08-20_White-House-T.jpg)
+
+Wir starten unseren Tag mit einem Frühstück beim Weißen Haus
+und dem obligatorischen Photoshoot.
 
 ![White House with J](/images/2016-08-20_White-House-J.jpg)
 
