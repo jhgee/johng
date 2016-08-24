@@ -39,11 +39,18 @@ Hier sind einige Polizisten des Secret Services, die Präsenz
 zeigen und dafür sorgen, dass man niht zu dicht an den Zaun
 kommt.
 
-10:30 gefrühstückt vorm weißen Haus
-
 ![Memorials](/images/2016-08-20_Memorials.jpg)
 
+Hinter dem Weißen Haus beginnt die Memorial Mall.
+Gesamt Washington und gerade die Mall ist sehr 
+weitläufig, sodass es sehr viel Platz gibt zwischen
+den einzelnen Sehenswürdigkeiten.
+
 ![Stars and Stripes](/images/2016-08-20_Stars-And-Stripes.jpg)
+
+Da die Stadt von Beginn an geplant ist, sind die Gebäude
+auf großen Achsen zueinander angeordnet, wodurch
+sich epische Blicke ergeben.
 
 Es ist unglaublich still, weil ziemlich wenig
 Verkehr und Lärm ist gerade im Vergleich zu den letzten Tagen
