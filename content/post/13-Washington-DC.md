@@ -36,8 +36,8 @@ Wir hören Sprüche wie
 "Mein Mann ist so dunkel auf dem Bild, machen Sie bitte ein Bild!"
 
 Hier sind einige Polizisten des Secret Services, die Präsenz
-zeigen und dafür sorgen, dass man niht zu dicht an den Zaun
-kommt.
+zeigen und dafür sorgen, 
+dass man dem Zaun nicht zu nahe kommt.
 
 ![Memorials](/images/2016-08-20_Memorials.jpg)
 
@@ -50,18 +50,24 @@ den einzelnen Sehenswürdigkeiten.
 
 Da die Stadt von Beginn an geplant ist, sind die Gebäude
 auf großen Achsen zueinander angeordnet, wodurch
-sich epische Blicke ergeben.
+sich weitläufige Perspektiven ergeben.
 
 Es ist unglaublich still, weil ziemlich wenig
 Verkehr und Lärm ist gerade im Vergleich zu den letzten Tagen
 
 ![National Air and Space Museum](/images/2016-08-20_Air-And-Space-Museum.jpg)
 
-*National Air and Space Museum*
+Das *National Air and Space Museum* besuchen 
+wir ausführlich, nachdem wir durch das
+*National Museum of American History*
+nur schnell durch gegangen sind. 
 
 ![Apollo 11](/images/2016-08-20_Apollo-11.jpg)
 
-Museum
+Es gibt viele tolle Ausstellungsstücke,
+wovon eines die Kapsel der Apollo 11 Mission ist,
+mit dem die Astronauten der ersten 
+Mondbegehung zur Erde zurückkehrten. 
 
 Uns fällt auf, dass Amerika zwar die erste Demokratie war, technologisch jedoch
 eher ein Entwicklungsland war.
