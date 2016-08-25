@@ -18,9 +18,9 @@ An der Memorial Mall sind, wie der Name schon sagt,
 etliche Memorials aber auch sehr viele Museen angesiedelt.
 
 Der August ist im Prinzip der denkbar schlechteste
-Besuchsmonat von DC, das sagen auch alle Reiseführer,
+Besuchsmonat für DC, das sagen auch alle Reiseführer,
 da die Politik Sommerpause macht und der Hauptmotor
-der Stadt somit im Leerlauf ist.
+der Stadt somit im Leerlauf steht.
 
 ![White House with T](/images/2016-08-20_White-House-T.jpg)
 
@@ -32,7 +32,7 @@ und einem kleinen Photoshoot.
 
 Das Photo hinzubekommen, ist garnicht mal sooo einfach.
 Wir hören Sprüche wie
-"Ganz schön wei0 das Haus!" oder auch
+"Ganz schön weiß das Haus!" oder auch
 "Mein Mann ist so dunkel auf dem Bild, machen Sie bitte ein Bild!"
 
 Hier sind einige Polizisten des Secret Services, die Präsenz
@@ -45,6 +45,8 @@ Hinter dem Weißen Haus beginnt die Memorial Mall.
 Gesamt Washington und gerade die Mall ist sehr 
 weitläufig, sodass es sehr viel Platz gibt zwischen
 den einzelnen Sehenswürdigkeiten.
+Im Gegensatz zu Manhattan kann man die Stadt jedoch
+sehr gut zu Fuß entdecken. 
 
 ![Stars and Stripes](/images/2016-08-20_Stars-And-Stripes.jpg)
 
@@ -53,7 +55,7 @@ auf großen Achsen zueinander angeordnet, wodurch
 sich weitläufige Perspektiven ergeben.
 
 Es ist unglaublich still, weil ziemlich wenig
-Verkehr und Lärm ist gerade im Vergleich zu den letzten Tagen
+Verkehr und Lärm ist, gerade im Vergleich zu den letzten Tagen in New York. 
 
 ![National Air and Space Museum](/images/2016-08-20_Air-And-Space-Museum.jpg)
 
@@ -82,11 +84,10 @@ Memorial.
 
 ![Washington Monument](/images/2016-08-20_Washington-Monument.jpg)
 
-Auf dem Weg gehen wir nochmals am
+Auf dem Weg kommen wir nochmals am
 Washington Monument vorbei. 
 
 ![Lincoln Memorial](/images/2016-08-20_Lincoln-Memorial.jpg)
-
 
 Vor Kopf der Mall sitzt der gute
 Lincoln in seinem Monument. 
