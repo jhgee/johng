@@ -69,23 +69,46 @@ wovon eines die Kapsel der Apollo 11 Mission ist,
 mit dem die Astronauten der ersten 
 Mondbegehung zur Erde zurückkehrten. 
 
-Uns fällt auf, dass Amerika zwar die erste Demokratie war, technologisch jedoch
+Uns fällt auf, dass Amerika zwar die erste Demokratie technologisch jedoch
 eher ein Entwicklungsland war.
-Erst durch die Emmigration vieler
-guter Leute aus Europa zu Zeiten des
+Erst durch die Immigration vieler
+gut ausgebildeter Leute aus Europa zu Zeiten des
 ersten Weltkriegs, hat sich Amerika so stark entwickelt. 
+
+Um kurz nach sechs verlassen wir das Museum
+und gehen dem Sonnenuntergang entgegen
+der Mall entlang in Richtung des Lincoln
+Memorial. 
 
 ![Washington Monument](/images/2016-08-20_Washington-Monument.jpg)
 
+Auf dem Weg gehen wir nochmals am
+Washington Monument vorbei. 
+
 ![Lincoln Memorial](/images/2016-08-20_Lincoln-Memorial.jpg)
 
-18:15 Raus
+
+Vor Kopf der Mall sitzt der gute
+Lincoln in seinem Monument. 
 
 ![Reflecting Pool](/images/2016-08-20_Reflecting-Pool.jpg)
 
-Lincoln Memorial
+Entlang der Mall ist der *Reflecting Pool*,
+der schön das Washington Monument reflektiert. 
 
-![Chalestown](/images/2016-08-20_Charlestown.jpg)
+![Charlestown](/images/2016-08-20_Charlestown.jpg)
 
-Potomac River
+Nachdem die Sonne untergegangen ist,
+gehen wir entlang des Potomac Rivers
+und kommen zum Stadtteil Charlestown,
+in dem anscheinend das Nachtleben stattfindet. 
+Yachten haben direkt an der Promenade
+festgemacht, an einem Platz mit Springbrunnen
+sitzen viele Menschen und es gibt
+viele Restaurants in dieser Gegend. 
+Wir essen nach einem kurzen Spaziergang durch
+das Viertel in einem kleinen Geschäft. 
 
+Auf dem Rückweg laufen wir in direkt West-Ost-
+Richtung "horizontal" durch die Stadt bis
+zum Hostel. 
