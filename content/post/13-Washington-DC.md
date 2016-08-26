@@ -1,7 +1,7 @@
 +++
 date = "2016-08-20"
 draft = false
-title = ""
+title = "DC - Memorial Mall"
 image = "2016-08-20_Washington-Monument-J"
 categories = ["USA 2016", "Washington DC"]
 +++
