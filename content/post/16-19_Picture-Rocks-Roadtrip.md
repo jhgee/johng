@@ -54,7 +54,7 @@ Wir suchen uns einen Parkplatz und
 schlagen nach einem kurzen Spaziergang
 unser Lager im Wald nahe der Küste auf. 
 
-Im Gegensatz zum oldschool campen im Zelt,
+Im Gegensatz zum oldschool Campen in Zelten,
 übernachten wir in Hängematten, 
 die sehr viel leichter im Gewicht und, 
 sofern Bäume auffindbar sind, 
@@ -72,9 +72,33 @@ um zum Turnip Rock zu wandern.
 
 Nach kurzer Wanderung treffen wir auf einen Pfad und haben von der Steilküste einen
 schönen Ausblick. 
+
+Wie sich für uns erst jetzt herausstellt,
+ist das gesamte Gebiet inklusive 
+dem Turnip Rock private Property. 
+Die Besitzer mögen nicht so gerne Besucher,
+die nicht in einem der Cottages auf 
+dem Gebiet Urlaub machen, 
+besonders weil das Ziel in letzter Zeit
+über das Internet stark populär geworden ist
+und daher zeitweise sehr viele Touristen
+irrtümliched Weise vorbeikamen. 
+Von einem ganz freundlichen Anwohner,
+werden wir zu unserem Auto zurück
+gefahren - praktisch. 
+
 ![Beach](/images/2016-08-23_Beach.jpg)
 
+Auf unserem Weg gen Norden
+machen wir zu Beginn erstmal
+Halt an der Küste des Lake Hurons,
+um am Strand zu Mittag zu essen und zu baden. 
+
 ![Mackinac Bridge Group](/images/2016-08-23_Mackinac-Bridge-Group.jpg)
+
+Die weitere Fahrt bei bestem Wetter 
+und an der frischen Luft macht Spaß, sodass die 3,5 Stunden bis wir die Seen über 
+die Mackinack Brücke überqueren wie im Flug. 
 
 # Tahquamenon Falls
 
