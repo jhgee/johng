@@ -7,7 +7,7 @@ categories = ["USA 2016", "Washington DC"]
 +++
 
 Die Sehenswürdigkeiten der Hauptstadt der Vereinigten Staaten
-von Amerika werden wir uns am heutigen Tag ansehen.
+von Amerika werden wir uns heute ansehen.
 
 Washington DC ist hauptberufich Hauptstadt. 
 Die Stadt wurde als politisches Zentrum der USA erbaut,
@@ -110,6 +110,7 @@ viele Restaurants in dieser Gegend.
 Wir essen nach einem kurzen Spaziergang durch
 das Viertel in einem kleinen Geschäft. 
 
-Auf dem Rückweg laufen wir in direkt West-Ost-
-Richtung "horizontal" durch die Stadt bis
+Auf dem Rückweg laufen wir in direkter 
+West-Ost-Richtung "horizontal" 
+durch die Stadt bis
 zum Hostel. 
