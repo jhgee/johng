@@ -41,6 +41,7 @@ und der Umgebung erkennbar.
 Wir entscheiden uns, nicht zur einer
 zum Flughafen nahe
 gelegenen Campingstelle zu fahren, 
+bei der S schon war,
 sondern heute Abend noch ein paar Meilen gen
 Norden zu schaffen. 
 Unser Ziel ist der Turnip Rock am Lake
@@ -61,12 +62,13 @@ sofern Bäume auffindbar sind,
 auch im Aufbau sind. 
 
 ## Dienstag
+
 ![Hammocks](/images/2016-08-23_Hammocks.jpg)
 
 Während meiner ersten Nacht in der Hängematte
 und unter freiem Himmel 
 habe ich sehr gut geschlafen. 
-Wir haben alle auch recht lang geschlafen
+Wir haben alle auch recht lange geschlafen
 und brechen gegen 10 Uhr unser Lager ab,
 um zum Turnip Rock zu wandern. 
 
@@ -79,8 +81,8 @@ Wie sich für uns erst jetzt herausstellt,
 ist das gesamte Gebiet, inklusive 
 des Turnip Rocks, private property. 
 Die Besitzer mögen nicht so gerne Besucher,
-die nicht in einem der Cottages auf 
-dem Gebiet Urlaub machen, 
+die nicht in einem der Cottages der Gegend 
+Urlaub machen, 
 besonders weil das Ziel in letzter Zeit
 über das Internet stark populär geworden ist
 und daher zeitweise sehr viele Touristen
@@ -100,7 +102,7 @@ um am Strand zu Mittag zu essen und zu baden.
 
 Die weitere Fahrt bei bestem Wetter 
 und an der frischen Luft macht Spaß, sodass die 3,5 Stunden bis wir die Seen über 
-die Mackinack Brücke queren wie im Flug vergehen. 
+die Mackinac Brücke queren wie im Flug vergehen. 
 
 # Tahquamenon Falls
 
@@ -118,14 +120,14 @@ ein kurzes Stück entlang der Wasserfälle, den wir am nächsten Tag weiter gehe
 
 Am nächsten Tag wachen wir morgens vom
 leichten Regen auf. 
-Wir überspringen das träge aufwachen 
+Wir überspringen das träge Aufwachen 
 und bauen fix das Zelt ab. 
 
 Obwohl oder besser gerade weil es regnet
 ziehen wir uns nur unsere Badehose an
 und gehen bei den Wasserfällen ins Wasser. 
-Das ersetzt unsere Morgendusche
-und wir müssen wenige nasse Klamotten
+Das ersetzt die Morgendusche
+und wir müssen weniger nasse Klamotten
 im Auto trocknen. 
   
 # Picture Rocks National Park
@@ -156,7 +158,7 @@ diesem Gebiet.
 Unsere Hängematten haben S und ich unter einer 
 gemeinsamen Zeltplane (Tarp) eingerichtet,
 um uns vor den paar Regentropfen zu schützen,
-die vom Wetterbericht vorauagesagt sind. 
+die vom Wetterbericht vorausgesagt sind. 
 
 ![Jump](/images/2016-08-24_Jump.jpg)
 
@@ -195,27 +197,27 @@ spiegelden Handydisplay angesehen habe.
 
 ## Donnerstag
 
-Mit ddm Auto und leichtem Gepäck fahren wir 
+Mit dem Auto und leichtem Gepäck fahren wir 
 im Nationalpark zu einem anderen Parkplatz,
 um dort eine Tagestour zu den 
 schönstem Stellen des Nationalparks zu machen. 
 
 Dass wir kein Handynetz haben hat uns,
-geradd hier in den USA, nicht überrascht.
+gerade hier in den USA, nicht überrascht.
 Dass wir aber wirklich ziemlich abgelegen sind, wird uns auf dem Weg mit dem Auto klar,
 als wir merken, dass hier weder FM noch AM
 Radio Empfang haben.
 
 ![Picture Rocks Lakeshore](/images/2016-08-25_Picture-Rocks-Lakeshore.jpg)
 
-Nacb über einer Stunde Wanderung 
+Nach über einer Stunde Wanderung 
 kommen wir an dem wohl schönsten Strand,
 den ich bis jetzt gesehen habe. 
 
 Das schöne an den großen Seen ist, 
 dass sie zwar groß wie Meere wirken,
 aber Süßwasser haben. 
-Gerade der Lake Superior hat dabei absolut 
+Gerade der Lake Superior hat dabei  
 (superior) Trinkwasserqualität. 
 Ich kann somit während des Schwimmens bedenkenlos trinken. 
 
