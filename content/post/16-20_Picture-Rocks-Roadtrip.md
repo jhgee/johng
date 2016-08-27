@@ -244,7 +244,7 @@ wieder schön anzusehen.
 ![Sunset Group](/images/2016-08-25_Sunset-Group.jpg)
 
 Bei so einem schönen Panorama kann sogar mit
-Selbstauslöser kaum etwS schief gehen 
+Selbstauslöser kaum etwas schief gehen 
 - toller Abend!
 
 ![Sunset](/images/2016-08-25_Sunset.jpg)
