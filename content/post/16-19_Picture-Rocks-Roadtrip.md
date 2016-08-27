@@ -37,6 +37,7 @@ und der Umgebung erkennbar.
 
 # Turnip Rock
 
+## Montag
 Wir entscheiden uns, nicht zur einer
 zum Flughafen nahe
 gelegenen Campingstelle zu fahren, 
@@ -59,6 +60,7 @@ die sehr viel leichter im Gewicht und,
 sofern Bäume auffindbar sind, 
 auch im Aufbau sind. 
 
+## Dienstag
 ![Hammocks](/images/2016-08-23_Hammocks.jpg)
 
 Während meiner ersten Nacht in der Hängematte
@@ -102,13 +104,17 @@ die Mackinack Brücke queren wie im Flug vergehen.
 
 # Tahquamenon Falls
 
+## Dienstag
+
+![Tahquamenon Falls](/images/2016-08-23_Tahquamenon-Falls.jpg)
+
 Unsere nächste Übernachtung machen wir 
 an den Tahquamenon Falls auf dem Campingplatz. 
 Bevor wir das große Vier-Personen-Zelt 
 aufschlagen, gehen wir einen Pfad 
 ein kurzes Stück entlang der Wasserfälle, den wir am nächsten Tag weiter gehen wollen. 
 
-![Tahquamenon Falls](/images/2016-08-23_Tahquamenon-Falls.jpg)
+## Mittwoch
 
 Am nächsten Tag wachen wir morgens vom
 leichten Regen auf. 
@@ -124,6 +130,8 @@ im Auto trocknen.
   
 # Picture Rocks National Park
 
+## Mittwoch
+
 Nach 1,5 Stunden Fahrt, es regnet die meiste
 Zeit, kommen wir bei trockenem Wetter
 am Picture Rocks Nationalpark an. 
@@ -137,30 +145,127 @@ und wandern zur Camping Stelle.
 
 ![Beaver Lake](/images/2016-08-24_Beaver-Lake.jpg)
 
+Der See ist wunderschön still und unser Camp
+ist direkt neben ihm. 
+Wir sind mitten in der Natur 
+und nur einer der wenigen Menschen in 
+diesem Gebiet. 
+
 ![Campsite](/images/2016-08-24_Campsite.jpg)
+
+Unsere Hängematten haben S und ich unter einer 
+gemeinsamen Zeltplane (Tarp) eingerichtet,
+um uns vor den paar Regentropfen zu schützen,
+die vom Wetterbericht vorauagesagt sind. 
 
 ![Jump](/images/2016-08-24_Jump.jpg)
 
+Wir essen gegen sechs und gehen danach
+ca. 1,5 h an den Strand, 
+um dort im Superior Lake baden zu gehen 
+und den Sonnenuntergang zu genieße.  
+Wir teilen uns die ca 10 km Küstenlinie
+mit zwei Menschen, 
+wodurch es wunderbar schön ruhig ist. 
+
 ![Sunset](/images/2016-08-24_Sunset.jpg)
+
+Das Glück bleibt uns treu und so haben wir
+einen wunderschönen Sonnenuntergang, 
+der den Himmel mit vereinzelten Wolken in 
+rotes Licht taucht.
 
 ![Sternenhimmel](/images/2016-08-24_Sternenhimmel.jpg)
 
+Der Rückweg ist recht dunkel, 
+aber dafür können wir von der anderen Seite 
+des Beaver Lakes den absolut atemberaubenden
+Sternenhimmel betrachten. 
+Es ist wunderschön, die tausende Sterne
+und auch die sich über den gesamten Hinmel
+erstreckende Milchstraße zu sehen. 
+
+Fantastisch ist die Spiegelung der Sterne
+im glatten See. 
+Ich habe verucht mit der Kamera festzuhalten. 
+Falls ihr nur ein schwarzes Bild seht,
+ist es nicht schlimm, 
+so gings mir auch als ich das Bild auf dem
+spiegelden Handydisplay angesehen habe. 
+
 ## Donnerstag
+
+Mit ddm Auto und leichtem Gepäck fahren wir 
+im Nationalpark zu einem anderen Parkplatz,
+um dort eine Tagestour zu den 
+schönstem Stellen des Nationalparks zu machen. 
+
+Dass wir kein Handynetz haben hat uns,
+geradd hier in den USA, nicht überrascht.
+Dass wir aber wirklich ziemlich abgelegen sind, wird uns auf dem Weg mit dem Auto klar,
+als wir merken, dass hier weder FM noch AM
+Radio Empfang haben.
 
 ![Picture Rocks Lakeshore](/images/2016-08-25_Picture-Rocks-Lakeshore.jpg)
 
+Nacb über einer Stunde Wanderung 
+kommen wir an dem wohl schönsten Strand,
+den ich bis jetzt gesehen habe. 
+
+Das schöne an den großen Seen ist, 
+dass sie zwar groß wie Meere wirken,
+aber Süßwasser haben. 
+Gerade der Lake Superior hat dabei absolut 
+(superior) Trinkwasserqualität. 
+Ich kann somit während des Schwimmens bedenkenlos trinken. 
+
 ![Coast Line](/images/2016-08-25_Coast-Line.jpg)
+
+Da dieser Strand recht bekannt ist, ist hier schon ein wenig mehr los. 
+Während den Stunden die wir hier verbringen
+sind wir trotzdem ungestört und haben
+einen tollen Nachmittag. 
+
+Anstatt einen Rundweg zu laufen,
+emtscheiden wir uns, 
+den direkten Weg zurück zu nehmen, 
+um unser Camp der letzten Nacht in Richtung
+Küste zu verschieben und bei
+Sonnenuntergang am Strand kochen und essen zu
+könnnen. 
 
 ![Beaver Lake](/images/2016-08-25_Beaver Lake.jpg)
 
+Am Abend ist der spiegelglatte Beaver Lake 
+wieder schön anzusehen. 
+
 ![Sunset Group](/images/2016-08-25_Sunset-Group.jpg)
+
+Bei so einem schönen Panorama kann sogar mit
+Selbstauslöser kaum etwS schief gehen 
+- toller Abend!
 
 ![Sunset](/images/2016-08-25_Sunset.jpg)
 
+Nach dem Sonnenuntergang schlagen wir unser
+Lager am Wald ziemlich nah der Küste auf,
+wo wir die Wellen rauschen hören. 
+
 ## Freitag
+
+Kurz vor Sonnenaufgang stehen wir auf,
+um diesen eventuell noch zu sehen. 
 
 ![Hammock](/images/2016-08-26_Hammock.jpg)
 
+Das ist das Camp der vergangenen Nacht. 
+
 ![Sunrise](/images/2016-08-26_Sunrise.jpg)
 
-![Beaver-Lake](/images/2016-08-26_Beaver-Lake.jpg)
+Der Sonnenaufgang ist nicht direkt sichtbar,
+jedoch die rosa gefärbten Wollen. 
+
+![Beaver Lake](/images/2016-08-26_Beaver-Lake.jpg)
+
+Auf dem Rückweg zum Auto kommen wir
+an dem uns mun gut bekannten Beaver Lake vorbei. 
