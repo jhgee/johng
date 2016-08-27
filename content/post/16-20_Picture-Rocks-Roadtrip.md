@@ -221,7 +221,7 @@ Gerade der Lake Superior hat dabei
 (superior) Trinkwasserqualität. 
 Ich kann somit während des Schwimmens bedenkenlos trinken. 
 
-![Coast Line](/images/2016-08-25_Coast-Line.jpg)
+![Coast Line](/images/2016-08-25_Picture-Rocks-Coast-Line.jpg)
 
 Da dieser Strand recht bekannt ist, ist hier schon ein wenig mehr los. 
 Während den Stunden die wir hier verbringen
@@ -270,7 +270,7 @@ jedoch die rosa gefärbten Wollen.
 ![Beaver Lake](/images/2016-08-26_Beaver-Lake.jpg)
 
 Auf dem Rückweg zum Auto kommen wir
-an dem uns mun gut bekannten Beaver Lake vorbei. 
+an dem uns nun gut bekannten Beaver Lake vorbei. 
 
 Durch unser frühes Aufstehen kommen wir um kurz nach acht mit dem Auto los und können
 die mehrstündige Autofahrt zurück in 
