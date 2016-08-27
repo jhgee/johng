@@ -31,10 +31,9 @@ Superior.
 
 ![Sattelitenbild der Großen Seen](https://upload.wikimedia.org/wikipedia/commons/5/57/Great_Lakes_from_space_crop_labeled.jpg)
 
-Am Sattelitenbild ist die genaue
+Auf dem Sattelitenbild ist die genaue
 geographische Situation der Großen Seen
-und der Umebung
-erkennbar. 
+und der Umgebung erkennbar. 
 
 # Turnip Rock
 
@@ -65,7 +64,8 @@ auch im Aufbau sind.
 Während meiner ersten Nacht in der Hängematte
 und unter freiem Himmel 
 habe ich sehr gut geschlafen. 
-Wir brechen unser Lager ab,
+Wir haben alle auch recht lang geschlafen
+und brechen gegen 10 Uhr unser Lager ab,
 um zum Turnip Rock zu wandern. 
 
 ![Turnip Rock Coast](/images/2016-08-23_Turnip-Rock-Coast.jpg)
@@ -74,17 +74,17 @@ Nach kurzer Wanderung treffen wir auf einen Pfad und haben von der Steilküste e
 schönen Ausblick. 
 
 Wie sich für uns erst jetzt herausstellt,
-ist das gesamte Gebiet inklusive 
-dem Turnip Rock private Property. 
+ist das gesamte Gebiet, inklusive 
+des Turnip Rocks, private property. 
 Die Besitzer mögen nicht so gerne Besucher,
 die nicht in einem der Cottages auf 
 dem Gebiet Urlaub machen, 
 besonders weil das Ziel in letzter Zeit
 über das Internet stark populär geworden ist
 und daher zeitweise sehr viele Touristen
-irrtümliched Weise vorbeikamen. 
+irrtümlicher Weise vorbeikamen. 
 Von einem ganz freundlichen Anwohner,
-werden wir zu unserem Auto zurück
+werden wir dann zu unserem Auto zurück
 gefahren - praktisch. 
 
 ![Beach](/images/2016-08-23_Beach.jpg)
@@ -98,9 +98,15 @@ um am Strand zu Mittag zu essen und zu baden.
 
 Die weitere Fahrt bei bestem Wetter 
 und an der frischen Luft macht Spaß, sodass die 3,5 Stunden bis wir die Seen über 
-die Mackinack Brücke überqueren wie im Flug. 
+die Mackinack Brücke queren wie im Flug vergehen. 
 
 # Tahquamenon Falls
+
+Unsere nächste Übernachtung machen wir 
+an den Tahquamenon Falls auf dem Campingplatz. 
+Bevor wir das große Vier-Personen-Zelt 
+aufschlagen, gehen wir einen Pfad 
+ein kurzes Stück entlang der Wasserfälle, den wir am nächsten Tag weiter gehen wollen. 
 
 ![Tahquamenon Falls](/images/2016-08-23_Tahquamenon-Falls.jpg)
 
@@ -109,9 +115,25 @@ leichten Regen auf.
 Wir überspringen das träge aufwachen 
 und bauen fix das Zelt ab. 
 
+Obwohl oder besser gerade weil es regnet
+ziehen wir uns nur unsere Badehose an
+und gehen bei den Wasserfällen ins Wasser. 
+Das ersetzt unsere Morgendusche
+und wir müssen wenige nasse Klamotten
+im Auto trocknen. 
+  
 # Picture Rocks National Park
 
+Nach 1,5 Stunden Fahrt, es regnet die meiste
+Zeit, kommen wir bei trockenem Wetter
+am Picture Rocks Nationalpark an. 
+In der Touristeninformation planen wir unsere Tour und bekommen einen Backcountry Camping Platz am Beaver Lake.
+
 ![Sign](/images/2016-08-24_Sign.jpg)
+
+Mit dem Auto fahren wir zum Parkplatz
+nahe dem Beaver Lake, packen unser Gepäck 
+und wandern zur Camping Stelle. 
 
 ![Beaver Lake](/images/2016-08-24_Beaver-Lake.jpg)
 
