@@ -269,3 +269,10 @@ jedoch die rosa gefärbten Wollen.
 
 Auf dem Rückweg zum Auto kommen wir
 an dem uns mun gut bekannten Beaver Lake vorbei. 
+
+Durch unser frühes Aufstehen kommen wir um kurz nach acht mit dem Auto los und können
+die mehrstündige Autofahrt zurück in 
+den Süden starten. 
+
+Dieser Blog Eintrag kommt mit ein wenig Verzögerung, da ich zum einen nicht viel Zeit zum Schreiben und zum anderen kein Mobilfunknetz
+gefunden habe. 
