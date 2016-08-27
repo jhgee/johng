@@ -333,5 +333,5 @@ Nationalpark geshen und bin innerhalb
 von vier Tagen in drei der fünf Großen Seen
 geschwommen - toller Start!
 
-*Dieser Blog Eintrag kommt mit ein wenig Verzögerung, da ich zum einen nicht viel Zeit zum Schreiben und zum anderen kein Mobilfunknetz
-gefunden habe. *
+Dieser Blog Eintrag kommt mit ein wenig Verzögerung, da ich zum einen nicht viel Zeit zum Schreiben und zum anderen kein Mobilfunknetz
+gefunden habe.
