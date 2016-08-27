@@ -1,5 +1,5 @@
 +++
-date = "2016-08-26"
+date = "2016-08-27"
 draft = true
 title = "Roadtrip in den Picture Rock National Park"
 image = "2016-08-25_Sunset-Group.jpg"
