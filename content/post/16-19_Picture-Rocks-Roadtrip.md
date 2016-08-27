@@ -274,5 +274,9 @@ Durch unser frühes Aufstehen kommen wir um kurz nach acht mit dem Auto los und 
 die mehrstündige Autofahrt zurück in 
 den Süden starten. 
 
+# Saugatuck
+
+## Freitag
+
 Dieser Blog Eintrag kommt mit ein wenig Verzögerung, da ich zum einen nicht viel Zeit zum Schreiben und zum anderen kein Mobilfunknetz
 gefunden habe. 
