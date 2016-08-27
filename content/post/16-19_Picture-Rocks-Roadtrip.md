@@ -274,9 +274,62 @@ Durch unser frühes Aufstehen kommen wir um kurz nach acht mit dem Auto los und 
 die mehrstündige Autofahrt zurück in 
 den Süden starten. 
 
+![Mackinac Bridge](/images/2016-08-26_Mackinac-Bridge.jpg)
+
+An der Mackinac Bridge, 
+die wir gleich
+nutzen um die großen Seen zu überqueren, 
+machen wir Mittagspause.
+
 # Saugatuck
 
 ## Freitag
 
-Dieser Blog Eintrag kommt mit ein wenig Verzögerung, da ich zum einen nicht viel Zeit zum Schreiben und zum anderen kein Mobilfunknetz
-gefunden habe. 
+Bevor wir nach East Lansing,
+dem Studienort von S und A fahren,
+fahren wir nach Saugatuck an den Strand. 
+
+![Düne](/images/2016-08-26_Dune.jpg)
+
+Der Platz, an dem wir später campen werden,
+ist ziemlich cool auf eiher Düne gelegen. 
+
+![Aussicht](/images/2016-08-26_Aussicht.jpg)
+
+Von dort oben hat man einen tollen Blick
+auf das Wasser, das wir ausgiebig nutzen,
+da es angenehm warm ist. 
+
+![Sunset](/images/2016-08-26_Sunset.jpg)
+
+Zum Abendbrot gibt es leckere Avocadobrote 
+vor einem erneut schönen Sonnenuntergang. 
+
+Gegen Mitternacht spannen wir unsere
+Hängematten auf, ich schreibe an diesem
+Blog Eintrag weiter, der immer länger wird und
+gehe dann schlafen. 
+
+## Samstag
+
+Am Morgen werden wir um vier Uhr vom
+Regen aufgescheucht. 
+Dieser war zwar angesagt jedoch erst für 8 Uhr. 
+Da wir keine Lust haben mit unserer
+Ausrüstung nass zu werden,
+packen wir unsere Sachen zusammen,
+laufen zurück zum Auto und fahren um 5 Uhr
+nach East Lansing, was diesen Trip
+beendet. 
+
+Nachdem ich S und A lange nicht mehr 
+gesehen habe, sind wir zusammen auf der
+Überholapur in den Urlaub gestartet. 
+Direkt vom Flughafen ging's in die Hängematte,
+ich habe den wunderschönen Picture Rocks
+Nationalpark geshen und bin innerhalb
+von vier Tagen in drei der fünf Großen Seen
+geschwommen - toller Start!
+
+*Dieser Blog Eintrag kommt mit ein wenig Verzögerung, da ich zum einen nicht viel Zeit zum Schreiben und zum anderen kein Mobilfunknetz
+gefunden habe. *
