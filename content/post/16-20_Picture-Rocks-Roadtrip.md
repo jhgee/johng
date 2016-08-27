@@ -1,6 +1,6 @@
 +++
 date = "2016-08-27"
-draft = true
+draft = false
 title = "Roadtrip in den Picture Rock National Park"
 image = "2016-08-25_Sunset-Group.jpg"
 categories = ["USA 2016", "Michigan"]
