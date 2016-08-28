@@ -1,7 +1,7 @@
 +++
 date = "2016-08-27"
 draft = false
-title = "Roadtrip in den Picture Rock National Park"
+title = "Roadtrip zum Picture Rocks National Park"
 image = "2016-08-25_Sunset-Group.jpg"
 categories = ["USA 2016", "Michigan"]
 +++
