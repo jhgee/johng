@@ -7,8 +7,8 @@ categories = ["USA 2016", "New York"]
 +++
 
 Ziel ist heute das
-American Museum of Natural History und die
-Erkundung des Norden Manhattans.
+*American Museum of Natural History* und die
+Erkundung des Nordens Manhattans.
 
 Relativ spät starten wir in den Tag und nehmen
 um 10:50 den Zug zur Penn Station.
