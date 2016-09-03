@@ -2,7 +2,7 @@
 date = "2016-08-20"
 draft = false
 title = "DC - Memorial Mall"
-image = "2016-08-20_Washington-Monument-J"
+image = "2016-08-20_Washington-Monument-J.jpg"
 categories = ["USA 2016", "Washington DC"]
 +++
 

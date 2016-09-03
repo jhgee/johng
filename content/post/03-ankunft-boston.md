@@ -2,7 +2,7 @@
 date = "2016-08-10"
 draft = false
 title = "Ankunft in Boston"
-image = "2016-08-10_Library"
+image = "2016-08-10_Library.jpg"
 categories = ["USA 2016", "Boston"]
 +++
 

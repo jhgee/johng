@@ -2,7 +2,7 @@
 date = "2016-08-17"
 draft = false
 title = "Metropolitan Museum of Art"
-image = "2016-08-17_Egypt-Art"
+image = "2016-08-17_Egypt-Art.jpg"
 categories = ["USA 2016", "New York"]
 +++
 
