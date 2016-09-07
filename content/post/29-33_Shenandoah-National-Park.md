@@ -52,6 +52,9 @@ ausgeblendet wird.
 Nach ausgiebigen 11 Stunden Schlaf wache
 ich so langsam wieder auf. 
 
+11:10 los
+
+
 ![](/images/2016-09-07_.jpg)
 
 
