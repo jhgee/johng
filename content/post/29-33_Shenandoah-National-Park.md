@@ -50,10 +50,61 @@ ausgeblendet wird.
 # Mittwoch
 
 Nach ausgiebigen 11 Stunden Schlaf wache
-ich so langsam wieder auf. 
+ich um 8 Uhr so langsam wieder auf. 
 
 11:10 los
 
+Schon nach relativ kurzer Wanderung,
+die aber viele Höhenmeter herauf ging,
+haben wir Lust Mittagspause zu machen 
+und setzen uns dazu an einen Fluss. 
+Es gibt Nudeln mit Pesto mit Nachschlag,
+wobei kurz nach der letzten Portion ein 
+Regenschauer über uns herein bricht. 
+Kurz zuvor hat noch die Sonne geschien. 
+So schnell wir können bauen wir eine
+Konstruktion mit einem Tarp, um uns 
+und unsere Sachen vor dem Regen zu schützen. 
+Die Mühe loht sich auf jeden Fall, da 
+es überraschend stark regnet. 
+
+Wir setzen unsere Wanderung fort und
+füllen beim überqueren des Flusses
+unsere Trinkvorräte auf, da wir die
+nächsten 24 h voraussichtlich nicht
+in der Nähe von Wasser sein werden. 
+
+Voll gepackt mit Wasser folgt ein 
+ordentlicher Anstieg, der uns ganz gut
+zum Schwitzen bringt. 
+Besonders schöne Aussichten bieten sich
+uns nicht, aber die Lust riecht oben
+auf dem Plateau sehr schön, wo auch einige
+Nadelbäume zu finden sind. 
+
+Da der Nachmittag so gut wie um ist;
+halten wir uns nach einer guten Stelle
+für die Übernachtung aus. 
+Da der Beckengurt inzwischen ziemlich
+stark drückt, pausiere ich mit A,
+während S vor läuft, 
+um einen guten Platz aus zu kundschaften. 
+
+Wir laufen zu der Stelle, wobei es just in
+diesem Moment wieder anfängt zu tröpfeln. 
+Wir wollen umseren Schlafplatz möglichst
+gut mit den vorhandenen Tarps überdachen und
+gegen Regen schützen, was sich als nicht so
+einfach erweist.
+Nach ungefähr einer Stunde sind wir fertig
+und haben eine passable Lösung gefunden. 
+So ganz zufrieden sind wir nicht. 
+Da es bereits aufgehört hat zu regnen, 
+hoffen wir, dass es über nach auch so bleibt. 
+
+Um 8 Uhr wird es wieder schnell dunkel. 
+Wir ziehen unsere Beutel mit Essen
+einen Baum hoch und legen uns dann mal wieder ziemlich früh ins Bett. 
 
 ![](/images/2016-09-07_.jpg)
 
