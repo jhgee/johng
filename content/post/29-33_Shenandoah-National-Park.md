@@ -111,7 +111,81 @@ einen Baum hoch und legen uns dann mal wieder ziemlich früh ins Bett.
 
 # Donnerstag
 
+In der Nacht war ich einmal kurz 
+wach und für kleine Johns. Besonders nervig
+war in dieser Nacht, dass es am Anfang so 
+warm war. 
+Im Laufe der Nacht ist es jedoch kälter geworden,
+sodass es auch mit Schlafsack angenehm ist. 
+Zum Glück hat es nicht nochmal geregnet.
 
+Um 8:30 werde ich wieder wach und 
+bin erneut überrascht, wie viel ich
+geschlafen habe. 
+Zum Frühstück gibt es ein paar Müsliriegel. 
+
+Erstaunlicherweise haben wir an unserem
+eigentlich recht abgelegenen Ort Mobilfunk,
+was wir dazu nutzen, uns ein Hotel in 
+Washington D.C. für den nächsten Tag zu 
+buchen. 
+D.C. ist nicht weit von uns entfernt
+und wir planen, dort einen kleinen Aufenthalt
+einzuschieben, da S und A dort noch nicht 
+waren und wir gerne auch mal in einer Bar
+vorbei schauen würden. 
+
+Wir brechen um kurz vor 11 auf und laufen
+zunächst mal 400 Höhenmeter bergab. 
+Nach einer halben Stunde treffen wir wieder
+auf Wasser und genehmigen uns dort erstmal 
+ein ausgiebiges Bad, dem wir das Mittagessen
+und das Auffüllen der Wasservorräte mit 
+gefiltertem Wasser anschließen. 
+
+Die nächste Etappe führt zunächst noch am
+Fluss entlang und geht dann recht steil 300 Meter bergauf. 
+Gerade mit dem Gepäck und mit den warmen
+Temperaturen kommen wir schnell stark ins
+Schwitzen. 
+
+Besomders lange dauert es glücklicherweise
+nicht bis wir auf der Bergkuppe, auf der wir 
+campen wollen ankommen. 
+Wir finden auch schnell eine ziemlich schöne
+Stelle, wo wir unser Lager aufschlagen. 
+
+Ohne Gepäck laufen wir noch etwas weiter
+zu einem Wasserfall, den wir uns gerne ansehen 
+wollen. Nach 25 Minuten kommen wir dort an
+und finden einen relativ mickrigen Wasserfall,
+der die Reise nicht unbedingt wert war, 
+aber noch für eine Erfrischung herhält. 
+
+Zurück an unserem Lager essen wir Couscous
+mit Pesto und einem ganzen Stück Parmesan. 
+Die Zubereitung geht super schnell, da 
+das Wasser innerhalb weniger Minuten kocht und dann der Couscous nur noch fünf Minuten zieht. 
+
+Beim Wandern wird man zwangsläufig zum
+Kalorienzähler, um die Nahrungsmittel und
+Mahlzeiten zu planen.
+Wir haben nun 700 kcal zum Abendessen gegessen,
+was zum satt werden reichen sollte. Zusammen
+mit ein paar Nüssen als Nachtisch tut es das auch. 
+
+Von unserer Stelle haveb wir einen
+wunderschönen Ausblick auf die umliegenden
+Berge und Wälder, und können auch den
+Sonnenuntergang verfolgen. 
+
+Darauf gibt es auch nichts mehr großes
+zu tun für uns, sodass wir um kurz vor 20 Uhr
+wieder in der Hängematte liegen. 
+
+Da ich noch nicht müde bin, habe ich noch
+ein paar Zeilen über den heutigen Tag aufgeschrieben. Gute Nacht!
+hoch
 ![](/images/2016-09-08_.jpg)
 
 
