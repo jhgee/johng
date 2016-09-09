@@ -185,11 +185,25 @@ wieder in der Hängematte liegen.
 
 Da ich noch nicht müde bin, habe ich noch
 ein paar Zeilen über den heutigen Tag aufgeschrieben. Gute Nacht!
-hoch
+
 ![](/images/2016-09-08_.jpg)
 
 
 # Freitag
 
+Die Nacht war mit ca 20 °C ziemlich warm,
+sodass ich nicht so gut geschlafen habe. 
+Später habe ich dann den Schlafsack einfach
+aus der Hängematte herausgehängt. 
+Nun komplett ungeschützt vor Mücken habe 
+ich mich vorher mit Deet, einem Mosquitospray
+eingedieselt. 
+
+Pünktlich zum Sonnenaufgang bin ich um
+6:30 wieder wach geworden. 
+Da wir heute ein wenig früher aufbrechen 
+wollen, gucken wir uns den Sonnenaufgang an,
+bauen undere Hängematten ab und laufen
+um 7:30 zurück zum Auto. 
 
 ![](/images/2016-09-09_.jpg)
