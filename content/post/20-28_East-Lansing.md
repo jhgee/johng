@@ -46,6 +46,21 @@ ist Vollverpflegung automatisch hinzugebucht.
 Die Miete beträgt im Einzelzimmer 5500$ und 
 im Doppelzimmer 4200$ pro Semester,
 was circa 15 Wochen sind. 
+
 ## Frat
 
-## Aztbesuch
+S und A haben sich entschlossen, einer kleinen
+Fraternity (Frat) beizutreten. 
+Diese hat ca 20 Mitglieder und bot den beiden
+die Möglichkeit mehr Studenten kennen zu lernen. 
+
+Für den Sommer sind S und A vom 
+Studentenwohnheim ins Haus der Frat gezogen. 
+Dort ist es zwar etwas dreckiger und 
+unordentlicher, dafür ist das Wasser nicht
+braun und die Miete deutlich günstiger. 
+
+## Arztbesuch
+
+Am Donnerstag bin ich zum Arzt gegangen,
+weil ich am Tag zuvor 
