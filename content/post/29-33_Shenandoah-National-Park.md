@@ -206,4 +206,7 @@ wollen, gucken wir uns den Sonnenaufgang an,
 bauen undere Hängematten ab und laufen
 um 7:30 zurück zum Auto. 
 
+Als wir um 9 Uhr am Auto ankommen, 
+sind wir froh, dass es noch steht und können
+froh auf  
 ![](/images/2016-09-09_.jpg)
