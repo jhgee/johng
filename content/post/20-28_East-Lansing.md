@@ -12,11 +12,11 @@ Bett zu liegen.
 Wahrscheinlich hat mich ein Virus 
 aus den Socken gehauen, was zu Fieber,
 Kopfschmerzen und einer Entzündung
-im Rachen führte. Was es nun
-genau war, ist im Endeffekt egal. 
+im Rachen führte. 
 
 Somit habe ich in der vergangenen Woche
-nicht besonders viel gesehen, aber doch
+nicht besonders viel gesehen bzw viele
+Partys mitgemacht, aber doch
 einiges von der Michigan State
 University (MSU) und dem Leben drum herum
 mitbekommen. 
