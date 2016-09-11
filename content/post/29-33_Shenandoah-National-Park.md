@@ -29,22 +29,135 @@ Hier besorgen wir uns die backcountry camping
 permit, die es uns erlaubt, während der Tour 
 im Nationalpark überall zu campen, 
 und eine Wanderkarte. 
+Bei der Touristeninformation steht auch
+ein Ordner mit verschiedenen Touren,
+von denen wir uns eine Mehrtagestour mit 
+drei Übernachtungen aussuchen. 
 
-Da wir die erste Etappe nicht mehr schaffen 
-![](/images/2016-09-05_.jpg)
+## Packen der Verpflegung
+
+Um satt zu werden brauchen wir ca. 2800 kcal pro Person pro Tag. 
+Unser energieeffizienter 
+Proviant wie Mandeln, Nüsse, 
+Trail Mix (Nüsse mit getrockneten Früchten), 
+Müsliriegel,
+Nudeln, Pesto, Parmesan und Coucous 
+hat jeweils mindestens
+400 kcal pro 100 g inklusive Verpackung. 
+Pro Person müssen wir somit mindestens
+700 g Proviant pro Tag mitnehmen. 
+Da wir planen vier Tage unterwegs zu sein
+und ein Tag als Reserve mitnehmen, müssen wir
+3,5 kg Nahrungsmittel einpacken. 
+
+Die Mahlzeiten haben wir für jeden Tag
+zusammengestellt und dann inklusive
+Kochgeschirr (Gaskocher und ein Teller)
+nach Gewicht aufgeteilt. 
+Somit packen wir jeder knapp 4 kg Proviant ein. 
+
+Wasser wird während des Trips leicht 
+zugänglich sein, somit nehmen wir jeder 
+3 l Wasser mit, das dann für Kochen
+und Trinken reichen wird bis wir unsere
+Reservoirs wieder auffüllen können. 
+
+## Erste kleine Etappe
+
+Da wir die erste Etappe heute nicht mehr schaffen werden,
+hängen wir unsere Hängematten kurz nach 
+unserem Einstiegspunkt am Apalachen Trail
+auf. 
+
+![Sunset Blue Mountains](/images/2016-09-05_Sunset-Blue-Mountains.jpg)
+
+Wir finden eine super schöne Stelle
+mit toller Aussicht. 
+Die Berge, die wir sehen können, 
+werden als Blue Mountains bezeichnet,
+zumindest glaube ich das. 
+
+![Abendessen](/images/2016-09-05_Cooking.jpg)
+
+Bevor wir schlafen gehen, kochen wir
+noch etwas - heutiges Tagesgericht: 
+Nudeln mit Pesto. 
 
 # Dienstag
 
+Am nächsten morgen konnten wir ziemlich lange
+ausschlafen und essen zum Frühstück
+das letzte frische Obst,
+das wir in der Hand aus dem Auto mitgenommen haben, und dazu ein paar Müsliriegel. 
 
-![](/images/2016-09-06_.jpg)
+Die Nahrungsmittel haben wir, 
+verstaut in Säcken und Beuteln über Nacht 
+an einem Seil in einen etwas entfernt stehenden
+Baum hochgezogen, damit ein uns besuchender
+Bär auf keine falschen Gedanken kommt.
+In der Region leben einige Schwarzbären,
+weshalb die Besucher im Park sich bewusst 
+verhalten müssen. 
+Dazu gehört, dass das Essen unzugänglich für
+Bären aufbewahrt wird, um auch die Assoziation
+Mensch und Nahrungsmittel zu vermeiden. 
+
+An einer auf dem Weg liegenden Quelle
+füllen wir unsere Wasservorräte auf und
+waschen unser Geschirr unter fließenden
+Wasser ab, was ganz angenehm ist. 
+
+![Mittagessen kochen](/images/2016-09-06_Mittagessen.jpg)
+
+Wir laufen nicht besonders lange,
+bis wir Lust auf eine kleine Pause und 
+vor allem eine Mahlzeit haben. 
+Mit erneut sehr schöner Aussicht kochen
+wir uns Mittagessen. 
+A ist mit seinem sehr effizienten Kocher
+über die Zeit zum Profi im Nudelkochen geworden. 
+Gerade das Überkochen zu verhindern erfordert 
+viel Gefühl und ist ansonsten eine kleine Sauerei. 
+
+![S an der Stelle für das Mittagessen](/images/2016-09-06_Mittagessen-S.jpg)
+
+S hat schon auf einem der Premium-Panorama-
+Essensplätze Platz genommen und den Parmesan
+vorbereitend in Stücke geschnitten. 
+
+![Beim Wandern](/images/2016-09-06_Wandern.jpg)
+
+Wir wandern gestärkt weiter, biegen
+vom Apalachen Trail ab und gehen in eine
+Region mit einem relativ dichten Netz
+an Wanderwegen. 
+Es geht zunächst hinunter in ein Tal,
+in dem wir bald auf einem Fluss stoßen. 
+
+![Campsite](/images/2016-09-06_Campsite.jpg)
+
+Wir haben um 17 Uhr keine Lust mehr weiter
+zu wandern und schlagen unser Lager nahe dem 
+Fluss auf. 
+Genau das ist das ziemlich coole am 
+Wandern mit kompletter Ausrüstung. 
+Das Gepäck ist zwar relativ schwer, 
+man kommt etwas langsamer voran,
+in Kombination mit Wildcampen kann man dann 
+jedoch zu beliebigen Zeitpunkt sein Lager aufschlagen.
+Enweder weil man keine Lust mehr hat weiter zu
+laufen, sich auszuruhen oder weil es
+einem an der Stelle gefällt an der man gerade
+ist. Man hat also eine ziemlich große Freiheit
+und Flexibilität. 
 
 Da es um 20:30 dunkel wird, kommt nach
 einem Tag (und Nacht) an der frischen Luft
-auch die Müdigkeit. 
+und dem Abendessen auch die Müdigkeit. 
 Uns geht es da allen ähnlich, sodass wir
 um 21 Uhr alle schlafen. 
 Es ist wie schon in der letzten Nacht ziemlich
-laut im Wald, was mit Ohropax jedoch schön
+laut im Wald, was von den Ohropax jedoch schön
 ausgeblendet wird. 
 
 # Mittwoch
@@ -52,7 +165,9 @@ ausgeblendet wird.
 Nach ausgiebigen 11 Stunden Schlaf wache
 ich um 8 Uhr so langsam wieder auf. 
 
-11:10 los
+Nach einen paar Müsliriegeln zum Frühstück,
+Auffüllen und Filtern (0,1 μm) des Wassers,
+gehen wir um kurz nach 11 Uhr weiter. 
 
 Schon nach relativ kurzer Wanderung,
 die aber viele Höhenmeter herauf ging,
@@ -63,9 +178,9 @@ wobei kurz nach der letzten Portion ein
 Regenschauer über uns herein bricht. 
 Kurz zuvor hat noch die Sonne geschien. 
 So schnell wir können bauen wir eine
-Konstruktion mit einem Tarp, um uns 
+Konstruktion mit einem Tarp auf, um uns 
 und unsere Sachen vor dem Regen zu schützen. 
-Die Mühe loht sich auf jeden Fall, da 
+Die Mühe lohnt sich auf jeden Fall, da 
 es überraschend stark regnet. 
 
 Wir setzen unsere Wanderung fort und
@@ -106,7 +221,7 @@ Um 8 Uhr wird es wieder schnell dunkel.
 Wir ziehen unsere Beutel mit Essen
 einen Baum hoch und legen uns dann mal wieder ziemlich früh ins Bett. 
 
-![](/images/2016-09-07_.jpg)
+![Mittagspause](/images/2016-09-07_Mittagspause.jpg)
 
 
 # Donnerstag
