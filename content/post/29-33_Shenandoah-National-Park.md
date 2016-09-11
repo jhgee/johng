@@ -305,14 +305,14 @@ Wir haben nun 700 kcal zum Abendessen gegessen,
 was zum satt werden eigentlich reichen sollte. 
 Zusammen mit ein paar Nüssen als Nachtisch tut es das auch. 
 
-![](/images/2016-09-08_Sunset.jpg)
+![Sunset](/images/2016-09-08_Sunset.jpg)
 
 Von unserer Stelle haben wir einen
 wunderschönen Ausblick auf die umliegenden
 Berge und Wälder, und können auch den
 Sonnenuntergang verfolgen. 
 
-![](/images/2016-09-08_Panorama-A.jpg)
+![A vorm Panorama](/images/2016-09-08_Panorama-A.jpg)
 
 Darauf gibt es auch nichts mehr großes
 zu tun für uns, sodass wir um kurz vor 20 Uhr
@@ -325,12 +325,14 @@ ein paar Zeilen über den heutigen Tag aufgeschrieben. Gute Nacht!
 # Freitag
 
 Die Nacht war mit ca 20 °C ziemlich warm,
-sodass ich nicht so gut geschlafen habe. 
+sodass ich leider nicht so gut geschlafen habe. 
 Später habe ich dann den Schlafsack einfach
 aus der Hängematte herausgehängt. 
 Nun komplett ungeschützt vor Mücken habe 
-ich mich vorher mit Deet, einem Mosquitospray
+ich mich vorher mit Deet, einem Mosquitospray,
 eingedieselt. 
+
+![Sunrise](/images/2016-09-09_Sunrise.jpg)
 
 Pünktlich zum Sonnenaufgang bin ich um
 6:30 wieder wach geworden. 
@@ -339,7 +341,17 @@ wollen, gucken wir uns den Sonnenaufgang an,
 bauen undere Hängematten ab und laufen
 um 7:30 zurück zum Auto. 
 
+![J in der Hängematte](/images/2016-09-09_Hammock-J.jpg)
+
+Mit der Hängematte hat man trotz Wildnis
+immer einen bequemen Ort zum sitzen oder liegen. 
+Vor dem Hintergrund, dass ich es hasse,
+auf dem Boden zu sitzen, ist das für mich
+sehr angenehm. 
+
+![Cabrio](/images/2016-09-09_Ziel-Cabrio.jpg)
+
 Als wir um 9 Uhr am Auto ankommen, 
 sind wir froh, dass es noch steht und können
-froh auf  
-![](/images/2016-09-09_.jpg)
+auf schöne Tage und einen tollen Trip zurückblicken. 
+
