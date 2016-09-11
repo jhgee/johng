@@ -21,7 +21,6 @@ einiges von der Michigan State
 University (MSU) und dem Leben drum herum
 mitbekommen. 
 
-![](/images/2016-08-00_.jpg)
 
 # Mensa
 
@@ -48,6 +47,8 @@ im Doppelzimmer 4200$ pro Semester,
 was circa 15 Wochen sind. 
 
 # Frat
+
+![Kappa Sigma](/images/2016-08-29_Kappa-Sigma.jpg)
 
 S und A haben sich entschlossen, einer kleinen
 Fraternity (Frat) beizutreten. 
