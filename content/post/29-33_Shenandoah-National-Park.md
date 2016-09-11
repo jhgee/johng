@@ -1,6 +1,6 @@
 +++
 date = "2016-09-09"
-draft = true
+draft = false
 title = "Shenandoah National Park"
 image = "2016-09-05_Sunset-Blue-Mountains.jpg"
 categories = ["USA 2016", "Virginia"]
