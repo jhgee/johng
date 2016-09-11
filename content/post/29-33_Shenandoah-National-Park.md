@@ -169,6 +169,8 @@ Nach einen paar Müsliriegeln zum Frühstück,
 Auffüllen und Filtern (0,1 μm) des Wassers,
 gehen wir um kurz nach 11 Uhr weiter. 
 
+![Mittagspause](/images/2016-09-07_Mittagspause.jpg)
+
 Schon nach relativ kurzer Wanderung,
 die aber viele Höhenmeter herauf ging,
 haben wir Lust Mittagspause zu machen 
@@ -197,7 +199,7 @@ uns nicht, aber die Lust riecht oben
 auf dem Plateau sehr schön, wo auch einige
 Nadelbäume zu finden sind. 
 
-Da der Nachmittag so gut wie um ist;
+Da der Nachmittag so gut wie um ist,
 halten wir uns nach einer guten Stelle
 für die Übernachtung aus. 
 Da der Beckengurt inzwischen ziemlich
@@ -205,7 +207,7 @@ stark drückt, pausiere ich mit A,
 während S vor läuft, 
 um einen guten Platz aus zu kundschaften. 
 
-Wir laufen zu der Stelle, wobei es just in
+Wir laufen zu der ausgewählten Stelle, wobei es just in
 diesem Moment wieder anfängt zu tröpfeln. 
 Wir wollen umseren Schlafplatz möglichst
 gut mit den vorhandenen Tarps überdachen und
@@ -217,12 +219,9 @@ So ganz zufrieden sind wir nicht.
 Da es bereits aufgehört hat zu regnen, 
 hoffen wir, dass es über nach auch so bleibt. 
 
-Um 8 Uhr wird es wieder schnell dunkel. 
+Um 20 Uhr wird es wieder schnell dunkel. 
 Wir ziehen unsere Beutel mit Essen
-einen Baum hoch und legen uns dann mal wieder ziemlich früh ins Bett. 
-
-![Mittagspause](/images/2016-09-07_Mittagspause.jpg)
-
+einen Baum hoch und legen uns dann mal wieder ziemlich früh schlafen. 
 
 # Donnerstag
 
@@ -233,6 +232,15 @@ warm war.
 Im Laufe der Nacht ist es jedoch kälter geworden,
 sodass es auch mit Schlafsack angenehm ist. 
 Zum Glück hat es nicht nochmal geregnet.
+
+![Kuscheln unterm Tarp in Hängematten](/images/2016-09-08_Cuddling-Hammocking.jpg)
+
+Unter unserer Konstruktion aus Tarps wären
+wir aber auch ganz gut geschützt gewesen. 
+Ich habe mit A ziemlich dicht nebeneinander geschlafen,
+die Anordung der Bäume ließ es zu, sodass
+wir unter ein Tarp gepasst haben, dass wir d
+dann noch etwas erweitert haben. 
 
 Um 8:30 werde ich wieder wach und 
 bin erneut überrascht, wie viel ich
@@ -258,13 +266,21 @@ ein ausgiebiges Bad, dem wir das Mittagessen
 und das Auffüllen der Wasservorräte mit 
 gefiltertem Wasser anschließen. 
 
+![Mittagspause am Wasser](/images/2016-09-08_Wasserstelle-A.jpg)
+
+![Kleines Bad](/images/2016-09-08_Wasserstelle-S.jpg)
+
 Die nächste Etappe führt zunächst noch am
 Fluss entlang und geht dann recht steil 300 Meter bergauf. 
 Gerade mit dem Gepäck und mit den warmen
 Temperaturen kommen wir schnell stark ins
 Schwitzen. 
 
-Besomders lange dauert es glücklicherweise
+![Portrait von A und S](/images/2016-09-08_A-und-S.jpg)
+
+![Campsite](/images/2016-09-08_Campsite.jpg)
+
+Besonders lange dauert es glücklicherweise
 nicht bis wir auf der Bergkuppe, auf der wir 
 campen wollen ankommen. 
 Wir finden auch schnell eine ziemlich schöne
@@ -286,13 +302,17 @@ Beim Wandern wird man zwangsläufig zum
 Kalorienzähler, um die Nahrungsmittel und
 Mahlzeiten zu planen.
 Wir haben nun 700 kcal zum Abendessen gegessen,
-was zum satt werden reichen sollte. Zusammen
-mit ein paar Nüssen als Nachtisch tut es das auch. 
+was zum satt werden eigentlich reichen sollte. 
+Zusammen mit ein paar Nüssen als Nachtisch tut es das auch. 
 
-Von unserer Stelle haveb wir einen
+![](/images/2016-09-08_Sunset.jpg)
+
+Von unserer Stelle haben wir einen
 wunderschönen Ausblick auf die umliegenden
 Berge und Wälder, und können auch den
 Sonnenuntergang verfolgen. 
+
+![](/images/2016-09-08_Panorama-A.jpg)
 
 Darauf gibt es auch nichts mehr großes
 zu tun für uns, sodass wir um kurz vor 20 Uhr
@@ -300,8 +320,6 @@ wieder in der Hängematte liegen.
 
 Da ich noch nicht müde bin, habe ich noch
 ein paar Zeilen über den heutigen Tag aufgeschrieben. Gute Nacht!
-
-![](/images/2016-09-08_.jpg)
 
 
 # Freitag
