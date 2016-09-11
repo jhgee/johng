@@ -6,8 +6,9 @@ image = "2016-09-05_Sunset-Blue-Mountains.jpg"
 categories = ["USA 2016", "Virginia"]
 +++
 
-Unseren nächsten Trip starten wir im 
-*Shenandoah National Park*. 
+Unseren nächsten Trip starten wir mit dem
+Besuch des 
+*Shenandoah National Parks*. 
 Wir wollen Teile des *Apalachian Trails*,
 ein 2000 Meilen langer Fernwanderweg,
 der quer an der Ostküste
@@ -37,23 +38,23 @@ drei Übernachtungen aussuchen.
 ## Packen der Verpflegung
 
 Um satt zu werden brauchen wir ca. 2800 kcal pro Person pro Tag. 
-Unser energieeffizienter 
-Proviant wie Mandeln, Nüsse, 
+Unsere energieeffizienten 
+Nahrungsmittel wie Mandeln, Nüsse, 
 Trail Mix (Nüsse mit getrockneten Früchten), 
 Müsliriegel,
 Nudeln, Pesto, Parmesan und Coucous 
-hat jeweils mindestens
+haben jeweils mindestens
 400 kcal pro 100 g inklusive Verpackung. 
 Pro Person müssen wir somit mindestens
 700 g Proviant pro Tag mitnehmen. 
 Da wir planen vier Tage unterwegs zu sein
 und ein Tag als Reserve mitnehmen, müssen wir
-3,5 kg Nahrungsmittel einpacken. 
+jeder 3,5 kg Nahrungsmittel einpacken. 
 
 Die Mahlzeiten haben wir für jeden Tag
 zusammengestellt und dann inklusive
 Kochgeschirr (Gaskocher und ein Teller)
-nach Gewicht aufgeteilt. 
+nach Gewicht gleichmäßig aufgeteilt. 
 Somit packen wir jeder knapp 4 kg Proviant ein. 
 
 Wasser wird während des Trips leicht 
@@ -64,7 +65,8 @@ Reservoirs wieder auffüllen können.
 
 ## Erste kleine Etappe
 
-Da wir die erste Etappe heute nicht mehr schaffen werden,
+Da wir die erste Etappe von 10 Meilen 
+heute nicht mehr schaffen werden,
 hängen wir unsere Hängematten kurz nach 
 unserem Einstiegspunkt am Apalachen Trail
 auf. 
@@ -72,10 +74,10 @@ auf.
 ![Sunset Blue Mountains](/images/2016-09-05_Sunset-Blue-Mountains.jpg)
 
 Wir finden eine super schöne Stelle
+für die Nacht
 mit toller Aussicht. 
 Die Berge, die wir sehen können, 
-werden als Blue Mountains bezeichnet,
-zumindest glaube ich das. 
+werden als Blue Mountains bezeichnet. 
 
 ![Abendessen](/images/2016-09-05_Cooking.jpg)
 
@@ -85,7 +87,7 @@ Nudeln mit Pesto.
 
 # Dienstag
 
-Am nächsten morgen konnten wir ziemlich lange
+Am nächsten Morgen konnten wir ziemlich lange
 ausschlafen und essen zum Frühstück
 das letzte frische Obst,
 das wir in der Hand aus dem Auto mitgenommen haben, und dazu ein paar Müsliriegel. 
@@ -99,7 +101,8 @@ In der Region leben einige Schwarzbären,
 weshalb die Besucher im Park sich bewusst 
 verhalten müssen. 
 Dazu gehört, dass das Essen unzugänglich für
-Bären aufbewahrt wird, um auch die Assoziation
+Bären aufbewahrt wird, 
+gerade auch um auch die Assoziation
 Mensch und Nahrungsmittel zu vermeiden. 
 
 An einer auf dem Weg liegenden Quelle
@@ -117,7 +120,7 @@ wir uns Mittagessen.
 A ist mit seinem sehr effizienten Kocher
 über die Zeit zum Profi im Nudelkochen geworden. 
 Gerade das Überkochen zu verhindern erfordert 
-viel Gefühl und ist ansonsten eine kleine Sauerei. 
+Gefühl, um eine kleine Sauerei zu vermeiden. 
 
 ![S an der Stelle für das Mittagessen](/images/2016-09-06_Mittagessen-S.jpg)
 
@@ -132,7 +135,7 @@ vom Apalachen Trail ab und gehen in eine
 Region mit einem relativ dichten Netz
 an Wanderwegen. 
 Es geht zunächst hinunter in ein Tal,
-in dem wir bald auf einem Fluss stoßen. 
+in dem wir bald auf einen Fluss stoßen. 
 
 ![Campsite](/images/2016-09-06_Campsite.jpg)
 
@@ -145,11 +148,11 @@ Das Gepäck ist zwar relativ schwer,
 man kommt etwas langsamer voran,
 in Kombination mit Wildcampen kann man dann 
 jedoch zu beliebigen Zeitpunkt sein Lager aufschlagen.
-Enweder weil man keine Lust mehr hat weiter zu
+Entweder weil man keine Lust mehr hat weiter zu
 laufen, sich auszuruhen oder weil es
-einem an der Stelle gefällt an der man gerade
-ist. Man hat also eine ziemlich große Freiheit
-und Flexibilität. 
+einem an der Stelle gefällt, an der man gerade
+ist. Man hat also eine ziemlich große 
+Flexibilität. 
 
 Da es um 20:30 dunkel wird, kommt nach
 einem Tag (und Nacht) an der frischen Luft
@@ -164,8 +167,7 @@ ausgeblendet wird.
 
 Nach ausgiebigen 11 Stunden Schlaf wache
 ich um 8 Uhr so langsam wieder auf. 
-
-Nach einen paar Müsliriegeln zum Frühstück,
+Nach ein paar Müsliriegeln zum Frühstück,
 Auffüllen und Filtern (0,1 μm) des Wassers,
 gehen wir um kurz nach 11 Uhr weiter. 
 
@@ -173,12 +175,12 @@ gehen wir um kurz nach 11 Uhr weiter.
 
 Schon nach relativ kurzer Wanderung,
 die aber viele Höhenmeter herauf ging,
-haben wir Lust Mittagspause zu machen 
+haben wir Lust, Mittagspause zu machen 
 und setzen uns dazu an einen Fluss. 
 Es gibt Nudeln mit Pesto mit Nachschlag,
 wobei kurz nach der letzten Portion ein 
-Regenschauer über uns herein bricht. 
-Kurz zuvor hat noch die Sonne geschien. 
+Regenschauer über uns herein bricht,
+nachdem kurz zuvor noch die Sonne geschien hat. 
 So schnell wir können bauen wir eine
 Konstruktion mit einem Tarp auf, um uns 
 und unsere Sachen vor dem Regen zu schützen. 
@@ -186,7 +188,7 @@ Die Mühe lohnt sich auf jeden Fall, da
 es überraschend stark regnet. 
 
 Wir setzen unsere Wanderung fort und
-füllen beim überqueren des Flusses
+füllen beim Überqueren des Flusses
 unsere Trinkvorräte auf, da wir die
 nächsten 24 h voraussichtlich nicht
 in der Nähe von Wasser sein werden. 
@@ -195,16 +197,16 @@ Voll gepackt mit Wasser folgt ein
 ordentlicher Anstieg, der uns ganz gut
 zum Schwitzen bringt. 
 Besonders schöne Aussichten bieten sich
-uns nicht, aber die Lust riecht oben
-auf dem Plateau sehr schön, wo auch einige
+uns nicht, aber die Luft
+auf dem Plateau ist sehr schön und riecht gut, da hier auch einige
 Nadelbäume zu finden sind. 
 
 Da der Nachmittag so gut wie um ist,
-halten wir uns nach einer guten Stelle
-für die Übernachtung aus. 
+halten wir nach einer guten Stelle
+für die Übernachtung Ausschau. 
 Da der Beckengurt inzwischen ziemlich
 stark drückt, pausiere ich mit A,
-während S vor läuft, 
+während S vorläuft, 
 um einen guten Platz aus zu kundschaften. 
 
 Wir laufen zu der ausgewählten Stelle, wobei es just in
@@ -214,10 +216,10 @@ gut mit den vorhandenen Tarps überdachen und
 gegen Regen schützen, was sich als nicht so
 einfach erweist.
 Nach ungefähr einer Stunde sind wir fertig
-und haben eine passable Lösung gefunden. 
-So ganz zufrieden sind wir nicht. 
+und haben eine passable Lösung gefunden,
+wobei wir so ganz zufrieden noch nicht sind. 
 Da es bereits aufgehört hat zu regnen, 
-hoffen wir, dass es über nach auch so bleibt. 
+hoffen wir, dass es über Nacht auch so bleibt. 
 
 Um 20 Uhr wird es wieder schnell dunkel. 
 Wir ziehen unsere Beutel mit Essen
@@ -230,8 +232,8 @@ wach und für kleine Johns. Besonders nervig
 war in dieser Nacht, dass es am Anfang so 
 warm war. 
 Im Laufe der Nacht ist es jedoch kälter geworden,
-sodass es auch mit Schlafsack angenehm ist. 
-Zum Glück hat es nicht nochmal geregnet.
+sodass es auch mit Schlafsack angenehm wurde. 
+Zum Glück hat es auch nicht noch einmal geregnet.
 
 ![Kuscheln unterm Tarp in Hängematten](/images/2016-09-08_Cuddling-Hammocking.jpg)
 
@@ -239,7 +241,7 @@ Unter unserer Konstruktion aus Tarps wären
 wir aber auch ganz gut geschützt gewesen. 
 Ich habe mit A ziemlich dicht nebeneinander geschlafen,
 die Anordung der Bäume ließ es zu, sodass
-wir unter ein Tarp gepasst haben, dass wir d
+wir unter ein Tarp gepasst haben, dass wir
 dann noch etwas erweitert haben. 
 
 Um 8:30 werde ich wieder wach und 
@@ -259,16 +261,20 @@ waren und wir gerne auch mal in einer Bar
 vorbei schauen würden. 
 
 Wir brechen um kurz vor 11 auf und laufen
-zunächst mal 400 Höhenmeter bergab. 
+zunächst einmal 400 Höhenmeter bergab. 
+
+![Mittagspause am Wasser](/images/2016-09-08_Wasserstelle-A.jpg)
+
 Nach einer halben Stunde treffen wir wieder
 auf Wasser und genehmigen uns dort erstmal 
 ein ausgiebiges Bad, dem wir das Mittagessen
 und das Auffüllen der Wasservorräte mit 
 gefiltertem Wasser anschließen. 
 
-![Mittagspause am Wasser](/images/2016-09-08_Wasserstelle-A.jpg)
-
 ![Kleines Bad](/images/2016-09-08_Wasserstelle-S.jpg)
+
+S badet an einen der Stellen,
+an denen das Wasser etwas tiefer ist. 
 
 Die nächste Etappe führt zunächst noch am
 Fluss entlang und geht dann recht steil 300 Meter bergauf. 
