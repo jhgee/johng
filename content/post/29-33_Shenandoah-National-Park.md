@@ -93,7 +93,7 @@ das letzte frische Obst,
 das wir in der Hand aus dem Auto mitgenommen haben, und dazu ein paar Müsliriegel. 
 
 Die Nahrungsmittel haben wir, 
-verstaut in Säcken und Beuteln über Nacht 
+verstaut in Säcken und Beuteln, über Nacht 
 an einem Seil in einen etwas entfernt stehenden
 Baum hochgezogen, damit ein uns besuchender
 Bär auf keine falschen Gedanken kommt.
@@ -274,7 +274,7 @@ gefiltertem Wasser anschließen.
 ![Kleines Bad](/images/2016-09-08_Wasserstelle-S.jpg)
 
 S badet an einen der Stellen,
-an denen das Wasser etwas tiefer ist. 
+wo das Wasser etwas tiefer ist. 
 
 Die nächste Etappe führt zunächst noch am
 Fluss entlang und geht dann recht steil 300 Meter bergauf. 
@@ -284,17 +284,19 @@ Schwitzen.
 
 ![Portrait von A und S](/images/2016-09-08_A-und-S.jpg)
 
+Kleines Portrait von A und S vor dem Panorama. 
+
 ![Campsite](/images/2016-09-08_Campsite.jpg)
 
 Besonders lange dauert es glücklicherweise
 nicht bis wir auf der Bergkuppe, auf der wir 
-campen wollen ankommen. 
+campen wollen, ankommen. 
 Wir finden auch schnell eine ziemlich schöne
 Stelle, wo wir unser Lager aufschlagen. 
 
 Ohne Gepäck laufen wir noch etwas weiter
 zu einem Wasserfall, den wir uns gerne ansehen 
-wollen. Nach 25 Minuten kommen wir dort an
+möchten. Nach 25 Minuten kommen wir dort an
 und finden einen relativ mickrigen Wasserfall,
 der die Reise nicht unbedingt wert war, 
 aber noch für eine Erfrischung herhält. 
