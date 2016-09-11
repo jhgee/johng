@@ -23,7 +23,7 @@ mitbekommen.
 
 ![](/images/2016-08-00_.jpg)
 
-## Mensa
+# Mensa
 
 Die Studenten an der MSU werden durch 
 unzählige Mensen versorgt in denen 
@@ -33,7 +33,7 @@ Am Eingang wird ein pauschaler Betrag
 bezahlt, der im günstigsten Modell 7$
 pro Mahlzeit beträgt. 
 
-## Wohnen
+# Wohnen
 
 Hauptsächlich wird unterschieden ob du
 on oder off-campus lebst. 
@@ -47,7 +47,7 @@ Die Miete beträgt im Einzelzimmer 5500$ und
 im Doppelzimmer 4200$ pro Semester,
 was circa 15 Wochen sind. 
 
-## Frat
+# Frat
 
 S und A haben sich entschlossen, einer kleinen
 Fraternity (Frat) beizutreten. 
@@ -57,10 +57,18 @@ die Möglichkeit mehr Studenten kennen zu lernen.
 Für den Sommer sind S und A vom 
 Studentenwohnheim ins Haus der Frat gezogen. 
 Dort ist es zwar etwas dreckiger und 
-unordentlicher, dafür ist das Wasser nicht
+unordentlicher als im Wohnheim, 
+aber dafür ist das Wasser nicht
 braun und die Miete deutlich günstiger. 
 
-## Arztbesuch
+# Arztbesuch
 
 Am Donnerstag bin ich zum Arzt gegangen,
-weil ich am Tag zuvor 
+weil ich am Tag zuvor in meinen Hals
+geguckt habe und der garnicht gut aussah. 
+
+Da ich kein Student der MSU bin konnte
+ich nicht auf dem Campus zum Arzt,
+wo S und A ansonsten hingegangen sind,
+sondern bin mit S zu einem öffentlichen 
+urgent emergency hospital gefahren. 
