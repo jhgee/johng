@@ -363,3 +363,7 @@ Als wir um 9 Uhr am Auto ankommen,
 sind wir froh, dass es noch steht und können
 auf schöne Tage und einen tollen Trip zurückblicken. 
 
+![Panorama](/images/2016-09-09_Panorama)
+
+Auf dem Weg entlang des Skyview Drives
+bieten sich uns nochmal tolle Aussichten. 
