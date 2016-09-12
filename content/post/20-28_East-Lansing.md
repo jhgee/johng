@@ -1,8 +1,8 @@
 +++
-date = "2016-09-03"
-draft = true
+date = "2016-09-04"
+draft = false
 title = "East Lansing"
-image = ""
+image = "2016-08-29_Kappa-Sigma.jpg"
 categories = ["USA 2016", "Michigan"]
 +++
 
@@ -21,6 +21,13 @@ einiges von der Michigan State
 University (MSU) und dem Leben drum herum
 mitbekommen. 
 
+![Krankenzimmer](/images/2016-09-02_Krankenzimmer.jpg)
+
+Kleiner Blick in mein kleines Krankenzimmer
+am Ende der Woche, als ich schon wieder
+stehen konnte. 
+Der Schlafsack ist zum Lüften aufgehängt,
+nicht verwirrt sein. 
 
 # Mensa
 
