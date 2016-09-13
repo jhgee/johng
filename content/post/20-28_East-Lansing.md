@@ -27,12 +27,12 @@ Kleiner Blick in mein kleines Krankenzimmer
 am Ende der Woche, als ich schon wieder
 stehen konnte. 
 Der Schlafsack ist zum Lüften aufgehängt,
-nicht verwirrt sein. 
+bitte nicht verwirrt sein. 
 
 # Mensa
 
 Die Studenten an der MSU werden durch 
-unzählige Mensen versorgt in denen 
+unzählige Mensen versorgt, in denen 
 es morgens, mittags und abends wirklich
 sehr gutes Essen gibt. 
 Am Eingang wird ein pauschaler Betrag

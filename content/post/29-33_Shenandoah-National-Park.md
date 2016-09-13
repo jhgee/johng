@@ -42,7 +42,7 @@ Unsere energieeffizienten
 Nahrungsmittel wie Mandeln, Nüsse, 
 Trail Mix (Nüsse mit getrockneten Früchten), 
 Müsliriegel,
-Nudeln, Pesto, Parmesan und Coucous 
+Nudeln, Pesto, Parmesan und Couscous 
 haben jeweils mindestens
 400 kcal pro 100 g inklusive Verpackung. 
 Pro Person müssen wir somit mindestens
@@ -102,7 +102,7 @@ weshalb die Besucher im Park sich bewusst
 verhalten müssen. 
 Dazu gehört, dass das Essen unzugänglich für
 Bären aufbewahrt wird, 
-gerade auch um auch die Assoziation
+gerade auch um die Assoziation
 Mensch und Nahrungsmittel zu vermeiden. 
 
 An einer auf dem Weg liegenden Quelle
