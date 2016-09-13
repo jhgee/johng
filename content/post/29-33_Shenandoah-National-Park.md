@@ -131,15 +131,21 @@ vorbereitend in Stücke geschnitten.
 ![Beim Wandern](/images/2016-09-06_Wandern.jpg)
 
 Wir wandern gestärkt weiter, biegen
-vom Apalachen Trail ab und gehen in eine
+vom *Apalachian Trail* ab und gehen in eine
 Region mit einem relativ dichten Netz
 an Wanderwegen. 
 Es geht zunächst hinunter in ein Tal,
 in dem wir bald auf einen Fluss stoßen. 
 
+Wir dachten, dass wir die schönen Ausblicke
+von dem Trail auf dem Bergkamm 
+nun weiterhin haben werden,
+stattdessen sehen wir in der kommenden Zeit 
+im Tal vorerst nur viele Bäume. 
+
 ![Campsite](/images/2016-09-06_Campsite.jpg)
 
-Wir haben um 17 Uhr keine Lust mehr weiter
+Wir haben um 17 Uhr keine Lust mehr, weiter
 zu wandern und schlagen unser Lager nahe dem 
 Fluss auf. 
 Genau das ist das ziemlich coole am 
@@ -147,12 +153,12 @@ Wandern mit kompletter Ausrüstung.
 Das Gepäck ist zwar relativ schwer, 
 man kommt etwas langsamer voran,
 in Kombination mit Wildcampen kann man dann 
-jedoch zu beliebigen Zeitpunkt sein Lager aufschlagen.
+jedoch zum beliebigen Zeitpunkt sein Lager aufschlagen.
 Entweder weil man keine Lust mehr hat weiter zu
 laufen, sich auszuruhen oder weil es
 einem an der Stelle gefällt, an der man gerade
-ist. Man hat also eine ziemlich große 
-Flexibilität. 
+ist. 
+Die Flexibilität ist somit ziemlich groß.
 
 Da es um 20:30 dunkel wird, kommt nach
 einem Tag (und Nacht) an der frischen Luft
@@ -177,7 +183,7 @@ Schon nach relativ kurzer Wanderung,
 die aber viele Höhenmeter herauf ging,
 haben wir Lust, Mittagspause zu machen 
 und setzen uns dazu an einen Fluss. 
-Es gibt Nudeln mit Pesto mit Nachschlag,
+Es gibt Nudeln mit Pesto und Nachschlag,
 wobei kurz nach der letzten Portion ein 
 Regenschauer über uns herein bricht,
 nachdem kurz zuvor noch die Sonne geschien hat. 
@@ -235,6 +241,11 @@ Im Laufe der Nacht ist es jedoch kälter geworden,
 sodass es auch mit Schlafsack angenehm wurde. 
 Zum Glück hat es auch nicht noch einmal geregnet.
 
+Um 8:30 werde ich wieder wach und 
+bin erneut überrascht, wie viel ich
+geschlafen habe. 
+Zum Frühstück gibt es ein paar Müsliriegel. 
+
 ![Kuscheln unterm Tarp in Hängematten](/images/2016-09-08_Cuddling-Hammocking.jpg)
 
 Unter unserer Konstruktion aus Tarps wären
@@ -243,11 +254,6 @@ Ich habe mit A ziemlich dicht nebeneinander geschlafen,
 die Anordung der Bäume ließ es zu, sodass
 wir unter ein Tarp gepasst haben, dass wir
 dann noch etwas erweitert haben. 
-
-Um 8:30 werde ich wieder wach und 
-bin erneut überrascht, wie viel ich
-geschlafen habe. 
-Zum Frühstück gibt es ein paar Müsliriegel. 
 
 Erstaunlicherweise haben wir an unserem
 eigentlich recht abgelegenen Ort Mobilfunk,
