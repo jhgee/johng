@@ -32,7 +32,7 @@ kaufen.
 
 > Unverhofft kommt oft. 
 
-Nachdem wir vom Highway in Richtung Mall
+Nachdem wir um 10:50 vom Highway in Richtung Mall
 abgebogen sind, drückt A das Gaspedal
 und plötzlich passiert einfach nichts mehr. 
 Er macht mir deutlich, dass nichts kommt,
@@ -91,6 +91,8 @@ auslesen:
 
 Das klingt plausibel und bedeutet für uns,
 dass wir zur Werkstatt abgeschleppt werden müssen. 
+Wir rufen somit um 12:30 die road assistance
+an. 
 Während A in der nahe gelegenen Mall wartet,
 warten S und ich auf den Abschleppdienst,
 der Schwierigkeiten hat, uns zu finden. 
@@ -104,7 +106,10 @@ das er hinter unserem Fahrzeug aufstellt.
 
 ![Abschleppen](/images/2016-09-09_Abschleppen.jpg)
 
-Mit dem Abschlepper
+Nach einer Stunde Wartezeit
+fahren wir mit dem Abschlepper 12 Mi zum nahe
+gelegenen Ford Händler Ted Britt in Fairfax. 
+
 ![Hotel Backpacking](/images/2016-09-09_Hotel-Backpacking.jpg)
 
 ![Strassenbild](/images/2016-09-09_Strassenbild.jpg)
