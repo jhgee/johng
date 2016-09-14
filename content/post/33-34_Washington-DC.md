@@ -28,7 +28,7 @@ einer Shopping Mall machen,
 um zu essen und noch etwas zivile Kleidung zu
 kaufen. 
 
-# Liegen geblieben
+## Liegen geblieben
 
 > Unverhofft kommt oft. 
 
@@ -84,9 +84,27 @@ Währenddessen betankt er selbst unser Auto.
 Der erneute Startversuch des Autos bleibt 
 weiterhin erfolglos - wäre auch zu einfach
 gewesen. 
+Wir können jetzt jedoch einen Fehlercode
+auslesen:
+
+> Fuel pump secondary circuit error
+
+Das klingt plausibel und bedeutet für uns,
+dass wir zur Werkstatt abgeschleppt werden müssen. 
+Während A in der nahe gelegenen Mall wartet,
+warten S und ich auf den Abschleppdienst,
+der Schwierigkeiten hat, uns zu finden. 
+Die Polizei kommt auch vorbei. 
+Der Officer fragt, was wir so machen würden,
+wo wir herkommen, wo wir hinwollen und
+verschwindet ein paar Minuten mit unseren Papieren. 
+Er bringt die Unterlagen zurück und zündet,
+bevor er fährt noch ein Signalfeuer, 
+das er hinter unserem Fahrzeug aufstellt. 
 
 ![Abschleppen](/images/2016-09-09_Abschleppen.jpg)
 
+Mit dem Abschlepper
 ![Hotel Backpacking](/images/2016-09-09_Hotel-Backpacking.jpg)
 
 ![Strassenbild](/images/2016-09-09_Strassenbild.jpg)
