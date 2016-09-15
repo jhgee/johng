@@ -109,8 +109,33 @@ das er hinter unserem Fahrzeug aufstellt.
 Nach einer Stunde Wartezeit
 fahren wir mit dem Abschlepper 12 Mi zum nahe
 gelegenen Ford Händler Ted Britt in Fairfax. 
+Dort stellt sich uns nun die Frage,
+ob das Auto an Samstag wieder läuft. 
+Der Mitarbeiter kann uns zu diesem Zeitpunkt
+noch nichts garantieren, er versucht natürlich,
+das Auto so schnell wie möglich zu reparieren
+und wird sich am Nachmiitag bei uns melden. 
 
-![Hotel Backpacking](/images/2016-09-09_Hotel-Backpacking.jpg)
+Wir nehmen einen Leihwagen, 
+packen unser Gepäck um und fahren
+zur Shopping Mall, wo A auf uns wartet. 
+Wir essen bei Subway ein Sandwich - auch 
+mal was anderes nach einigen Tagen 
+Campingküche. 
+Während S paar Klamotten besorgt, 
+hat bereits alles erledigt, 
+setzen A und ich uns in gemütliche Sessel und
+machen ein wenig Papierkram. 
+
+![Hotel Backpacking](/images/2016-09-_Hotel-Backpacking.jpg)
+
+Nach einer halben Stunde Fahrtzeit nach D.C.
+und anschließender Parkplatzsuche kommen
+wir um kurz vor vier am Hotel an. 
+Das Lächeln im Gesicht der Empfangsdame
+rührt bestimmt nicht nur daher, dass sie
+sich freut uns zu sehen, 
+während wir mit unseren Backpacks einchecken. 
 
 ![Strassenbild](/images/2016-09-09_Strassenbild.jpg)
 
