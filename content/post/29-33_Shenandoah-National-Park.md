@@ -373,3 +373,11 @@ auf schöne Tage und einen tollen Trip zurückblicken.
 
 Auf dem Weg entlang des Skyview Drives
 bieten sich uns nochmal tolle Aussichten. 
+
+![Map](/images/2016-09-09_Map)
+
+S hat sich die Mühe gemacht, unseren Trip
+auf der Wanderkarte nachzuzeichnen. 
+Der orange Kreis, markiert unseren Start- und
+Endpunkt, die Kreuze unsere Schlaforte und die
+Tour sind wir gegen den Uhrzeigersinn gegangen. 
