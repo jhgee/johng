@@ -30,6 +30,7 @@ categories = ["USA 2016", "Michigan"]
 
 ## Technik
 - Handy
+- Uhr
 - Kamera
 - Kameraclip
 - Stativ
@@ -48,6 +49,8 @@ categories = ["USA 2016", "Michigan"]
 - Schlafanzug
 - T-Shirts
 - Wanderhemd
+- Kurze Sporthose
 - Wanderhose
 - Wollpullover
+- Leichte Jacke
 - Wanderschuhe
