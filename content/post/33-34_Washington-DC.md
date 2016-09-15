@@ -127,6 +127,8 @@ hat bereits alles erledigt,
 setzen A und ich uns in gemütliche Sessel und
 machen ein wenig Papierkram. 
 
+## Hotel
+
 ![Hotel Backpacking](/images/2016-09-_Hotel-Backpacking.jpg)
 
 Nach einer halben Stunde Fahrtzeit nach D.C.
@@ -137,22 +139,111 @@ rührt bestimmt nicht nur daher, dass sie
 sich freut uns zu sehen, 
 während wir mit unseren Backpacks einchecken. 
 
+Bei der Auswahl der Unterkunft war uns im
+Prinzip nur eine Dusche wichtig. 
+Wir haben dann ein stark rabattiertes 
+Hotelzimmer in einem teuren Hotel gefunden
+Unser Zimmer ist sehr schön und es gibt
+das Angebot, zwischen 17 und 18 Uhr
+im Foyer kostenlos Wein zu trinken. 
+Nachdem wir im Pool waren, nehmen wir das
+Angebot natürlich gerne und ausgiebig wahr. 
+Da einige unserer Kleidungsstücke eine Wäsche
+vertragen könnten, hatten wir schon den
+Laundry Service anvisiert. Unsere Zweifel,
+dass der Service inklusive ist, bestätigten
+sich - mit Socken $4 geht es los. 
+Daraufhin haben wir von Hand in der Badewanne
+gewaschen. 
+
 ![Strassenbild](/images/2016-09-09_Strassenbild.jpg)
+
+Knappe drei Wochen zuvor bereits in D.C. 
+gewesen bin ich nun der Touristenführer. 
 
 ![White House J S A](/images/2016-09-09_White-House-J-S-A.jpg)
 
+Wir laufen am Weißen Haus vorbei zur
+Memorial Mall, um zum Sonnenuntergang
+beim Lincoln Memorial zu sein. 
+
 ![Washington Monument S](/images/2016-09-09_Washington-Monument-S.jpg)
+
+Obligatorische Photoshoot von S vor dem
+Washington Monument. 
 
 ![Washington Monument A Jump](/images/2016-09-09_Washington-Monument-A.jpg)
 
+Bei A natürlich bisschen dynamischer. 
+
 ![Lincoln Memorial](/images/2016-09-09_Lincoln-Memorial.jpg)
+
+Daa Lincoln Memorial im Sonnenuntergang. 
 
 ![Franzose](/images/2016-09-09_Franzose.jpg)
 
+Zum Abendessen sind wir in eine
+Straße im Norden mit vielen Restaurants 
+gefahren, die uns von
+einem Gast aus dem Hotel enpfohlen worden ist,
+mit dem wir uns beim Wein unterhalten haben. 
+Sein Lieblingsrestaurant sei der Franzose
+und da wir alle drei noch nicht im
+französischen Restaurant waren - außer 
+Crèperie, gehen wir dorthin. 
+Das Essen war sehr lecker und ein schöner
+kulinarischer Kontrast für zwischendurch,
+allerdings auch sehr eteuer. 
+
+Wir gehen noch in eine Bar und fahren dann
+mit einem Lyft, das Konkurrenzunternehmen
+zu Uber, das die Fahrer wohl besser bezahlt,
+zurück zum Hotel. 
+
 # Samstag
+
+Heute wollen wir noch ein weiteres Angebot des Hotels nutzen und kostenlos Fahrräder leihen,
+um heute D.C. zu erkunden. 
 
 ![Laundromat](/images/2016-09-10_Laundromat.jpg)
 
+Der Plan, dass unsere Wäsche über Nacht mit
+Hilfe der Klimaanlage im Hotelzimmer trocknet, 
+ist leider nicht aufgegangen. Der erste
+Stop der Radtour ist daher der Laundromat,
+wo wir unsere Wäsche in den Trockner werfen. 
+
 ![Radtour](/images/2016-09-10_Radtour.jpg)
 
+Es macht Spaß, mit den Rädern zu fahren
+und wir bekommen einen wirklich coolen
+Eindruck von der Stadt. 
+Unser Ziel ist das 
+*US Capitol Visitor Center*. 
+Das Center wurde T und mir empfohlen,
+wir konnten es jedoch aufgrund der
+Öffnungszeiten das letzte mal nicht 
+besuchen. 
+Jetzt muss ich sagen, dass wir nicht besonders
+viel verpasst haben. 
+Für uns ist es trotzdem ein gutes Ziel, 
+da wir nicht viel Zeit haben und es 
+eine schöne Tour dorthin ist. 
+
 ![Capitol](/images/2016-09-10_Capitol.jpg)
+
+Vom Capitol fahren wir mit den Rädern 
+zurück zum Hotel,
+satteln den Mietwagen und holen das Pferdchen
+aus der Werkstatt ab. 
+
+Erstaunlicherweise hatten wir durch die
+Autopanne kaum Reibungsverluste
+und konnten unseren Trip trotzdem wie geplant
+umsetzen. 
+Die Werkstattrechnung hinterlässt
+natürlich trotzdem einen bitteren Geschmack,
+während wir zurück zum 
+*Shenandoah National Park* fahren. 
+
+Der Abstecher nach D.C. war in allen Hinsischten sehr erfrischend!
