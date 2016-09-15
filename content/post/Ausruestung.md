@@ -54,3 +54,8 @@ categories = ["USA 2016", "Michigan"]
 - Wollpullover
 - Leichte Jacke
 - Wanderschuhe
+
+ohne getragene Kleidung,
+Wasser und Nahrungsmittel: 
+S 6,7 kg; John 9,1 kg. 
+16,8 gepackt mit Luxusgut Äpfel
