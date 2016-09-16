@@ -70,11 +70,17 @@ Im einfachsten Fall hat man nur eine Hängematte (500 Gramm) und einen Schlafsac
 Leider hat man nach unten hin keine Isolierung und da der Schlafsack durch das eigene Gewicht platt gedrückt wird bietet dieser ebenfalls keinen Schutz vor der Kälte. Durch Konvektion verliert man an der Unterseiten der Hängematte so viel Wärme, dass man bereits bei 15 Grad nach einiger Zeit anfängt zu frieren. 
 Die Lösung für dieses Problem wird im Fachgeschäft in Form einer Underblanket angeboten, ein Schlafsack der wie eine zweite Hängematte unter die erste gebunden wird - Gewicht ca 1kg. 
 
+![Underblanket Konstruktion](/images/2016-09-11_Underblanket-Construction.jpg)
+
 Wir dachten das können wir schlauer, kleiner und leichter lösen. Schnell visierten wir eine dünne Rettungsdecke an, denn diese wärmt aufgrund von Reflektion der abgestrahlten Wärme und ist sehr leicht (50 Gramm). 
 Diese musste nun so angebracht werden, dass sie gleichzeitig den Wärmeverlust durch Konvektion verringert.
 Wie im Bild zu sehen ist, haben wir an den Enden Gummiseile befestigt um die Underblanket an den Karabinern der Hängematte aufzuhängen. Hierzu wurden die Ecken der Rettungsdecke zu einer kleinen Kugel gerollt an der man das Gummiseile festknoten konnte. In der Mitte des Gummiseils, das nun beide Ecken verbindet, haben wir ein Klemme angebracht, sodass die Spannung durch Verkürzen des Seils eingestellt werden kann. 
 Damit die Underblanket nun auch an den Enden der Hängematte eng anliegt, wurde ein kleiner Kanal mit Klebeband gebildet, durch den ebenfalls ein Gummiband gezogen wurde (auch einstellbar).  
-Das Resultat (Foto) ist eine mit kleinem Abstand anliegende Underblanket, die sich der Hängematte aufgrund der Gummibänder immer anpasst. Falls es zu warm ist kann man sie sogar wegziehen, sodass sie neben der Hängematte hängt und nicht mehr isoliert. 
+
+
+![Underblanket](/images/2016-09-11_Underblanket.jpg)
+
+Das Resultat ist eine mit kleinem Abstand anliegende Underblanket, die sich der Hängematte aufgrund der Gummibänder immer anpasst. Falls es zu warm ist kann man sie sogar wegziehen, sodass sie neben der Hängematte hängt und nicht mehr isoliert. 
 
 Die gesamte Konstruktion wiegt unter 100 Gramm und hat uns selbst in kalten Nächten (6 Grad) angenehm warm gehalten.
 Eine echte Innovation, © Tobogganing Club.
