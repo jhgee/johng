@@ -6,23 +6,33 @@ image = "2016-09-15_Equipment.jpg"
 categories = ["USA 2016", "Michigan"]
 +++
 
+Neben den ganzen Erlebnisse und Touren
+will ich auch gerne festhalten wie unsere
+Wanderausrüstung aussieht. 
+
 # Packliste
 
 ![Ausrüstung](/images/2016-09-15_Equipment.jpg)
 
+So sieht mein Gepäck für eine 
+Mehrtageswanderung aus. 
+
 ## Schlafen
+
 - Schlafsack
 - Hängematte
 - Rettungsdecke
 - Tarp
 
 ## Zubehör
+
 - Poncho
 - Schnur
 - Karabiner
 - Rucksackregenhülle
 
 ## Verpflegung
+
 - Essenssack
 - Trinkblase
 - Wasserflasche
@@ -31,6 +41,7 @@ categories = ["USA 2016", "Michigan"]
 - Streichhölzer
 
 ## Technik
+
 - Handy
 - Uhr
 - Kamera
@@ -38,12 +49,14 @@ categories = ["USA 2016", "Michigan"]
 - Stativ
 
 ## Diverses
+
 - Treckingrucksack
 - Handtuch
 - Apothekentasche
 - Kulturbeutel
 
 ## Kleidung
+
 - Unterhosen
 - Unterhemd
 - Badehose
@@ -58,14 +71,27 @@ categories = ["USA 2016", "Michigan"]
 - Leichte Jacke
 - Wanderschuhe
 
-ohne getragene Kleidung,
-Wasser und Nahrungsmittel: 
-S 6,7 kg; John 9,1 kg. 
-16,8 gepackt mit Luxusgut Äpfeln
+Die Ausrüstung wiegt ohne die getragene 
+Kleidung, Wasser und Nahrungsmittel: 
+6,7 kg bei S; 9,1 kg bei John. 
+Der etwas schwerere Rucksack, 
+die Kamera mit Stativ und etwas andere 
+Ausrüstung und Kleidung machen den 
+Unterschied. 
 
 # Nahrungsmittel
 
 ![Nahrungsmittel](/images/2016-09-15_Nahrungsmittel.jpg)
+
+Die Nahrungsmittel, die wir mitnehmen, sind
+hauptsächlich:
+- Nudeln 
+- Pesto
+- Couscous
+- Müsliriegel
+
+Gepackt wiegt mein Rucksack 16,8 kg 
+inklusive dem Luxusgut Äpfeln. 
 
 # Underblanket Hammocking
 
