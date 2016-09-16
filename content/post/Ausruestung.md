@@ -6,7 +6,9 @@ image = ""
 categories = ["USA 2016", "Michigan"]
 +++
 
-![](/images/2016-09-00_.jpg)
+# Packliste
+
+![Ausrüstung](/images/2016-09-15_Equipment.jpg)
 
 ## Schlafen
 - Schlafsack
@@ -76,7 +78,6 @@ Wir dachten das können wir schlauer, kleiner und leichter lösen. Schnell visie
 Diese musste nun so angebracht werden, dass sie gleichzeitig den Wärmeverlust durch Konvektion verringert.
 Wie im Bild zu sehen ist, haben wir an den Enden Gummiseile befestigt um die Underblanket an den Karabinern der Hängematte aufzuhängen. Hierzu wurden die Ecken der Rettungsdecke zu einer kleinen Kugel gerollt an der man das Gummiseile festknoten konnte. In der Mitte des Gummiseils, das nun beide Ecken verbindet, haben wir ein Klemme angebracht, sodass die Spannung durch Verkürzen des Seils eingestellt werden kann. 
 Damit die Underblanket nun auch an den Enden der Hängematte eng anliegt, wurde ein kleiner Kanal mit Klebeband gebildet, durch den ebenfalls ein Gummiband gezogen wurde (auch einstellbar).  
-
 
 ![Underblanket](/images/2016-09-11_Underblanket.jpg)
 
