@@ -84,6 +84,3 @@ Das Resultat ist eine mit kleinem Abstand anliegende Underblanket, die sich der 
 
 Die gesamte Konstruktion wiegt unter 100 Gramm und hat uns selbst in kalten Nächten (6 Grad) angenehm warm gehalten.
 Eine echte Innovation, © Tobogganing Club.
-
-- Foto 1 - Konstruktion 
-- Foto 2 - Fertige Underblanket in Gebrauch
