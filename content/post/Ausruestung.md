@@ -2,7 +2,7 @@
 date = "2016-09-15"
 draft = true
 title = "Ausrüstung"
-image = ""
+image = "2016-09-15_Equipment.jpg"
 categories = ["USA 2016", "Michigan"]
 +++
 
@@ -62,6 +62,10 @@ ohne getragene Kleidung,
 Wasser und Nahrungsmittel: 
 S 6,7 kg; John 9,1 kg. 
 16,8 gepackt mit Luxusgut Äpfeln
+
+# Nahrungsmittel
+
+![Nahrungsmittel](/images/2016-09-15_Nahrungsmittel.jpg)
 
 # Underblanket Hammocking
 
