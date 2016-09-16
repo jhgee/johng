@@ -1,5 +1,5 @@
 +++
-date = "2016-09-00"
+date = "2016-09-15"
 draft = true
 title = "Ausrüstung"
 image = ""
@@ -35,6 +35,7 @@ categories = ["USA 2016", "Michigan"]
 - Kameraclip
 - Stativ
 
+## Diverses
 - Treckingrucksack
 - Handtuch
 - Apothekentasche
@@ -58,4 +59,4 @@ categories = ["USA 2016", "Michigan"]
 ohne getragene Kleidung,
 Wasser und Nahrungsmittel: 
 S 6,7 kg; John 9,1 kg. 
-16,8 gepackt mit Luxusgut Äpfel
+16,8 gepackt mit Luxusgut Äpfeln
