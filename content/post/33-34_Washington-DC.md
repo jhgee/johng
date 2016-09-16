@@ -115,7 +115,7 @@ ob das Auto am Samstag wieder laufen wird.
 Der Mitarbeiter kann uns zu diesem Zeitpunkt
 noch nichts garantieren, er versucht natürlich,
 das Auto so schnell wie möglich zu reparieren
-und wird sich am Nachmiitag bei uns melden. 
+und wird sich am Nachmittag bei uns melden. 
 
 Wir nehmen einen Leihwagen, 
 packen unser Gepäck um und fahren
@@ -123,8 +123,8 @@ zur Shopping Mall, wo A auf uns wartet.
 Wir essen bei Subway ein Sandwich - auch 
 mal was anderes nach einigen Tagen 
 Campingküche. 
-Während S paar Klamotten besorgt, 
-hat bereits alles erledigt, 
+Während S ein paar Klamotten besorgt, 
+hat A bereits alles erledigt, 
 setzen A und ich uns in gemütliche Sessel und
 machen ein wenig Papierkram. 
 
