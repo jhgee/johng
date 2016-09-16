@@ -38,12 +38,14 @@ und plötzlich passiert einfach nichts mehr.
 Er macht mir deutlich, dass nichts kommt,
 wenn er das Gaspedal drückt. 
 Blitzschnell trifft er die Entscheidung,
-nicht wie geplant über den Highway zu fahren,
+nicht wie geplant über die Brücke,
+die über den Highway führt, zu fahren,
 da wir nur noch rollen und es wohlmöglich
 bald stehen bleiben, sondern fährt rechts
 ab, bzw. rollt. 
 Immer langsamer werdend halten wir
-auf dem Seitenstreifen der Auffahrt zum Highway. 
+auf dem Seitenstreifen der Auffahrt zum 
+nächsten Highway. 
 
 Was ist nun passiert? Ratlos gucken A und ich
 uns an.
@@ -79,7 +81,6 @@ läuft ohne Kommentar direkt zu unserem Auto
 mit seinem Reservekanister in der Hand. 
 Er ist super freundlich und erzählt, dass
 er selbst einmal mit leerem Tank liegen geblieben ist. 
-Währenddessen betankt er selbst unser Auto. 
 
 Der erneute Startversuch des Autos bleibt 
 weiterhin erfolglos - wäre auch zu einfach
@@ -90,27 +91,27 @@ auslesen:
 > Fuel pump secondary circuit error
 
 Das klingt plausibel und bedeutet für uns,
-dass wir zur Werkstatt abgeschleppt werden müssen. 
+dass wir nun definitiv zur Werkstatt abgeschleppt werden müssen. 
 Wir rufen somit um 12:30 die road assistance
 an. 
 Während A in der nahe gelegenen Mall wartet,
 warten S und ich auf den Abschleppdienst,
 der Schwierigkeiten hat, uns zu finden. 
-Die Polizei kommt auch vorbei. 
+Die Polizei kommt dann natürlich auch vorbei. 
 Der Officer fragt, was wir so machen würden,
 wo wir herkommen, wo wir hinwollen und
 verschwindet ein paar Minuten mit unseren Papieren. 
 Er bringt die Unterlagen zurück und zündet,
-bevor er fährt noch ein Signalfeuer, 
+bevor er fährt noch eine Signalfackel, 
 das er hinter unserem Fahrzeug aufstellt. 
 
 ![Abschleppen](/images/2016-09-09_Abschleppen.jpg)
 
 Nach einer Stunde Wartezeit
-fahren wir mit dem Abschlepper 12 Mi zum nahe
+fahren wir mit dem Abschlepper 12 Meilen zum nahe
 gelegenen Ford Händler Ted Britt in Fairfax. 
 Dort stellt sich uns nun die Frage,
-ob das Auto an Samstag wieder läuft. 
+ob das Auto am Samstag wieder laufen wird. 
 Der Mitarbeiter kann uns zu diesem Zeitpunkt
 noch nichts garantieren, er versucht natürlich,
 das Auto so schnell wie möglich zu reparieren
@@ -131,7 +132,7 @@ machen ein wenig Papierkram.
 
 ![Hotel Backpacking](/images/2016-09-_Hotel-Backpacking.jpg)
 
-Nach einer halben Stunde Fahrtzeit nach D.C.
+Nach einer halben Stunde Fahrzeit nach D.C.
 und anschließender Parkplatzsuche kommen
 wir um kurz vor vier am Hotel an. 
 Das Lächeln im Gesicht der Empfangsdame
@@ -142,7 +143,7 @@ während wir mit unseren Backpacks einchecken.
 Bei der Auswahl der Unterkunft war uns im
 Prinzip nur eine Dusche wichtig. 
 Wir haben dann ein stark rabattiertes 
-Hotelzimmer in einem teuren Hotel gefunden
+Hotelzimmer in einem teuren Hotel gefunden. 
 Unser Zimmer ist sehr schön und es gibt
 das Angebot, zwischen 17 und 18 Uhr
 im Foyer kostenlos Wein zu trinken. 
@@ -150,9 +151,10 @@ Nachdem wir im Pool waren, nehmen wir das
 Angebot natürlich gerne und ausgiebig wahr. 
 Da einige unserer Kleidungsstücke eine Wäsche
 vertragen könnten, hatten wir schon den
-Laundry Service anvisiert. Unsere Zweifel,
+Laundry Service des Hotels anvisiert. 
+Unsere Zweifel,
 dass der Service inklusive ist, bestätigten
-sich - mit Socken $4 geht es los. 
+sich - mit Sockenwaschen für $4 geht es los. 
 Daraufhin haben wir von Hand in der Badewanne
 gewaschen. 
 
@@ -174,26 +176,27 @@ Washington Monument.
 
 ![Washington Monument A Jump](/images/2016-09-09_Washington-Monument-A.jpg)
 
-Bei A natürlich bisschen dynamischer. 
+A muss natürlich eine bisschen dynamischere
+Pose machen. 
 
 ![Lincoln Memorial](/images/2016-09-09_Lincoln-Memorial.jpg)
 
-Daa Lincoln Memorial im Sonnenuntergang. 
+Das Lincoln Memorial im Sonnenuntergang. 
 
 ![Franzose](/images/2016-09-09_Franzose.jpg)
 
 Zum Abendessen sind wir in eine
-Straße im Norden mit vielen Restaurants 
+Straße mit vielen Restaurants im Norden 
 gefahren, die uns von
 einem Gast aus dem Hotel enpfohlen worden ist,
 mit dem wir uns beim Wein unterhalten haben. 
 Sein Lieblingsrestaurant sei der Franzose
-und da wir alle drei noch nicht im
+und da wir alle drei noch nicht in einem
 französischen Restaurant waren - außer 
-Crèperie, gehen wir dorthin. 
+Crèperie, gehen wir dort hin. 
 Das Essen war sehr lecker und ein schöner
 kulinarischer Kontrast für zwischendurch,
-allerdings auch sehr eteuer. 
+allerdings auch sehr teuer. 
 
 Wir gehen noch in eine Bar und fahren dann
 mit einem Lyft, das Konkurrenzunternehmen
@@ -203,7 +206,7 @@ zurück zum Hotel.
 # Samstag
 
 Heute wollen wir noch ein weiteres Angebot des Hotels nutzen und kostenlos Fahrräder leihen,
-um heute D.C. zu erkunden. 
+um D.C. zu erkunden. 
 
 ![Laundromat](/images/2016-09-10_Laundromat.jpg)
 
@@ -222,11 +225,12 @@ Unser Ziel ist das
 *US Capitol Visitor Center*. 
 Das Center wurde T und mir empfohlen,
 wir konnten es jedoch aufgrund der
-Öffnungszeiten das letzte mal nicht 
+Öffnungszeiten das letzte Mal nicht 
 besuchen. 
-Jetzt muss ich sagen, dass wir nicht besonders
+Jetzt muss ich sagen, 
+dass wir dadurch auch nicht besonders
 viel verpasst haben. 
-Für uns ist es trotzdem ein gutes Ziel, 
+Für uns ist es nun trotzdem ein gutes Ziel, 
 da wir nicht viel Zeit haben und es 
 eine schöne Tour dorthin ist. 
 
@@ -246,4 +250,4 @@ natürlich trotzdem einen bitteren Geschmack,
 während wir zurück zum 
 *Shenandoah National Park* fahren. 
 
-Der Abstecher nach D.C. war in allen Hinsischten sehr erfrischend!
+Der Abstecher nach D.C. war in allen Hinsischten wie geplant sehr erfrischend!
