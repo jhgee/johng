@@ -8,9 +8,12 @@ categories = ["USA 2016", "Virginia"]
 
 # Samstag
 
-![](/images/2016-09-10_.jpg)
+![Sunset](/images/2016-09-10_Sunset.jpg)
 
 # Sonntag
 
+![Panorama](/images/2016-09-11_Panorama.jpg)
 
-![](/images/2016-09-11_.jpg)
+![Telephone Rock](/images/2016-09-11_Telephone-Rock.jpg)
+
+![Sunset](/images/2016-09-11_Sunset.jpg)
