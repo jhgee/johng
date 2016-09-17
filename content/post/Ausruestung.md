@@ -95,6 +95,9 @@ inklusive dem Luxusgut Äpfeln.
 
 # Underblanket Hammocking
 
+S hat hier etwas über die Underblankets 
+unserer Hängematten geschrieben. 
+
 Während unserer Tour haben wir größtenteils in Hängematten geschlafen (hammocking). Abhängig von der Umgebung und dem Terrain hat eine Hängematte deutliche Vorteile gegenüber einem Zelt, insbesondere beim Wildcampen. Die Appalachen, in denen wir unterwegs sind, sind sehr bewaldet und bergig, somit gibts es wenige ebene Stellen, um ein Zelt aufzubauen, jedoch viele Bäume für eine Hängematte. 
 
 Im einfachsten Fall hat man nur eine Hängematte (500 Gramm) und einen Schlafsack dabei. Will man sich nun vor Mosquitos schützen kommt ein 400 Gramm schweres Mosquitonetz hinzu. Für den Fall dass es regnen sollte, benötigt man ein ausreichend großes Tarp (3x2.5 Meter) (500 Gramm). Jetzt ist man vollkommen geschützt und trägt nur 1,4 kg mit sich - deutlich weniger und viel kompakter als ein Zelt. 
