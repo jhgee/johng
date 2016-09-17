@@ -130,7 +130,7 @@ machen ein wenig Papierkram.
 
 ## Hotel
 
-![Hotel Backpacking](/images/2016-09-_Hotel-Backpacking.jpg)
+![Hotel Backpacking](/images/2016-09-09_Hotel-Backpacking.jpg)
 
 Nach einer halben Stunde Fahrzeit nach D.C.
 und anschließender Parkplatzsuche kommen
