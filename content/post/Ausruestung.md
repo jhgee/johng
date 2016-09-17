@@ -3,7 +3,7 @@ date = "2016-09-15"
 draft = true
 title = "Ausrüstung"
 image = "2016-09-15_Equipment.jpg"
-categories = ["USA 2016", "Michigan"]
+categories = ["USA 2016"]
 +++
 
 Neben den ganzen Erlebnisse und Touren
