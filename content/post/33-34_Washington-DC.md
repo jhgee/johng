@@ -2,7 +2,7 @@
 date = "2016-09-10"
 draft = true
 title = "Abstecher nach D.C."
-image = ""
+image = "2016-09-09_White-House-J-S-A"
 categories = ["USA 2016", "Washington DC"]
 +++
 
