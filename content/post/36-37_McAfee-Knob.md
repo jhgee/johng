@@ -6,6 +6,12 @@ image = ""
 categories = ["USA 2016", "Virginia"]
 +++
 
+Das berühmteste Motiv des *Apalachian Trails*
+den *McAfee Knob* wollen wir uns nicht 
+entgehen lassen und machen aus diesem
+Grund eine kleine Exkursion vom
+*Blue Ridge Parkway*. 
+
 # Montag
 
 ![Gas Station](/images/2016-09-12_Gas-Station.jpg)
