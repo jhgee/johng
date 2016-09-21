@@ -1,6 +1,6 @@
 +++
 date = "2016-09-11"
-draft = true
+draft = false
 title = "Skyline Drive"
 image = "2016-09-11_Sunset.jpg"
 categories = ["USA 2016", "Virginia"]
@@ -46,7 +46,7 @@ von dem wir ein ganz nettes Panorama haben.
 
 ![Telephone Rock](/images/2016-09-11_Telephone-Rock.jpg)
 
-Wedern A noch ich haben den Telefonmasten
+Weder A noch ich haben den Telefonmasten
 oder die Telefonzelle gesehen, aber 
 irgendetwas muss es dort oben geben. 
 
