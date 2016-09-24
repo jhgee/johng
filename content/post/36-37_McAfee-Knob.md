@@ -1,6 +1,6 @@
 +++
 date = "2016-09-13"
-draft = true
+draft = false
 title = "McAfee Knob"
 image = "2016-09-13_Sunrise-A-J-S.jpg"
 categories = ["USA 2016", "Virginia"]

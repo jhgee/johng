@@ -1,6 +1,6 @@
 +++
 date = "2016-09-15"
-draft = true
+draft = false
 title = "Ausrüstung"
 image = "2016-09-15_Equipment.jpg"
 categories = ["USA 2016"]
