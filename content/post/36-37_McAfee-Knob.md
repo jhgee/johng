@@ -2,7 +2,7 @@
 date = "2016-09-13"
 draft = true
 title = "McAfee Knob"
-image = ""
+image = "2016-09-13_Sunrise-A-J-S.jpg"
 categories = ["USA 2016", "Virginia"]
 +++
 
