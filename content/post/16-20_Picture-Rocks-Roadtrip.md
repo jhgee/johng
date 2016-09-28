@@ -294,7 +294,7 @@ fahren wir nach Saugatuck an den Strand.
 ![Düne](/images/2016-08-26_Dune.jpg)
 
 Der Platz, an dem wir später campen werden,
-ist ziemlich cool auf eiher Düne gelegen.
+ist ziemlich cool auf einer Düne gelegen.
 
 ![Aussicht](/images/2016-08-26_Aussicht.jpg)
 
