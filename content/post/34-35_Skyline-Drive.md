@@ -65,4 +65,4 @@ Er ist auch eine Panoramastraße und wird
 von uns als nächstes befahren werden. 
 Die Nacht verbringen wir wieder im Zelt 
 auf einem der ersten Campingplätze am 
-*Blue Ridge Parkway*. 
+*Blue Ridge Parkway* - Otter Creek. 
