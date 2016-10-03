@@ -117,4 +117,4 @@ Damit die Underblanket nun auch an den Enden der Hängematte eng anliegt, wurde 
 Das Resultat ist eine mit kleinem Abstand anliegende Underblanket, die sich der Hängematte aufgrund der Gummibänder immer anpasst. Falls es zu warm ist kann man sie sogar wegziehen, sodass sie neben der Hängematte hängt und nicht mehr isoliert. 
 
 Die gesamte Konstruktion wiegt unter 100 Gramm und hat uns selbst in kalten Nächten (6 Grad) angenehm warm gehalten.
-Eine echte Innovation, © Tobogganing Club.
+Eine echte Innovation, © Tobogganning Club.
