@@ -8,8 +8,14 @@ categories = ["USA 2016", "Virginia"]
 
 # Dienstag
 
-![](/images/2016-09-13_.jpg)
+![Verpflegung Pizza](/images/2016-09-13_Verpflegung-Pizza.jpg)
+
+![Difficulty Falls](/images/2016-09-13_Difficulty-Falls.jpg)
 
 # Mittwoch
+
+![Campsite](/images/2016-09-14_Campsite.jpg)
+
+![Convertible vs Jeep](/images/2016-09-14_Convertible-Vs-Jeep.jpg)
 
 ![](/images/2016-09-14_.jpg)
