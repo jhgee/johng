@@ -6,6 +6,8 @@ image = ""
 categories = ["USA 2016", "Virginia"]
 +++
 
+{{< youtube CcmyulXnPI4 >}}
+
 # Dienstag
 
 ![Verpflegung Pizza](/images/2016-09-13_Verpflegung-Pizza.jpg)
