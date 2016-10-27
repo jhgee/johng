@@ -2,7 +2,7 @@
 date = "2016-09-14"
 draft = false
 title = "Twisted Falls"
-image = ""
+image = "2016-09-13_Difficulty-Falls.jpg"
 categories = ["USA 2016", "Virginia", "Tennessee"]
 +++
 
