@@ -57,6 +57,8 @@ Google Maps hätten wir hierher bestimmt nicht gefunden.
 Noch abenteuerlicher ist jedoch das allerletzte Stück.
 Bei diesem unebenen Boden, der von Schlaglöchern gesäumt ist sehen wir
 mit unserem doch eher sportlichen Wagen mal wieder alt aus.
+Aber auch diese Hürde nehmen wir und kommen sicher am "Parkplatz"
+der *Twisted Falls* an und sind nun auch in Tennessee gelandet.
 
 ![Verpflegung Pizza](/images/2016-09-13_Verpflegung-Pizza.jpg)
 
