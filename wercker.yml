@@ -16,6 +16,6 @@ build:
 deploy:
   steps:
     - duleorlovic/ftp-deploy:
-        destination: sftp://johng.de/
+        destination: ftp://johng.de/
         username: $FTP-USER
         password: $PASS
