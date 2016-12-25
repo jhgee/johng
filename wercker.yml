@@ -23,10 +23,10 @@ deploy:
     #     username: $USER
     #     password: $PASS
     - script:
-    name: prepare lftp settings
-    code: |
-      mkdir -p $HOME/.lftp
-      echo "set ssl:verify-certificate no" > $HOME/.lftp/rc
+        name: prepare lftp settings
+        code: |
+          mkdir -p $HOME/.lftp
+          echo "set ssl:verify-certificate no" > $HOME/.lftp/rc
     - script:
         name: ftp deploy
         code: |
