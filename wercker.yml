@@ -1,10 +1,8 @@
 box: debian
 build:
   steps:
-    - script:
-        name: install git
-        code: |
-          apt-get update && apt-get install git -y
+    - install-packages:
+        packages: git
     - script:
         name: initialize git submodules
         code: |
@@ -16,7 +14,7 @@ deploy:
     - install-packages:
         packages: lftp
     - script:
-        name: ftp deploy 
+        name: ftp deploy
         code: |
           echo $WERCKER_ROOT
           lftp sftp://$USER:$PASS@johng.de/  -e "mirror  --reverse -e -R ./public / --verbose; bye"
