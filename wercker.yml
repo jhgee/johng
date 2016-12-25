@@ -12,14 +12,14 @@ build:
 deploy:
    steps:
     - install-packages:
-        packages: lftp
-    - script:
-        name: ftp deploy
-        code: |
-          echo $WERCKER_ROOT
-          lftp sftp://$USER:$PASS@johng.de/  -e "mirror  --reverse -e -R ./public / --verbose; bye"
-    # - duleorlovic/ftp-deploy:
-    #     basedir: public/
-    #     destination: ftp://johng.de/
-    #     username: $FTP-USER
-    #     password: $PASS
+        packages: git lftp
+    # - script:
+    #     name: ftp deploy
+    #     code: |
+    #       echo $WERCKER_ROOT
+    #       lftp sftp://$USER:$PASS@johng.de/  -e "mirror  --reverse -e -R ./public / --verbose; bye"
+    - duleorlovic/ftp-deploy:
+        basedir: public/
+        destination: ftp://johng.de/
+        username: $FTP-USER
+        password: $PASS
