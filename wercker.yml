@@ -22,7 +22,6 @@ deploy:
         destination: ftp://johng.de/
         username: $FTP-USER
         password: $PASS
-
 # - script:
 #     name: ftp deploy
 #     code: |
