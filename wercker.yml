@@ -16,7 +16,7 @@ build:
 deploy:
    steps:
     - install-packages:
-        packages: git openssh-client lftp
+        packages: openssh-client lftp
     # - duleorlovic/ftp-deploy:
     #     basedir: public/
     #     destination: ftp://johng.de/
