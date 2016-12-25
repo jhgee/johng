@@ -12,14 +12,13 @@ build:
     - arjen/hugo-build:
         version: "0.15"
 deploy:
-   docker:
+   steps:
     - script:
-        name: Prepare for deploy
+        name: Prepare for deployment
         code: |
           mkdir -p /tmp/pipeline
           mv $WERCKER_ROOT/* /tmp/pipeline/
           mv /tmp/pipeline/public/* $WERCKER_ROOT
-  steps:
     - duleorlovic/ftp-deploy:
         destination: ftp://johng.de/
         username: $FTP-USER
