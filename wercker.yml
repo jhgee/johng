@@ -16,12 +16,16 @@ build:
 deploy:
    steps:
     - install-packages:
-        packages: git lftp
+        packages: git openssh-client lftp
     # - duleorlovic/ftp-deploy:
     #     basedir: public/
     #     destination: ftp://johng.de/
     #     username: $USER
     #     password: $PASS
+    - add-to-known_hosts:
+        hostname: johng.de
+    - add-ssh-key:
+        keyname: DEPLOY
     - script:
         name: prepare lftp settings
         code: |
