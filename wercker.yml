@@ -34,6 +34,4 @@ deploy:
     - script:
         name: ftp deploy
         code: |
-          echo $WERCKER_ROOT
-          echo ./
-          lftp sftp://$USER:$PASS@johng.de/  -e "mirror  --reverse -e -R ./public / --verbose; bye"
+          lftp sftp://$USER:$PASS@johng.de/  -e "mirror  --reverse -e -R $WERCKER_ROOT/public / --verbose; bye"
