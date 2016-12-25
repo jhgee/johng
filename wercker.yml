@@ -13,13 +13,22 @@ build:
         version: "0.15"
 deploy:
    steps:
+    # - script:
+    #     name: Copying public folder for deployment
+    #     code: |
+    #       mkdir -p /tmp/pipeline
+    #       mv $WERCKER_ROOT/* /tmp/pipeline/
+    #       mv /tmp/pipeline/public/* $WERCKER_ROOT
     - script:
-        name: Copying public folder for deployment
+        name: install lftp
         code: |
-          mkdir -p /tmp/pipeline
-          mv $WERCKER_ROOT/* /tmp/pipeline/
-          mv /tmp/pipeline/public/* $WERCKER_ROOT
-    - duleorlovic/ftp-deploy:
-        destination: ftp://johng.de/
-        username: $FTP-USER
-        password: $PASS
+          apt-get update && apt-get install lftp
+    - script:
+        name: ftp deploy
+        code: |
+          lftp sftp://$USER:$PASS@johng.de/  -e "mirror  --reverse -e -R $WERCKER_ROOT/public / --verbose; bye"
+    # - duleorlovic/ftp-deploy:
+    #     basedir: public/
+    #     destination: ftp://johng.de/
+    #     username: $FTP-USER
+    #     password: $PASS
