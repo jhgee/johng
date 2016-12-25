@@ -14,7 +14,7 @@ build:
 deploy:
    steps:
     - script:
-        name: Prepare for deployment
+        name: Copying public folder for deployment
         code: |
           mkdir -p /tmp/pipeline
           mv $WERCKER_ROOT/* /tmp/pipeline/
