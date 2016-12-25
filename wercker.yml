@@ -13,14 +13,13 @@ build:
         version: "0.15"
 deploy:
    steps:
+    - install-packages:
+        packages: lftp
     - script:
-        name: install lftp
+        name: ftp deploy - sync with remote
         code: |
-          apt-get update && apt-get install lftp
-    - script:
-        name: ftp deploy
-        code: |
-          lftp sftp://$USER:$PASS@johng.de/  -e "mirror  --reverse -e -R $WERCKER_ROOT/public / --verbose; bye"
+          echo $WERCKER_ROOT
+          lftp sftp://$USER:$PASS@johng.de/  -e "mirror  --reverse -e -R ./public / --verbose; bye"
     # - duleorlovic/ftp-deploy:
     #     basedir: public/
     #     destination: ftp://johng.de/
