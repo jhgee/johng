@@ -32,4 +32,4 @@ deploy:
         code: |
           echo $WERCKER_ROOT
           echo ./
-          lftp sftp://$USER:$PASS@johng.de/  -e "set ftp:ssl-allow no;mirror  --reverse -e -R ./public / --verbose; bye"
+          lftp sftp://$USER:$PASS@johng.de/  -e "set ftp:ssl-allow no; mirror  --reverse -e -R ./public / --verbose; bye"
