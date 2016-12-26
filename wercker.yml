@@ -16,16 +16,12 @@ build:
 deploy:
    steps:
     - install-packages:
-        packages: openssh-client lftp
+        packages: lftp
     # - duleorlovic/ftp-deploy:
     #     basedir: public/
     #     destination: ftp://johng.de/
     #     username: $USER
     #     password: $PASS
-    - add-to-known_hosts:
-        hostname: johng.de
-    - add-ssh-key:
-        keyname: DEPLOY
     - script:
         name: prepare lftp settings
         code: |
@@ -34,4 +30,4 @@ deploy:
     - script:
         name: ftp deploy
         code: |
-          lftp sftp://$USER:$PASS@johng.de/  -e "mirror  --reverse -e -R $WERCKER_ROOT/public / --verbose; bye"
+          lftp sftp://$USER:$PASS@$HOST  -e "set ftp:ssl-allow no; mirror  --reverse -e -R $WERCKER_ROOT/public / --verbose; bye"
