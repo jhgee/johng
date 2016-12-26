@@ -26,7 +26,6 @@ deploy:
     # - install-packages:
     #     packages: curl
     # - duleorlovic/ftp-deploy:
-    #     basedir: public/
     #     destination: ftp://$HOST/
     #     username: $USER
     #     password: $PASS
