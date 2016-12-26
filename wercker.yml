@@ -17,7 +17,7 @@ deploy:
       name: cd into subdirectory
       code: |
         ls
-        cd public
+        $WERCKER_CACHE_DIR=$WERCKER_CACHE_DIR/public 
   - duleorlovic/ftp-deploy:
       destination: ftp://$HOST/
       username: $USER
