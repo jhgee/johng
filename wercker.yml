@@ -11,21 +11,26 @@ build:
         version: "0.15"
 deploy:
   steps:
-    - install-packages:
-        packages: lftp
-    - script:
-        name: prepare lftp settings
-        code: |
-          mkdir -p $HOME/.lftp
-          echo "set ssl:verify-certificate no" > $HOME/.lftp/rc
-    - script:
-      name: lftp deploy
+  - install-packages:
+      packages: curl
+  - script:
+      name: cd into subdirectory
       code: |
-        lftp -e "set ftp:ssl-allow no; mirror --exclude logs/ --verbose --reverse --delete $WERCKER_ROOT/public / ; bye" -u $USER,$PASS $HOST
-    #
+        ls
+        cd public
+  - duleorlovic/ftp-deploy:
+      destination: ftp://$HOST/
+      username: $USER
+      password: $PASS
+
     # - install-packages:
-    #     packages: curl
-    # - duleorlovic/ftp-deploy:
-    #     destination: ftp://$HOST/
-    #     username: $USER
-    #     password: $PASS
+    #     packages: lftp
+    # - script:
+    #     name: prepare lftp settings
+    #     code: |
+    #       mkdir -p $HOME/.lftp
+    #       echo "set ssl:verify-certificate no" > $HOME/.lftp/rc
+    # - script:
+    #   name: lftp deploy
+    #   code: |
+    #     lftp -e "set ftp:ssl-allow no; mirror --exclude logs/ --verbose --reverse --delete $WERCKER_ROOT/public / ; bye" -u $USER,$PASS $HOST
