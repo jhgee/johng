@@ -15,13 +15,13 @@ build:
           cp * -R $WERCKER_OUTPUT_DIR
 deploy:
    steps:
-    # - install-packages:
-        # packages: lftp
     - duleorlovic/ftp-deploy:
         basedir: public/
-        destination: ftp://johng.de/
+        destination: ftp://$HOST/
         username: $USER
         password: $PASS
+     # - install-packages:
+         # packages: lftp
     # - script:
     #     name: prepare lftp settings
     #     code: |
