@@ -14,22 +14,23 @@ build:
     #     code: |
     #       cp * -R $WERCKER_OUTPUT_DIR
 deploy:
-   steps:
+  steps:
     - install-packages:
-        packages: curl
-    - duleorlovic/ftp-deploy:
-        basedir: public/
-        destination: ftp://$HOST/
-        username: $USER
-        password: $PASS
-     # - install-packages:
-         # packages: lftp
-    # - script:
-    #     name: prepare lftp settings
-    #     code: |
-    #       mkdir -p $HOME/.lftp
-    #       echo "set ssl:verify-certificate no" > $HOME/.lftp/rc
-    # - script:
-    #     name: ftp deploy
-    #     code: |
-    #       lftp sftp://$USER:$PASS@$HOST  -e "set ftp:ssl-allow no; mirror  --reverse -e -R $WERCKER_ROOT/public / --verbose; bye"
+        packages: lftp
+    - script:
+        name: prepare lftp settings
+        code: |
+          mkdir -p $HOME/.lftp
+          echo "set ssl:verify-certificate no" > $HOME/.lftp/rc
+    - script:
+      name: lftp deploy
+      code: |
+        lftp sftp://$USER:$PASS@$HOST  -e "set ftp:ssl-allow no; mirror  --reverse -e -R $WERCKER_ROOT/public / --verbose; bye"
+    #
+    # - install-packages:
+    #     packages: curl
+    # - duleorlovic/ftp-deploy:
+    #     basedir: public/
+    #     destination: ftp://$HOST/
+    #     username: $USER
+    #     password: $PASS
