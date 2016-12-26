@@ -9,10 +9,10 @@ build:
             git submodule update --init --recursive
     - arjen/hugo-build:
         version: "0.15"
-    - script:
-        name: copy output directory
-        code: |
-          cp * -R $WERCKER_OUTPUT_DIR
+    # - script:
+    #     name: copy output directory
+    #     code: |
+    #       cp * -R $WERCKER_OUTPUT_DIR
 deploy:
    steps:
     - duleorlovic/ftp-deploy:
