@@ -13,13 +13,14 @@ deploy:
   steps:
   - install-packages:
       packages: curl
-  - script:
-      name: cd into subdirectory
-      code: |
-        ls $WERCKER_OUTPUT_DIR
-        cp -avr ./public $WERCKER_OUTPUT_DIR
-        ls $WERCKER_OUTPUT_DIR
+  # - script:
+  #     name: cd into subdirectory
+  #     code: |
+  #       ls $WERCKER_OUTPUT_DIR
+  #       cp -ar ./public/. $WERCKER_OUTPUT_DIR
+  #       ls $WERCKER_OUTPUT_DIR
   - duleorlovic/ftp-deploy:
+      cwd: public/
       destination: ftp://$HOST/
       username: $USER
       password: $PASS
