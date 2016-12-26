@@ -15,19 +15,19 @@ build:
           cp * -R $WERCKER_OUTPUT_DIR
 deploy:
    steps:
-    - install-packages:
-        packages: lftp
-    # - duleorlovic/ftp-deploy:
-    #     basedir: public/
-    #     destination: ftp://johng.de/
-    #     username: $USER
-    #     password: $PASS
-    - script:
-        name: prepare lftp settings
-        code: |
-          mkdir -p $HOME/.lftp
-          echo "set ssl:verify-certificate no" > $HOME/.lftp/rc
-    - script:
-        name: ftp deploy
-        code: |
-          lftp sftp://$USER:$PASS@$HOST  -e "set ftp:ssl-allow no; mirror  --reverse -e -R $WERCKER_ROOT/public / --verbose; bye"
+    # - install-packages:
+        # packages: lftp
+    - duleorlovic/ftp-deploy:
+        basedir: public/
+        destination: ftp://johng.de/
+        username: $USER
+        password: $PASS
+    # - script:
+    #     name: prepare lftp settings
+    #     code: |
+    #       mkdir -p $HOME/.lftp
+    #       echo "set ssl:verify-certificate no" > $HOME/.lftp/rc
+    # - script:
+    #     name: ftp deploy
+    #     code: |
+    #       lftp sftp://$USER:$PASS@$HOST  -e "set ftp:ssl-allow no; mirror  --reverse -e -R $WERCKER_ROOT/public / --verbose; bye"
