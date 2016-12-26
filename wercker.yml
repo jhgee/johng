@@ -16,9 +16,9 @@ deploy:
   - script:
       name: cd into subdirectory
       code: |
-        $WERCKER_OUTPUT_DIR
-        WERCKER_OUTPUT_DIR=$WERCKER_OUTPUT_DIR/public
-        $WERCKER_OUTPUT_DIR
+        ls $WERCKER_OUTPUT_DIR
+        cp -avr ./public $WERCKER_OUTPUT_DIR
+        ls $WERCKER_OUTPUT_DIR
   - duleorlovic/ftp-deploy:
       destination: ftp://$HOST/
       username: $USER
