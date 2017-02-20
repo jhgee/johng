@@ -39,3 +39,14 @@ Das Bild könnte wohl auch als Autowerbung dienen...
 Zu unserem Faible für Sonnenuntergänge 
 und wie viel Glück wir mit ihnen haben 
 muss ich wohl nichts mehr sagen. 
+
+Die Nacht verbringen wir auf einem ziemlich großen Campingplatz bei Meile 408,2. 
+Wie immer kommen wir bereits im Dunkeln an, suchen uns unsere Campsite aus,
+füllen die Anmeldung aus, fahren zurück zum Eingang, 
+werfen den Zettel zusammen mit 16 Dollars ein,
+fahren zurück zu unserem Platz und beginnen das Zelt aufzubauen, 
+während S Essen zubereitet. 
+
+Die Qualität des Campingplatzes ist mal wieder ziemlich gut.
+Wichtiges Merkmal ist zum Beispiel die Beschaffenheit der Stelle für das Zelt. 
+Nicht schräg, schön eben und durch den feinen Kies auch sehr angenehm zum liegen.
