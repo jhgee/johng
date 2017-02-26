@@ -15,7 +15,7 @@ deploy:
         packages: git ssh-client
     - lukevivier/gh-pages@0.2.1:
         token: $GIT_TOKEN
-        domain: jhgee.github.io/johng/
+        domain: jhgee.github.io/johng
         basedir: public
 # deploy:
 #   steps:
