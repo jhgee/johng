@@ -1,4 +1,4 @@
-baseurl = "http://johng.de/"
+baseurl = "https://jhgee.github.io/johng" #"http://johng.de/"
 languageCode = "de-de"
 title = "John's Travel Blog"
 theme = "robust"
