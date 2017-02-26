@@ -17,6 +17,7 @@ deploy:
         token: $GIT_TOKEN
         domain: johng.de
         basedir: public
+        
 # deploy:
 #   steps:
 #     - install-packages:
