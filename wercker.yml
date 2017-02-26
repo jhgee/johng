@@ -12,16 +12,24 @@ build:
 deploy:
   steps:
     - install-packages:
-        packages: lftp
-    - script:
-        name: prepare lftp settings
-        code: |
-          mkdir -p $HOME/.lftp
-          echo "set ssl:verify-certificate no" > $HOME/.lftp/rc
-    - script:
-      name: lftp deploy
-      code: |
-        lftp -e "set ftp:ssl-allow no; mirror --exclude logs/ --verbose --reverse --delete $WERCKER_ROOT/public / ; bye" -u $USER,$PASS $HOST
+        packages: git ssh-client
+    - lukevivier/gh-pages@0.2.1:
+        token: $GIT_TOKEN
+        domain: jhgee.github.io/blog/
+        basedir: public
+# deploy:
+#   steps:
+#     - install-packages:
+#         packages: lftp
+#     - script:
+#         name: prepare lftp settings
+#         code: |
+#           mkdir -p $HOME/.lftp
+#           echo "set ssl:verify-certificate no" > $HOME/.lftp/rc
+#     - script:
+#       name: lftp deploy
+#       code: |
+#         lftp -e "set ftp:ssl-allow no; mirror --exclude logs/ --verbose --reverse --delete $WERCKER_ROOT/public / ; bye" -u $USER,$PASS $HOST
   # - install-packages:
   #     packages: curl
   # - duleorlovic/ftp-deploy:
