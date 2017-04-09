@@ -23,7 +23,7 @@ date_oldest = os.path.basename(file_path)[:10]
 
 # build header
 header = ["+++", 'date = "{}"'.format(date_oldest),
-          "draft = false",
+          "draft = true",
           'title = "Titel"',
           'image = "2017-image.jpg"',
           'categories = ["Milan"]',
