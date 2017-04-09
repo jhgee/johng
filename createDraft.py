@@ -25,7 +25,7 @@ date_oldest = os.path.basename(file_path)[:10]
 header = ["+++", 'date = "{}"'.format(date_oldest),
           "draft = true",
           'title = "Titel"',
-          'image = "2017-image.jpg"',
+          'image = ""',
           'categories = ["Milan"]',
           "+++"]
 
