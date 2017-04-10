@@ -6,85 +6,79 @@ image = "milan/2017-04-09T164756_Orto-Botanico-di-Brera.jpg"
 categories = ["Italy", "Milan"]
 +++
 
-Stadtteil Lambrate
+{{< load-photoswipe >}}
 
-ich aufzuraffen und was zu machen.
+Diese Woche ist in Mailand die große Desginerwoche [Fuorisalone](https://fuorisalone.it/2017/)
+rund um die Möbelmesse [Salone del Mobile](https://www.salonemilano.it/).
+Es gibt in der gesamten Stadt viele Ausstellungen, Events und andere Dinge zu sehen.
 
-Diese Woche ist hier die große Desginerwoche rund um die Möbelmesse.
-Es gibt ganz viele Events in der Stadt
-und heute bin ich durch ein Viertel geschlendert
-und habe mir da bisschen was angesehen.
+# Samstag
 
-![Dipartimento Fisica](/images/milan/2017-04-08T150840_Dipartimento-Fisica.jpg)
+Ich nutze die Gelegenheit mir die Stadt anzugucken
+und habe als erstes Ziel den Stadtteil Lambrate gewählt,
+der in der Nähe des Politecnicos liegt.
 
-![Markt](/images/milan/2017-04-08T151810_Markt.jpg)
+{{< figure caption="Das Dipartimento Fisica liegt auf meinem Weg." src="/images/milan/2017-04-08T150840_Dipartimento-Fisica.jpg" alt="Dipartimento Fisica" >}}
 
-![Sudio Gariboldi](/images/milan/2017-04-08T154144_Sudio-Gariboldi.jpg)
+{{< figure caption="Ein Straßenmarkt" src="/images/milan/2017-04-08T151810_Markt.jpg" alt="Markt" >}}
 
-![Street Food Festival](/images/milan/2017-04-08T160317_Street-Food-Festival.jpg)
+Wie auch im weiteren Verlauf schlendere ich einfach zufällig durch die Straßen
+und gehe in Häuser, Gärten und Ausstellungen, die mich ansprechen.
 
-![La Susina](/images/milan/2017-04-08T161106_La-Susina.jpg)
+{{< figure caption="Als erstes lande ich in der Kunstgalerie Sudio Gariboldi" src="/images/milan/2017-04-08T154144_Sudio-Gariboldi.jpg" alt="Sudio Gariboldi" >}}
 
-![Vegan Kebap](/images/milan/2017-04-08T161736_Vegan-Kebap.jpg)
+Ich stoße auf einen Garten, in dem ein Street-Food-Festival veranstaltet wird und ich einen Vegan Kebap esse.
+Etwas ungewöhnlich fand ich es, mir vorher Kassenzettel im Wert von 2,50€ zu kaufen,
+mit denen ich dann mein Essen an der Bude bezahlt habe.
+Sie wollen dort wohl ein wenig Kontrolle über die Bargeldströme haben.
 
-![Designer Bad](/images/milan/2017-04-08T164521_Designer-Bad.jpg)
+{{< gallery >}}
 
-![Designer Dusche](/images/milan/2017-04-08T164618_Designer-Dusche.jpg)
+	{{< figure caption="Street Food Festival" src="/images/milan/2017-04-08T160317_Street-Food-Festival.jpg" alt="Street Food Festival" >}}
 
-![Innenhof](/images/milan/2017-04-08T164722_Innenhof.jpg)
+	{{< figure caption="La Susina" src="/images/milan/2017-04-08T161106_La-Susina.jpg" alt="La Susina" >}}
 
-![Paletten Tische](/images/milan/2017-04-08T165010_Paletten-Tische.jpg)
+	{{< figure caption="Vegan Kebap" src="/images/milan/2017-04-08T161736_Vegan-Kebap.jpg" alt="Vegan Kebap" >}}
 
-![Holzfurnier Lampe](/images/milan/2017-04-08T165534_Holzfurnier-Lampe.jpg)
+{{< /gallery >}}
 
-![Holzfunier Lampe Herstellung](/images/milan/2017-04-08T165546_Holzfunier-Lampe-Herstellung.jpg)
+In einem Industriegebäude sind Designerbäder ausgestellt.
 
-![Weiden Lampe](/images/milan/2017-04-08T165836_Weiden-Lampe.jpg)
+{{< gallery >}}
 
-![Parrocchia S. Martino In Lambrate](/images/milan/2017-04-08T170754_Parrocchia S. Martino In Lambrate.jpg)
+	{{< figure caption="Designer Bad" src="/images/milan/2017-04-08T164521_Designer-Bad.jpg" alt="Designer Bad mit schickem Regal" >}}
 
-![Tram Via Edoardo Bassini](/images/milan/2017-04-08T180016_Tram Via Edoardo Bassini.jpg)
+	{{< figure caption="Designer Dusche" src="/images/milan/2017-04-08T164618_Designer-Dusche.jpg" alt="Designer Dusche" >}}
 
-![Piazza Leonardo Da Vinci](/images/milan/2017-04-08T181535_Piazza Leonardo Da Vinci.jpg)
+	{{< figure caption="Innenhof" src="/images/milan/2017-04-08T164722_Innenhof.jpg" alt="Innenhof" >}}
 
-![Tram](/images/milan/2017-04-09T132536_Tram.jpg)
+{{< /gallery >}}
 
-![Roter Cinquecento](/images/milan/2017-04-09T132823_Roter-Cinquecento.jpg)
+In der Via Privata Massimiano sind auf einem großem Gelände draußen Sitzgelegenheiten aus Europaletten
+und in einer Halle eine Lampenausstellung.
 
-![Haus](/images/milan/2017-04-09T134427_Haus.jpg)
+{{< gallery >}}
 
-![Via Fatebenefratelli](/images/milan/2017-04-09T140725_Via-Fatebenefratelli.jpg)
+	{{< figure caption="Paletten Tische" src="/images/milan/2017-04-08T165010_Paletten-Tische.jpg" alt="Paletten Tische" >}}
 
-![Blüten](/images/milan/2017-04-09T141600_Blüten.jpg)
+	{{< figure caption="Holzfurnier Lampe" src="/images/milan/2017-04-08T165534_Holzfurnier-Lampe.jpg" alt="Holzfurnier Lampe" >}}
 
-![Via Alessandro Manzoni](/images/milan/2017-04-09T141731_Via-Alessandro-Manzoni.jpg)
+	{{< figure caption="Herstellung der Holzfunier Lampe" src="/images/milan/2017-04-08T165546_Holzfunier-Lampe-Herstellung.jpg" alt="Herstellung der Holzfunier Lampe" >}}
 
-![Via](/images/milan/2017-04-09T142110_Via.jpg)
+	{{< figure caption="Lampe aus geflochtener Weide" src="/images/milan/2017-04-08T165836_Weiden-Lampe.jpg" alt="Lampe aus geflochtener Weide" >}}
 
-![CEA Wasserhähne](/images/milan/2017-04-09T143547_CEA-Wasserhähne.jpg)
+{{< /gallery >}}
 
-![CEA Taps](/images/milan/2017-04-09T143630_CEA-Taps.jpg)
+Auf dem Rückweg esse ich noch ein Eis und setze mich dann für den Sonnenuntergang mit meinem Laptop auf eine Bank am Piazza Leonardo Da Vinci.
 
-![Glasmobilee](/images/milan/2017-04-09T164020_Glasmobilee.jpg)
+{{< gallery >}}
 
-![Blume](/images/milan/2017-04-09T164200_Blume.jpg)
+	{{< figure caption="Parrocchia S. Martino In Lambrate" src="/images/milan/2017-04-08T170754_Parrocchia S. Martino In Lambrate.jpg" alt="Parrocchia S. Martino In Lambrate" >}}
 
-![Orto Botanico di Brera](/images/milan/2017-04-09T164756_Orto-Botanico-di-Brera.jpg)
+	{{< figure caption="Tram Via Edoardo Bassini" src="/images/milan/2017-04-08T180016_Tram Via Edoardo Bassini.jpg" alt="Tram Via Edoardo Bassini" >}}
 
-![Pinacoteca di Brera](/images/milan/2017-04-09T165416_Pinacoteca-di-Brera.jpg)
+	{{< figure caption="Piazza Leonardo Da Vinci" src="/images/milan/2017-04-08T181535_Piazza Leonardo Da Vinci.jpg" alt="Piazza Leonardo Da Vinci" >}}
 
-![Via](/images/milan/2017-04-09T171442_Via.jpg)
+{{< /gallery >}}
 
-![Via](/images/milan/2017-04-09T171545_Via.jpg)
-
-![Cinquecento](/images/milan/2017-04-09T175446_Cinquecento.jpg)
-
-![Darsena](/images/milan/2017-04-09T180140_Darsena.jpg)
-
-![Blumenlampe](/images/milan/2017-04-09T181509_Blumenlampe.jpg)
-
-![Porta Genova](/images/milan/2017-04-09T190512_Porta-Genova.jpg)
-
-![Tram Abendlicht](/images/milan/2017-04-09T190522_Tram-Abendlicht.jpg)
-
-![Via Vigevano](/images/milan/2017-04-09T190700_Via-Vigevano.jpg)
+# Sonntag
