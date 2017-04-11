@@ -14,7 +14,7 @@ Es gibt in der gesamten Stadt viele Ausstellungen, Events und andere Dinge zu se
 
 # Samstag
 
-Ich nutze die Gelegenheit mir die Stadt anzugucken
+Ich nutze die Gelegenheit, mir die Stadt anzugucken
 und habe als erstes Ziel den Stadtteil Lambrate gewählt,
 der in der Nähe des Politecnicos liegt.
 
@@ -102,7 +102,7 @@ Auf dem Weg zum Stadtteil Brera bieten sich mir viele Szenen in den Straßen.
 
 {{< /gallery >}}
 
-{{< figure caption="Blüten Blüten in einem schönen Innenhof" src="/images/milan/2017-04-09T141600_Blüten.jpg" alt="Blüten in einem schönen Innenhof" >}}
+{{< figure caption="Blüten in einem schönen Innenhof" src="/images/milan/2017-04-09T141600_Blüten.jpg" alt="Blüten in einem schönen Innenhof" >}}
 
 So wie viele Ateliers hat auch das von [CEA Design](http://www.ceadesign.it/en/home.html) geöffnet.
 Die Armaturen finde ich wirklich ganz schön anzusehen.
@@ -124,7 +124,7 @@ die auch hier von vielen Menschen besucht werden.
 {{< figure caption="Pinacoteca di Brera" src="/images/milan/2017-04-09T165416_Pinacoteca-di-Brera.jpg" alt="Pinacoteca di Brera" >}}
 
 Hinter dem Gebäude stoße ich auf den Orto Botanico di Brera einem sehr schönen Garten,
-wo ich mich ein wenig Pause mache und den ersten Blogeintrag aus Mailand zu Ende schreibe.
+wo ich mich hinsetze und ein wenig Pause mache und den ersten Blogeintrag aus Mailand zu Ende schreibe.
 
 {{< gallery >}}
 
