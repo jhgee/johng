@@ -82,3 +82,106 @@ Auf dem Rückweg esse ich noch ein Eis und setze mich dann für den Sonnenunterg
 {{< /gallery >}}
 
 # Sonntag
+
+Heute werde ich das erste Mal ins Zentrum gehen, um auch dort wieder den Fuorisalone zu besuchen.
+Auf dem Weg zum Stadtteil Brera bieten sich mir viele Szenen in den Straßen.
+
+{{< gallery >}}
+
+	{{< figure caption="Tram" src="/images/milan/2017-04-09T132536_Tram.jpg" alt="Tram" >}}
+
+	{{< figure caption="Roter Cinquecento" src="/images/milan/2017-04-09T132823_Roter-Cinquecento.jpg" alt="Roter Cinquecento" >}}
+
+	{{< figure caption="Haus" src="/images/milan/2017-04-09T134427_Haus.jpg" alt="Haus" >}}
+
+	{{< figure caption="Via Fatebenefratelli" src="/images/milan/2017-04-09T140725_Via-Fatebenefratelli.jpg" alt="Via Fatebenefratelli" >}}
+
+	{{< figure caption="Via Alessandro Manzoni" src="/images/milan/2017-04-09T141731_Via-Alessandro-Manzoni.jpg" alt="Via Alessandro Manzoni" >}}
+
+  {{< figure caption="Stadtteil Brera" src="/images/milan/2017-04-09T142110_Stadtteil-Brera.jpg" alt="Stadtteil Brera" >}}
+
+{{< /gallery >}}
+
+{{< figure caption="Blüten Blüten in einem schönen Innenhof" src="/images/milan/2017-04-09T141600_Blüten.jpg" alt="Blüten in einem schönen Innenhof" >}}
+
+So wie viele Ateliers hat auch das von [CEA Design](http://www.ceadesign.it/en/home.html) geöffnet.
+Die Armaturen finde ich wirklich ganz schön anzusehen.
+
+{{< gallery >}}
+
+	{{< figure caption="CEA Wasserhähne" src="/images/milan/2017-04-09T143547_CEA-Wasserhähne.jpg" alt="CEA Wasserhähne" >}}
+
+	{{< figure caption="CEA Taps" src="/images/milan/2017-04-09T143630_CEA-Taps.jpg" alt="CEA Taps" >}}
+
+  {{< figure caption="Armaturen" src="/images/milan/2017-04-09T143701_Armaturen.jpg" alt="Armaturen" >}}
+
+{{< /gallery >}}
+
+In Brera gehe ich als erstes in die Pinacoteca di Brera, die Kunstakademie Mailand.
+Das Gebäude ist ziemlich groß und es gibt viele Installationen,
+die auch hier von vielen Menschen besucht werden.
+
+{{< figure caption="Pinacoteca di Brera" src="/images/milan/2017-04-09T165416_Pinacoteca-di-Brera.jpg" alt="Pinacoteca di Brera" >}}
+
+Hinter dem Gebäude stoße ich auf den Orto Botanico di Brera einem sehr schönen Garten,
+wo ich mich ein wenig Pause mache und den ersten Blogeintrag aus Mailand zu Ende schreibe.
+
+{{< gallery >}}
+
+	{{< figure caption="Glasmobilee" src="/images/milan/2017-04-09T164020_Glasmobilee.jpg" alt="Glasmobilee" >}}
+
+	{{< figure caption="Blume" src="/images/milan/2017-04-09T164200_Blume.jpg" alt="Blume" >}}
+
+	{{< figure caption="Orto Botanico di Brera" src="/images/milan/2017-04-09T164756_Orto-Botanico-di-Brera.jpg" alt="Orto Botanico di Brera" >}}
+
+{{< /gallery >}}
+
+Von Dario wurde mir empfohlen, auch die Zona Via Tortona zu besuchen.
+
+{{< gallery >}}
+
+	{{< figure caption="Via" src="/images/milan/2017-04-09T171442_Via.jpg" alt="Via" >}}
+
+	{{< figure caption="Via" src="/images/milan/2017-04-09T171545_Via.jpg" alt="Via" >}}
+
+	{{< figure caption="Cinquecento" src="/images/milan/2017-04-09T175446_Cinquecento.jpg" alt="Cinquecento" >}}
+
+
+{{< /gallery >}}
+
+{{< figure caption="Darsena, das einzige Flüsschen in Mailand." src="/images/milan/2017-04-09T180140_Darsena.jpg" alt="Darsena, das einzige Flüsschen in Mailand." >}}
+
+Hier in der Zona Tortona wird auch wieder jede Menge Design und Kunst geboten.
+Ich besuche das Base Milano, ein Kulturzentrum, und Museo delle Culture - Mudec, wobei ich hier nur
+
+
+{{< gallery >}}
+
+	{{< figure caption="Blumenlampe" src="/images/milan/2017-04-09T181509_Blumenlampe.jpg" alt="Blumenlampe" >}}
+
+	{{< figure caption="Sofa" src="/images/milan/2017-04-09T181700_Sofa.jpg" alt="Sofa" >}}
+
+	{{< figure caption="Museo delle Culture" src="/images/milan/2017-04-09T183717_Museo-delle-Culture.jpg" alt="Museo delle Culture" >}}
+
+{{< /gallery >}}
+
+Zu meinem Abendessen und auf dem Rückweg habe ich wirklich noch ein paar schöne Abendstunden.
+
+{{< figure caption="Via Vigevano" src="/images/milan/2017-04-09T190700_Via-Vigevano.jpg" alt="Via Vigevano" >}}
+
+Ich habe mich entschieden den gesamten Weg zu Fuß zurück zu laufen,
+was ich auch nicht bereue,
+da ich so nochmal am Wasser und der Linea Traghetti Gaggiano Milano vorbei gekommen bin.
+Die Stunde Fußmarsch danach würde ich aber wohl nicht nochmal auf mich nehmen.
+Bei dem Gelaufe erinnere mich natürlich sofort an den Urlaub an der Ostküste letzten Sommer,
+zum Beispiel in [New York](/categories/new-york/)...
+
+{{< gallery >}}
+
+	{{< figure caption="Porta Genova" src="/images/milan/2017-04-09T190512_Porta-Genova.jpg" alt="Porta Genova" >}}
+
+	{{< figure caption="Tram Abendlicht" src="/images/milan/2017-04-09T190522_Tram-Abendlicht.jpg" alt="Tram Abendlicht" >}}
+
+  {{< figure caption="Linea Traghetti Gaggiano Milano" src="/images/milan/2017-04-09T201325_Linea-Traghetti-Gaggiano-Milano.jpg" alt="Linea Traghetti Gaggiano Milano" >}}
+
+{{< /gallery >}}
