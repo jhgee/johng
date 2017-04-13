@@ -1,6 +1,6 @@
 +++
 date = "2017-04-11"
-draft = true
+draft = false
 title = "Mailand mit Laila"
 image = "milan/2017-04-11T151211_Galleria-Vittorio-Emanuele-II-Die-Mutter-aller-Einkaufsgalerien.jpg"
 categories = ["Italy", "Milan"]
