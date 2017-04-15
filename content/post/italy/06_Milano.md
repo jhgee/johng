@@ -8,7 +8,7 @@ categories = ["Italy", "Milan"]
 
 {{< load-photoswipe >}}
 
-Zu Meiner großen Freude bekommt mich Laila in Mailand besuchen.
+Zu Meiner großen Freude kommt mich Laila in Mailand besuchen.
 Zusammen gehen wir nochmal durch die Stadt und sehen natürlich viele Ecken,
 die ich bis jetzt noch nicht gesehen habe.
 
