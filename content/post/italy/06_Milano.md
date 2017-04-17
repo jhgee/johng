@@ -1,7 +1,7 @@
 +++
 date = "2017-04-11"
 draft = false
-title = "Mailand mit Besuch"
+title = "Mailand mit dem besten Besuch"
 image = "milan/2017-04-11T151211_Galleria-Vittorio-Emanuele-II-Die-Mutter-aller-Einkaufsgalerien.jpg"
 categories = ["Italy", "Milan"]
 +++
