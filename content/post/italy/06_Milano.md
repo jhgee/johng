@@ -1,14 +1,14 @@
 +++
 date = "2017-04-11"
 draft = false
-title = "Mailand mit Laila"
+title = "Mailand mit Besuch"
 image = "milan/2017-04-11T151211_Galleria-Vittorio-Emanuele-II-Die-Mutter-aller-Einkaufsgalerien.jpg"
 categories = ["Italy", "Milan"]
 +++
 
 {{< load-photoswipe >}}
 
-Zu Meiner großen Freude kommt mich Laila in Mailand besuchen.
+Zu Meiner großen Freude kommt mich L in Mailand besuchen.
 Zusammen gehen wir nochmal durch die Stadt und sehen natürlich viele Ecken,
 die ich bis jetzt noch nicht gesehen habe.
 
