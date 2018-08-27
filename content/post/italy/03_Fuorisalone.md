@@ -12,6 +12,7 @@ Diese Woche ist in Mailand die große Desginerwoche [Fuorisalone](https://fuoris
 rund um die Möbelmesse [Salone del Mobile](https://www.salonemilano.it/).
 Es gibt in der gesamten Stadt viele Ausstellungen, Events und andere Dinge zu sehen.
 
+
 # Samstag
 
 Ich nutze die Gelegenheit, mir die Stadt anzugucken
