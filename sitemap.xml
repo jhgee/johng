@@ -1,224 +1,231 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://johng.de/post/italy/06_Milano/</loc>
+    <loc>https://johng.de/post/italy/06_milano/</loc>
     <lastmod>2017-04-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://johng.de/post/italy/03_Fuorisalone/</loc>
+    <loc>https://johng.de/post/italy/03_fuorisalone/</loc>
     <lastmod>2017-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://johng.de/post/italy/01_Ankunft/</loc>
+    <loc>https://johng.de/post/italy/01_ankunft/</loc>
     <lastmod>2017-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://johng.de/post/usa-2016/Ausruestung/</loc>
+    <loc>https://johng.de/post/usa-2016/ausruestung/</loc>
     <lastmod>2016-09-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://johng.de/post/usa-2016/38_Blue-Ridge-Parkway/</loc>
+    <loc>https://johng.de/post/usa-2016/38_blue-ridge-parkway/</loc>
     <lastmod>2016-09-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://johng.de/post/usa-2016/37-38_Twisted-Falls/</loc>
+    <loc>https://johng.de/post/usa-2016/37-38_twisted-falls/</loc>
     <lastmod>2016-09-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://johng.de/post/usa-2016/36-37_McAfee-Knob/</loc>
+    <loc>https://johng.de/post/usa-2016/36-37_mcafee-knob/</loc>
     <lastmod>2016-09-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://johng.de/post/usa-2016/34-35_Skyline-Drive/</loc>
+    <loc>https://johng.de/post/usa-2016/34-35_skyline-drive/</loc>
     <lastmod>2016-09-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://johng.de/post/usa-2016/33-34_Washington-DC/</loc>
+    <loc>https://johng.de/post/usa-2016/33-34_washington-dc/</loc>
     <lastmod>2016-09-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://johng.de/post/usa-2016/29-33_Shenandoah-National-Park/</loc>
+    <loc>https://johng.de/post/usa-2016/29-33_shenandoah-national-park/</loc>
     <lastmod>2016-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://johng.de/post/usa-2016/20-28_East-Lansing/</loc>
+    <loc>https://johng.de/post/usa-2016/20-28_east-lansing/</loc>
     <lastmod>2016-09-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://johng.de/post/usa-2016/16-20_Picture-Rocks-Roadtrip/</loc>
+    <loc>https://johng.de/post/usa-2016/16-20_picture-rocks-roadtrip/</loc>
     <lastmod>2016-08-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://johng.de/post/usa-2016/13-Washington-DC/</loc>
+    <loc>https://johng.de/post/usa-2016/13-washington-dc/</loc>
     <lastmod>2016-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://johng.de/post/usa-2016/12-fahrt-nach-dc/</loc>
+    <loc>https://johng.de/post/usa-2016/12-fahrt-nach-dc/</loc>
     <lastmod>2016-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://johng.de/post/usa-2016/11-stadtviertel/</loc>
+    <loc>https://johng.de/post/usa-2016/11-stadtviertel/</loc>
     <lastmod>2016-08-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://johng.de/post/usa-2016/10-met/</loc>
+    <loc>https://johng.de/post/usa-2016/10-met/</loc>
     <lastmod>2016-08-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://johng.de/post/usa-2016/09-amnh/</loc>
+    <loc>https://johng.de/post/usa-2016/09-amnh/</loc>
     <lastmod>2016-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://johng.de/post/usa-2016/08-downtown/</loc>
+    <loc>https://johng.de/post/usa-2016/08-downtown/</loc>
     <lastmod>2016-08-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://johng.de/post/usa-2016/07-midtown/</loc>
+    <loc>https://johng.de/post/usa-2016/07-midtown/</loc>
     <lastmod>2016-08-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://johng.de/post/usa-2016/06-fahrt-nach-nyc/</loc>
+    <loc>https://johng.de/post/usa-2016/06-fahrt-nach-nyc/</loc>
     <lastmod>2016-08-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://johng.de/post/usa-2016/05-boston-vom-wasser/</loc>
+    <loc>https://johng.de/post/usa-2016/05-boston-vom-wasser/</loc>
     <lastmod>2016-08-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://johng.de/post/usa-2016/04-cape-cod/</loc>
+    <loc>https://johng.de/post/usa-2016/04-cape-cod/</loc>
     <lastmod>2016-08-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://johng.de/post/usa-2016/03-ankunft-boston/</loc>
+    <loc>https://johng.de/post/usa-2016/03-ankunft-boston/</loc>
     <lastmod>2016-08-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://johng.de/post/usa-2016/02-abflug/</loc>
+    <loc>https://johng.de/post/usa-2016/02-abflug/</loc>
     <lastmod>2016-08-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://johng.de/post/usa-2016/01-essen/</loc>
+    <loc>https://johng.de/post/usa-2016/01-essen/</loc>
     <lastmod>2016-08-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://johng.de/post/muenchen/muenchen-am-sonntag/</loc>
+    <loc>https://johng.de/post/muenchen/muenchen-am-sonntag/</loc>
     <lastmod>2016-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://johng.de/post/muenchen/tegernsee/</loc>
+    <loc>https://johng.de/post/muenchen/tegernsee/</loc>
     <lastmod>2016-08-06T13:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://johng.de/post/muenchen/deutsches-museum/</loc>
+    <loc>https://johng.de/post/muenchen/deutsches-museum/</loc>
     <lastmod>2016-08-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://johng.de/post/muenchen/muenchen/</loc>
+    <loc>https://johng.de/post/muenchen/muenchen/</loc>
     <lastmod>2016-08-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://johng.de/categories/boston/</loc>
+    <loc>https://johng.de/categories/boston/</loc>
     <lastmod>2016-08-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://johng.de/categories/</loc>
+    <loc>https://johng.de/categories/</loc>
+    <lastmod>2016-08-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://johng.de/categories/italy/</loc>
+    <loc>https://johng.de/categories/italy/</loc>
     <lastmod>2017-04-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://johng.de/</loc>
+    <loc>https://johng.de/</loc>
     <lastmod>2017-04-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://johng.de/categories/michigan/</loc>
+    <loc>https://johng.de/categories/michigan/</loc>
     <lastmod>2016-09-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://johng.de/categories/milan/</loc>
+    <loc>https://johng.de/categories/milan/</loc>
     <lastmod>2017-04-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://johng.de/categories/m%C3%BCnchen/</loc>
+    <loc>https://johng.de/categories/m%C3%BCnchen/</loc>
     <lastmod>2016-08-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://johng.de/categories/new-york/</loc>
+    <loc>https://johng.de/categories/new-york/</loc>
     <lastmod>2016-08-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://johng.de/post/</loc>
+    <loc>https://johng.de/post/</loc>
     <lastmod>2017-04-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://johng.de/categories/tennessee/</loc>
+    <loc>https://johng.de/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johng.de/categories/tennessee/</loc>
     <lastmod>2016-09-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://johng.de/categories/usa-2016/</loc>
+    <loc>https://johng.de/categories/usa-2016/</loc>
     <lastmod>2016-09-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://johng.de/categories/virginia/</loc>
+    <loc>https://johng.de/categories/virginia/</loc>
     <lastmod>2016-09-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://johng.de/categories/washington-dc/</loc>
+    <loc>https://johng.de/categories/washington-dc/</loc>
     <lastmod>2016-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
