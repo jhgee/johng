@@ -14,8 +14,7 @@ Wanderausrüstung aussieht.
 
 ![Ausrüstung](/images/2016-09-15_Equipment.jpg)
 
-So sieht mein Gepäck für eine
-Mehrtageswanderung aus.
+So sieht mein Gepäck für eine Mehrtageswanderung aus.
 
 ## Schlafen
 
