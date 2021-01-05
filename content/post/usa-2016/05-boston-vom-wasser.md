@@ -112,7 +112,7 @@ Ich musste mich erstmal
 ein wenig an das Land, die Zeitzone und den Reise Modus gewöhnen. Mit dem Wetter
 hatten wir im Prinzip Glück.
 Der Regen und die extreme Schwüle sind jedoch
-eigentlivh ungewöhlich für Boston, sodass wir
+eigentlich ungewöhlich für Boston, sodass wir
 in der Hinsicht ein wenig Pech hatten.
 Der Roadtrip zum Cape Cod war super und
 dazu eine tolle Möglichkeit aus der Stadt
