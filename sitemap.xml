@@ -1,9 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://johng.de/categories/</loc>
+    <lastmod>2017-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://johng.de/categories/italy/</loc>
+    <lastmod>2017-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://johng.de/</loc>
+    <lastmod>2017-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://johng.de/post/italy/06_milano/</loc>
+    <lastmod>2017-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://johng.de/categories/milan/</loc>
+    <lastmod>2017-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://johng.de/post/</loc>
     <lastmod>2017-04-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,6 +53,21 @@
   </url>
   
   <url>
+    <loc>https://johng.de/categories/usa-2016/</loc>
+    <lastmod>2016-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://johng.de/categories/virginia/</loc>
+    <lastmod>2016-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://johng.de/categories/tennessee/</loc>
+    <lastmod>2016-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://johng.de/post/usa-2016/37-38_twisted-falls/</loc>
     <lastmod>2016-09-14T00:00:00+00:00</lastmod>
   </url>
@@ -48,12 +88,22 @@
   </url>
   
   <url>
+    <loc>https://johng.de/categories/washington-dc/</loc>
+    <lastmod>2016-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://johng.de/post/usa-2016/29-33_shenandoah-national-park/</loc>
     <lastmod>2016-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://johng.de/post/usa-2016/20-28_east-lansing/</loc>
+    <lastmod>2016-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://johng.de/categories/michigan/</loc>
     <lastmod>2016-09-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -69,6 +119,11 @@
   
   <url>
     <loc>https://johng.de/post/usa-2016/12-fahrt-nach-dc/</loc>
+    <lastmod>2016-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://johng.de/categories/new-york/</loc>
     <lastmod>2016-08-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -103,6 +158,11 @@
   </url>
   
   <url>
+    <loc>https://johng.de/categories/boston/</loc>
+    <lastmod>2016-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://johng.de/post/usa-2016/05-boston-vom-wasser/</loc>
     <lastmod>2016-08-12T00:00:00+00:00</lastmod>
   </url>
@@ -128,6 +188,11 @@
   </url>
   
   <url>
+    <loc>https://johng.de/categories/m%C3%BCnchen/</loc>
+    <lastmod>2016-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://johng.de/post/muenchen/muenchen-am-sonntag/</loc>
     <lastmod>2016-08-07T00:00:00+00:00</lastmod>
   </url>
@@ -148,86 +213,7 @@
   </url>
   
   <url>
-    <loc>https://johng.de/categories/boston/</loc>
-    <lastmod>2016-08-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johng.de/categories/</loc>
-    <lastmod>2016-08-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johng.de/categories/italy/</loc>
-    <lastmod>2017-04-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johng.de/</loc>
-    <lastmod>2017-04-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johng.de/categories/michigan/</loc>
-    <lastmod>2016-09-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johng.de/categories/milan/</loc>
-    <lastmod>2017-04-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johng.de/categories/m%C3%BCnchen/</loc>
-    <lastmod>2016-08-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johng.de/categories/new-york/</loc>
-    <lastmod>2016-08-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johng.de/post/</loc>
-    <lastmod>2017-04-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://johng.de/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johng.de/categories/tennessee/</loc>
-    <lastmod>2016-09-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johng.de/categories/usa-2016/</loc>
-    <lastmod>2016-09-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johng.de/categories/virginia/</loc>
-    <lastmod>2016-09-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://johng.de/categories/washington-dc/</loc>
-    <lastmod>2016-09-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>

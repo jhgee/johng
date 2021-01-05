@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Boston on John&#39;s Travel Blog</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Boston on John&#39;s Travel Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 12 Aug 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://johng.de/categories/boston/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 12 Aug 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://johng.de/categories/boston/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Boston vom Wasser</title>
       <link>https://johng.de/post/usa-2016/05-boston-vom-wasser/</link>

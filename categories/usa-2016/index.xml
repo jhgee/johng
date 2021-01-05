@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Usa 2016 on John&#39;s Travel Blog</title>
+    <title>USA 2016 on John&#39;s Travel Blog</title>
     <link>https://johng.de/categories/usa-2016/</link>
-    <description>Recent content in Usa 2016 on John&#39;s Travel Blog</description>
+    <description>Recent content in USA 2016 on John&#39;s Travel Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Thu, 15 Sep 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://johng.de/categories/usa-2016/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 15 Sep 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://johng.de/categories/usa-2016/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ausrüstung</title>
       <link>https://johng.de/post/usa-2016/ausruestung/</link>

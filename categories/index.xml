@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on John&#39;s Travel Blog</title>
@@ -6,35 +6,13 @@
     <description>Recent content in Categories on John&#39;s Travel Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 12 Aug 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://johng.de/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Boston</title>
-      <link>https://johng.de/categories/boston/</link>
-      <pubDate>Fri, 12 Aug 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://johng.de/categories/boston/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 11 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://johng.de/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Italy</title>
       <link>https://johng.de/categories/italy/</link>
       <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://johng.de/categories/italy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Michigan</title>
-      <link>https://johng.de/categories/michigan/</link>
-      <pubDate>Sun, 04 Sep 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://johng.de/categories/michigan/</guid>
       <description></description>
     </item>
     
@@ -48,34 +26,7 @@
     </item>
     
     <item>
-      <title>München</title>
-      <link>https://johng.de/categories/m%C3%BCnchen/</link>
-      <pubDate>Sun, 07 Aug 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://johng.de/categories/m%C3%BCnchen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New York</title>
-      <link>https://johng.de/categories/new-york/</link>
-      <pubDate>Fri, 19 Aug 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://johng.de/categories/new-york/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tennessee</title>
-      <link>https://johng.de/categories/tennessee/</link>
-      <pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://johng.de/categories/tennessee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Usa 2016</title>
+      <title>USA 2016</title>
       <link>https://johng.de/categories/usa-2016/</link>
       <pubDate>Thu, 15 Sep 2016 00:00:00 +0000</pubDate>
       
@@ -93,11 +44,56 @@
     </item>
     
     <item>
-      <title>Washington Dc</title>
+      <title>Tennessee</title>
+      <link>https://johng.de/categories/tennessee/</link>
+      <pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johng.de/categories/tennessee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Washington DC</title>
       <link>https://johng.de/categories/washington-dc/</link>
       <pubDate>Sat, 10 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>https://johng.de/categories/washington-dc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michigan</title>
+      <link>https://johng.de/categories/michigan/</link>
+      <pubDate>Sun, 04 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johng.de/categories/michigan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New York</title>
+      <link>https://johng.de/categories/new-york/</link>
+      <pubDate>Fri, 19 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johng.de/categories/new-york/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boston</title>
+      <link>https://johng.de/categories/boston/</link>
+      <pubDate>Fri, 12 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johng.de/categories/boston/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>München</title>
+      <link>https://johng.de/categories/m%C3%BCnchen/</link>
+      <pubDate>Sun, 07 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://johng.de/categories/m%C3%BCnchen/</guid>
       <description></description>
     </item>
     
